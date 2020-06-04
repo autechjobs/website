@@ -3,7 +3,7 @@
     "header": {
         "title": "AU Tech Jobs",
         "logo_img": "images/charming-spinach.jpg",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
