@@ -1,5 +1,5 @@
 ---
-title: Home
+title: AU Tech Jobs
 sections:
   - section_id: hero
     type: section_hero
