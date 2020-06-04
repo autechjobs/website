@@ -3,7 +3,7 @@ title: AU Tech Jobs
 sections:
   - section_id: hero
     type: section_hero
-    image: images/AU Tech Jobs (1).jpg
+    image: images/10.jpg
     title: Liberating Job Search
     content: >-
       AU tech jobs is a job aggregator system for tech jobs in AU mainly focused
