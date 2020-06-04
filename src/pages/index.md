@@ -6,8 +6,8 @@ sections:
     image: images/hero.png
     title: Liberating Job Search
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      AU tech jobs is a job aggregator system for tech jobs in AU mainly focused
+      on companies that provide work visa sponsorship.
     actions:
       - label: Learn More
         url: /features
