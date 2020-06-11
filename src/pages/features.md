@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/12.jpg
     title: Features to help you
     content: |-
       Find all the jobs you want to apply for at one place.
