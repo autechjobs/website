@@ -17,7 +17,7 @@ sections:
           - label: Subscribe Now
             url: /signup
         highlight: false
-      - title: Professional
+      - title: Gold
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
