@@ -44,9 +44,5 @@ sections:
         actions:
           - label: Learn More
             url: /features
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 template: landing
 ---
