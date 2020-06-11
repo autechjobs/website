@@ -26,16 +26,6 @@ sections:
         actions:
           - label: Order Now
             url: /signup
-      - title: Enterprise
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
-        actions:
-          - label: Order Now
-            url: /signup
   - section_id: faq
     type: section_faq
     background: gray
