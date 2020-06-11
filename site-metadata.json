@@ -19,7 +19,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "/signup",
+                "url": "https://auth.autechjobs.ml/login",
                 "primary": true
             }
         ]
