@@ -20,11 +20,8 @@ sections:
       - title: Gold
         price: $49/m
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * Follow companies you like
+          * All in Silver
         highlight: true
         actions:
           - label: Order Now
