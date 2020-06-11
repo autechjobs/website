@@ -1,8 +1,8 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Find all the tech jobs in AU at one place, with a focus on work visa
+  sponsorship.
 image: images/about.jpg
 template: page
 ---
