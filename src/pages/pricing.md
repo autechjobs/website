@@ -10,10 +10,9 @@ sections:
       - title: Basic
         price: $5/m
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * Get jobs from 30+ companies
+          * Know which companies are known to sponsor work visa
+          * Search Jobs for keywords
         actions:
           - label: Order Now
             url: /signup
