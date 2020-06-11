@@ -24,7 +24,7 @@ sections:
           * All in Silver
         highlight: true
         actions:
-          - label: Order Now
+          - label: Subscribe Now
             url: /signup
   - section_id: faq
     type: section_faq
