@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Silver
-        price: $5/m
+        price: $10/m
         details: |-
           * Get jobs from 30+ companies
           * Know which companies are known to sponsor work visa
