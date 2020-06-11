@@ -19,10 +19,10 @@ sections:
     features:
       - title: The Best Feature of Your Services
         image: images/12.jpg
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |-
+          Find all the jobs you want to apply for at one place.
+          * Never miss a job from a company you admire.
+          * Get updated when a job is posted for a keyword you follow.
         actions:
           - label: Learn More
             url: /features
