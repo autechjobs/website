@@ -14,7 +14,7 @@ sections:
           * Know which companies are known to sponsor work visa
           * Search Jobs for keywords
         actions:
-          - label: Order Now
+          - label: Subscribe Now
             url: /signup
         highlight: false
       - title: Professional
