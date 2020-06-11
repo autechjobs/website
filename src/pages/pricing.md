@@ -16,7 +16,7 @@ sections:
         actions:
           - label: Order Now
             url: /signup
-        highlight: true
+        highlight: false
       - title: Professional
         price: $49/m
         details: |-
