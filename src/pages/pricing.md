@@ -28,7 +28,7 @@ sections:
             url: /signup
   - section_id: faq
     type: section_faq
-    background: gray
+    background: white
     title: Frequently Asked Questions
     subtitle: Let's answer your questions
     faq_items:
