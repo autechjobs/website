@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - section_id: pricing
     type: section_pricing
-    background: gray
+    background: white
     title: Pricing Plans
     subtitle: You can choose between 2 plans.
     pricing_plans:
