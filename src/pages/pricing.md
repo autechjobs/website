@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: You can choose between 2 plans.
     pricing_plans:
       - title: Silver
         price: $10/m
