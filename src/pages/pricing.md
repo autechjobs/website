@@ -35,11 +35,13 @@ sections:
     faq_items:
       - question: Why should I subscribe to AU Tech Jobs?
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+          It is the only "tech job" focused service that shows you only
+          technology related jobs. On top of it, you can filter jobs by
+          companies know to provide work visa sponsorship.
+
+
+          Other features include the ability to see all the jobs you have
+          applied for and be reminded about it.
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
