@@ -18,7 +18,7 @@ sections:
             url: /signup
         highlight: false
       - title: Gold
-        price: $20/m
+        price: TBD
         details: |-
           * Follow companies you like
           * All in Silver
