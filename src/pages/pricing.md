@@ -23,7 +23,6 @@ sections:
           * All in Silver
           * Save and view jobs you like
           * List of your applied jobs with follow ups
-          * Follow companies you like
         highlight: true
         actions:
           - label: Subscribe Now
