@@ -8,7 +8,7 @@ sections:
     subtitle: You can choose between 2 plans.
     pricing_plans:
       - title: Silver
-        price: $10/m
+        price: TBD
         details: |-
           * Get jobs from 30+ companies
           * Know which companies are known to sponsor work visa
