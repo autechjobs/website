@@ -44,14 +44,5 @@ sections:
           applied for and be reminded about it.
       - question: Is there a free plan?
         answer: 'There is no free plan, each plan will have a 14 day trial period.'
-      - question: Sed scelerisque in ipsum eu sollicitudin?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 template: landing
 ---
