@@ -42,7 +42,7 @@ sections:
 
           Other features include the ability to see all the jobs you have
           applied for and be reminded about it.
-      - question: Aliquam eget purus ante?
+      - question: Is there a free plan?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
