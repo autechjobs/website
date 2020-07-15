@@ -43,10 +43,7 @@ sections:
           Other features include the ability to see all the jobs you have
           applied for and be reminded about it.
       - question: Is there a free plan?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
+        answer: 'There is no free plan, each plan will have a 14 day trial period.'
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
