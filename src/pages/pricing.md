@@ -19,9 +19,11 @@ sections:
         highlight: false
       - title: Gold
         price: TBD
-        details: |-
-          * Follow companies you like
+        details: |
           * All in Silver
+          * Save and view jobs you like
+          * List of your applied jobs with follow ups
+          * Follow companies you like
         highlight: true
         actions:
           - label: Subscribe Now
