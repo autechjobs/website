@@ -6,8 +6,12 @@ sections:
     image: images/10.jpg
     title: Liberating Job Search
     content: >-
-      AU tech jobs is a job aggregator system for tech jobs in AU mainly focused
-      on companies that provide work visa sponsorship.
+      Hey there! Searching for a tech job is like full-time work. AU Tech jobs
+      is your personal assitant to aggregate jobs from 35+ companies and remind
+      you about follow up for applied jobs.
+
+      On top of it, you can filter jobs from companies known to provide work
+      visa sponsorship.
     actions:
       - label: Learn More
         url: /features
