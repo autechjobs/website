@@ -1,8 +1,8 @@
 {
     "palette": "blue",
     "header": {
-        "title": "Azimuth",
-        "logo_img": "images/logo.png",
+        "title": "AU Tech Jobs",
+        "logo_img": "images/autechjobs (2).jpg",
         "has_nav": true,
         "nav_links": [
             {
@@ -18,19 +18,15 @@
                 "url": "/pricing"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide"
-            },
-            {
                 "label": "Sign Up",
-                "url": "/signup",
+                "url": "https://auth.autechjobs.ml/login",
                 "primary": true
             }
         ]
     },
     "footer": {
-        "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
+        "logo_img": "images/autechjobs (1).png",
+        "tagline": "Liberating job search",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
@@ -44,14 +40,14 @@
             },
             {
                 "label": "Sign Up",
-                "url": "signup"
+                "url": "https://auth.autechjobs.ml/login"
             },
             {
                 "label": "Contact",
                 "url": "/contact"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_title": "Community",
         "social_links": [
             {
@@ -70,17 +66,17 @@
                 "new_window": true
             }
         ],
-        "has_subscribe": true,
+        "has_subscribe": false,
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Stackbit. All rights reserved.",
+        "content": "&copy; AuTechJobs. All rights reserved.",
         "links": [
             {
-                "label": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
+                "label": "Go to App",
+                "url": "https://app.autechjobs.ml",
                 "new_window": true
             }
         ]
     },
-    "title": "Stackbit Azimuth Theme"
+    "title": "Au Tech Jobs"
 }

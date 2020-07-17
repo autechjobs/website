@@ -5,66 +5,44 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: You can choose between 2 plans.
     pricing_plans:
-      - title: Basic
-        price: $5/m
+      - title: Silver
+        price: TBD
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * Get jobs from 30+ companies
+          * Know which companies are known to sponsor work visa
+          * Search Jobs for keywords
         actions:
-          - label: Order Now
+          - label: Subscribe Now
             url: /signup
-      - title: Professional
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+        highlight: false
+      - title: Gold
+        price: TBD
+        details: |
+          * All in Silver
+          * Save and view jobs you like
+          * List of your applied jobs with follow ups
         highlight: true
         actions:
-          - label: Order Now
-            url: /signup
-      - title: Enterprise
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
-        actions:
-          - label: Order Now
+          - label: Subscribe Now
             url: /signup
   - section_id: faq
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: Let's answer your questions
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: Why should I subscribe to AU Tech Jobs?
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-      - question: Aliquam eget purus ante?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+          It is the only "tech job" focused service that shows you only
+          technology related jobs. On top of it, you can filter jobs by
+          companies know to provide work visa sponsorship.
+
+
+          Other features include the ability to see all the jobs you have
+          applied for and be reminded about it.
+      - question: Is there a free plan?
+        answer: 'There is no free plan, each plan will have a 14 day trial period.'
 template: landing
 ---
