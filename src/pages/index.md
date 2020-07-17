@@ -6,10 +6,12 @@ sections:
     image: images/10.jpg
     title: Liberating Job Search
     content: >-
-      Searching for a tech job is like full-time work. AU Tech jobs is your
-      personal assistant to get notified about jobs from 35+ companies. Save
-      jobs you like and be reminded to follow up for applied jobs. Get your tech
-      job search sorted! 
+      We understand the difficulty to get that dream job in the tech world
+      especially in this competitive market. We are here to make your search
+      easier, better and faster. Join us and let AU Tech jobs be your personal
+      assistant to get notified about jobs from 35+ companies. Save jobs you
+      like and be reminded to follow up for applied jobs. Get your tech job
+      search sorted!
     actions:
       - label: Learn More
         url: /features
