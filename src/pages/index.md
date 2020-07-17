@@ -6,12 +6,10 @@ sections:
     image: images/10.jpg
     title: Liberating Job Search
     content: >-
-      Hey there! Searching for a tech job is like full-time work. AU Tech jobs
-      is your personal assistant to aggregate jobs from 35+ companies and remind
-      you about follow up for applied jobs.
-
-      On top of it, you can filter for jobs from companies known to provide work
-      visa sponsorship.
+      Searching for a tech job is like full-time work. AU Tech jobs is your
+      personal assistant to get notified about jobs from 35+ companies. Save
+      jobs you like and get reminded to follow up for applied jobs. Get your
+      tech job search sorted! 
     actions:
       - label: Learn More
         url: /features
