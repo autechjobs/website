@@ -8,8 +8,8 @@ sections:
     content: >-
       Searching for a tech job is like full-time work. AU Tech jobs is your
       personal assistant to get notified about jobs from 35+ companies. Save
-      jobs you like and get reminded to follow up for applied jobs. Get your
-      tech job search sorted! 
+      jobs you like and be reminded to follow up for applied jobs. Get your tech
+      job search sorted! 
     actions:
       - label: Learn More
         url: /features
