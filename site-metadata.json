@@ -61,6 +61,13 @@
                 "url": "https://www.linkedin.com/company/autechjobs",
                 "new_window": true,
                 "primary": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "primary": false,
+                "new_window": true,
+                "type": "action"
             }
         ],
         "has_subscribe": false,
