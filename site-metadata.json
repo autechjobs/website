@@ -27,7 +27,7 @@
     "footer": {
         "logo_img": "images/autechjobs-200-white.png",
         "tagline": "Liberating job search",
-        "has_nav": true,
+        "has_nav": false,
         "nav_title": "Company",
         "nav_links": [
             {
