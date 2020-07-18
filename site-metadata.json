@@ -70,8 +70,15 @@
         "links": [
             {
                 "label": "Go to App",
-                "url": "https://app.autechjobs.ml",
+                "url": "https://auth.autechjobs.ml",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "primary": false,
+                "new_window": true,
+                "type": "action"
             }
         ]
     },
