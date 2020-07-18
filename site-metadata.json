@@ -54,7 +54,7 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/au_tech_jobs",
                 "new_window": true,
-                "primary": true
+                "primary": false
             },
             {
                 "label": "Instagram",
