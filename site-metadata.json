@@ -2,7 +2,7 @@
     "palette": "blue",
     "header": {
         "title": "AU Tech Jobs",
-        "logo_img": "images/autechjobs (2).jpg",
+        "logo_img": "images/autechjobs-200.jpg",
         "has_nav": true,
         "nav_links": [
             {
@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "logo_img": "images/autechjobs (1).png",
+        "logo_img": "images/autechjobs-200-white.png",
         "tagline": "Liberating job search",
         "has_nav": true,
         "nav_title": "Company",
@@ -47,33 +47,30 @@
                 "url": "/contact"
             }
         ],
-        "has_social": false,
+        "has_social": true,
         "social_title": "Community",
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "new_window": true
+                "url": "https://twitter.com/au_tech_jobs",
+                "new_window": true,
+                "primary": false
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "new_window": true
+                "url": "https://www.linkedin.com/company/autechjobs",
+                "new_window": true,
+                "primary": true
             }
         ],
-        "has_subscribe": false,
+        "has_subscribe": true,
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
         "content": "&copy; AuTechJobs. All rights reserved.",
         "links": [
             {
                 "label": "Go to App",
-                "url": "https://app.autechjobs.ml",
+                "url": "https://auth.autechjobs.ml",
                 "new_window": true
             }
         ]
