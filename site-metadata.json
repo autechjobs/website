@@ -59,7 +59,8 @@
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/company/autechjobs",
-                "new_window": true
+                "new_window": true,
+                "primary": true
             }
         ],
         "has_subscribe": false,
