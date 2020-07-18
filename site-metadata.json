@@ -63,7 +63,7 @@
                 "primary": true
             }
         ],
-        "has_subscribe": false,
+        "has_subscribe": true,
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
         "content": "&copy; AuTechJobs. All rights reserved.",
