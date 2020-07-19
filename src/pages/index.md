@@ -30,5 +30,6 @@ sections:
         actions:
           - label: Learn More
             url: /features
+            primary: true
 template: landing
 ---
