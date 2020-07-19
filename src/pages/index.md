@@ -21,7 +21,7 @@ sections:
     title: Features
     subtitle: Some features
     features:
-      - title: The Best Feature of Your Services
+      - title: Some Features
         image: images/12.jpg
         content: |-
           Find all the jobs you want to apply for at one place.
