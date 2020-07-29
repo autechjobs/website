@@ -19,7 +19,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Some features
+    subtitle: 'Important features to keep you '
     features:
       - title: Some Features
         image: images/12.jpg
