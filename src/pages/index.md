@@ -19,7 +19,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: 'Important features to keep you '
+    subtitle: Important features to keep your tech job search sorted.
     features:
       - title: Some Features
         image: images/12.jpg
