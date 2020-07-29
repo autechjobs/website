@@ -22,7 +22,7 @@ sections:
     subtitle: Important features to keep your tech job search sorted.
     features:
       - title: Some Features
-        image: images/10.jpg
+        image: images/12.jpg
         content: |-
           Find all the jobs you want to apply for at one place.
           * Summary of all jobs so that you don't need to read the whole JD 
