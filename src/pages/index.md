@@ -19,14 +19,16 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Some features
+    subtitle: Important features to keep your tech job search sorted.
     features:
       - title: Some Features
-        image: images/12.jpg
+        image: images/10.jpg
         content: |-
           Find all the jobs you want to apply for at one place.
-          * Never miss a job from a company you admire.
-          * Get updated when a job is posted for a keyword you follow.
+          * Summary of all jobs so that you don't need to read the whole JD 
+          * Save jobs you like to apply later
+          * Have a list of applied jobs and get pinged to follow up on them
+          ...
         actions:
           - label: Learn More
             url: /features
