@@ -3,7 +3,7 @@ title: AU Tech Jobs
 sections:
   - section_id: hero
     type: section_hero
-    image: images/andrew-neel-cckf4TsHAuw-unsplash.jpg
+    image: images/au-tech-jobs-search.jpg
     title: Liberating Job Search!
     content: >-
       We understand the difficulty to get that dream job in the tech world
