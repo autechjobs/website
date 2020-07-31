@@ -35,10 +35,6 @@
                 "url": "/about"
             },
             {
-                "label": "Blog",
-                "url": "/blog"
-            },
-            {
                 "label": "Sign Up",
                 "url": "https://auth.autechjobs.ml/login"
             },
@@ -66,7 +62,7 @@
         "has_subscribe": true,
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; AuTechJobs. All rights reserved.",
+        "content": "&copy; AU Tech Jobs. All rights reserved.",
         "links": [
             {
                 "label": "Go to App",
