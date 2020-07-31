@@ -35,10 +35,6 @@
                 "url": "/about"
             },
             {
-                "label": "Blog",
-                "url": "/blog"
-            },
-            {
                 "label": "Sign Up",
                 "url": "https://auth.autechjobs.ml/login"
             },
