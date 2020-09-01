@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/au-tech-jobs-search.jpg
-    title: Liberating Job Search!
+    title: Liberating Job Search!!
     content: >-
       We understand the difficulty to get that dream job in the tech world
       especially in this competitive market. We are here to make your search
