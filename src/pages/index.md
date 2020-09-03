@@ -16,7 +16,7 @@ sections:
       through our growing list of 35 plus companies to toggle options like visa
       sponsoring tech job vacancies in Australia. Get sorted with AU Tech jobs!
     actions:
-      - label: Learn More
+      - label: Sign Up
         url: /features
   - section_id: features
     type: section_features
