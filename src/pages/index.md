@@ -8,7 +8,7 @@ sections:
     content: >-
       Looking for a career launch or the next dream job? We understand your
       hustle to land that ideal tech job in Australia, we are here to simplify
-      your hassle. Join Au tech jobs now and make your search easier, better and
+      your hassle. Join AU Tech jobs now and make your search easier, better and
       faster.
 
 
