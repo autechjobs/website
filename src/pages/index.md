@@ -6,14 +6,15 @@ sections:
     image: images/au-tech-jobs-search.jpg
     title: Liberating Job Search!
     content: >-
-      We understand the difficulty to get that dream job in the tech world
-      especially in this competitive market. We are here to make your search
-      easier, better and faster. 
+      Looking for a career launch or the next dream job? We understand your
+      hustle to land that ideal tech job in Australia, we are here to simplify
+      your hassle. Join Au tech jobs now and make your search easier, better and
+      faster.
 
 
-      Join us and let AU Tech jobs be your personal assistant to get notified
-      about jobs from 35+ companies. Save jobs you like and be reminded to
-      follow up for applied jobs. Get your tech job search sorted!
+      Australia’s tech industry is ever expanding and competitive. Navigate
+      through our growing list of 35 plus companies to toggle options like visa
+      sponsoring tech job vacancies in Australia. Get sorted with AU Tech jobs!
     actions:
       - label: Learn More
         url: /features
