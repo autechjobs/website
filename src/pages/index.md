@@ -26,12 +26,18 @@ sections:
     features:
       - title: Some Features
         image: images/12.jpg
-        content: |-
+        content: >
           Find all the jobs you want to apply for at one place.
-          * Summary of all jobs so that you don't need to read the whole JD 
-          * Save jobs you like to apply later
-          * Have a list of applied jobs and get pinged to follow up on them
-          ...
+
+
+          * Browse existing and upcoming IT job vacancies in Australia as new
+          jobs are updated
+
+          * Summarized job descriptions to save your time 
+
+          * Save your favourite jobs to apply for later
+
+          * Personalized list of applied jobs with follow up dates
         actions:
           - label: Learn More
             url: /features
