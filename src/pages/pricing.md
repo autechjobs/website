@@ -20,9 +20,9 @@ sections:
       - title: Gold
         price: TBD
         details: |
-          * All in Silver
-          * Save and view jobs you like
-          * List of your applied jobs with follow ups
+          * Everything in silver, plus
+          * Create your own list of jobs to save and apply
+          * Custom reminders to update / follow up on applied jobs
         highlight: true
         actions:
           - label: Subscribe Now
