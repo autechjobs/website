@@ -18,6 +18,7 @@ sections:
     actions:
       - label: Sign Up
         url: 'https://app.autechjobs.ml'
+        primary: true
   - section_id: features
     type: section_features
     background: gray
