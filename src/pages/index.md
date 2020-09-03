@@ -17,7 +17,7 @@ sections:
       sponsoring tech job vacancies in Australia. Get sorted with AU Tech jobs!
     actions:
       - label: Sign Up
-        url: /features
+        url: 'https://app.autechjobs.ml'
   - section_id: features
     type: section_features
     background: gray
