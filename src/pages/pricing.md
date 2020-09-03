@@ -9,10 +9,10 @@ sections:
     pricing_plans:
       - title: Silver
         price: TBD
-        details: |-
-          * Get jobs from 30+ companies
-          * Know which companies are known to sponsor work visa
-          * Search Jobs for keywords
+        details: |
+          * View job vacancies in tech companies around Australia
+          * Access to view visa sponsoring companies
+          * Search jobs based on specific keywords
         actions:
           - label: Subscribe Now
             url: /signup
