@@ -60,7 +60,7 @@
             },
             {
                 "label": "Facebook",
-                "url": "lorem-ipsum",
+                "url": "https://www.facebook.com/autechjobs",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
