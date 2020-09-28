@@ -1,4 +1,4 @@
----	
-title: Blog	
-template: blog	
+---
+title: Blog
+template: blog
 ---
