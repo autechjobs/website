@@ -39,6 +39,13 @@
                 "url": "https://auth.autechjobs.ml/login"
             },
             {
+                "label": "Blog",
+                "url": "/blog",
+                "primary": false,
+                "new_window": true,
+                "type": "action"
+            },
+            {
                 "label": "Contact",
                 "url": "/contact"
             }
@@ -47,16 +54,23 @@
         "social_title": "Community",
         "social_links": [
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/company/autechjobs",
+                "new_window": true,
+                "primary": true
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/au_tech_jobs",
                 "new_window": true,
                 "primary": false
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/company/autechjobs",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/autechjobs",
+                "primary": false,
                 "new_window": true,
-                "primary": true
+                "type": "action"
             }
         ],
         "has_subscribe": false,
