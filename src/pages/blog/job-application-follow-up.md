@@ -47,7 +47,7 @@ You’ ll have to work carefully around phone calls to see if the company entert
 
 Whatever way you choose to follow up, here are some helpful guidelines that you can follow:
 
-* Start with an inviting subject/introduction  like "Looking forward to the opportunity of  --------(position)". 
+* Start with an inviting subject/introduction  like "Looking forward to the opportunity of  (position)". 
 * End your message by thanking the manager/recruiter for their time and consideration
 
 
