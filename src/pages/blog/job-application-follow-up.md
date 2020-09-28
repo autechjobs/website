@@ -1,6 +1,6 @@
 ---
 title: How to follow up on TECH job applications without sounding needy
-subtitle: lorem-ipsum
+subtitle: Job application follow up tips
 date: '2020-09-28'
 excerpt: >-
   ## Lorem ipsum
