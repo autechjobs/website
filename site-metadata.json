@@ -44,7 +44,7 @@
             },
             {
                 "label": "Blog",
-                "url": "lorem-ipsum",
+                "url": "/blog",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
