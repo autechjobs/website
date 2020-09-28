@@ -1,54 +1,27 @@
 ---
-title: How to follow up on jobs you have applied for
+title: The Advantages and Disadvantages of Working from Home
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
-author: src/data/authors/ansubha-manandhar.yaml
+author: src/data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/9_thumb.jpg
 image: images/9.jpg
 template: post
 ---
-When competition for a job cranks up, standing out from the rest can be a challenge.What can you do to ensure that your resume lands right into the hands of the recruiter? Hiring managers are generally processing through a flood of resumes to find the right candidate. A job application follow up can be a valuable tool that not many applicants use. If done right, it can build contact and possibly land the job or it could end up costing you. Here is how sensitively craft a follow up communication without sounding too pushy.
 
-## When to follow up
+**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
 
-Follow up is like travelling to an unknown territory.It can be awkward and demanding. You don't want to risk being aggressive but you still want to reinforce your enthusiasm over the position. Research says that some recruiters find job applicants  “needy” if they see the same name twice in their inbox within a week’s time of applying. They might not want such a candidate. So an ideal follow up would be one that states your existing interest over the position, reminds them of your core skills and does it all at the right time.
+## Advantages and Disadvantages 
 
-First, make sure that the job ad does not say anything about not contacting the employer. If it does and you follow up, it will do more harm than good. *After a week to before two weeks* sounds like a good time when most recruiters start to settle with their applications, according to research. Time your follow up during business hours and preferably in the afternoons to allow people to attend to other important activities first.
- 
-## How to follow up
+Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
 
-There are several ways to get in touch with your dream company but choosing the right medium makes a lot of difference. Not to mention, choosing the right person to get in touch with is also significant.
+> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
 
-### Website
+Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
 
-Before you open your email, glance at the company website and social media platforms to check if an important announcement about the job already exists.
+## Types Of Work
 
-This can not only save you time but also save you the embarrassment of not knowing basic communication that everyone else might already have. Next, search for a list of employee names and see if you can find your recruitment manager and their email.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
 
-## Email 
-
-Your job application follow up email should highlight the position you are waiting to hear back for, your existing interest in the job and your skills to support its responsibilities. Keep it cordial, professional and about a maximum  2min read.
-
-### Phone call
-
-You’ ll have to work carefully around phone calls to see if the company entertains them. It shouldn't look like an  attempt to disrupt ongoing workflow. If you are making a call, ensure you got the right person to talk to get an idea of what you are going to say or follow a carefully written job application follow up call script.
-
-It is best to keep the conversation polite, effective and short. A phone call works when you have spent at least a week after follow up and did not receive a response. However calls these days are generally restricted to very important messages since all other communications vastly happen digitally and especially so over the tech landscape.
-
-## What to say when you follow up
-
-Whatever way you choose to follow up, here are some helpful guidelines that you can follow:
-
-* Start with an inviting subject/introduction  like “ Looking forward to the opportunity of the position. 
-* End your message by thanking the manager/recruiter for their time and consideration 
-
-Following up means that you are proactive about the job so highlight what skills could help you take on the expected responsibilities.
-Do not mention any expectation of an interview, just your interest in the position.
-
-If you have not gotten any response after follow ups for three weeks or more, it might be best to move on and continue your job search.
-
-## Conclusion
-
-As any competitive tech position might get dozens of apps it would be wasteful to think that dropping a resume ensures that the recruiter will see it.That in itself reinstates the value of proactively following up on a job application and even more essential that it is done right.
+Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
