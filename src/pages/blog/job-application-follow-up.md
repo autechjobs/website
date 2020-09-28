@@ -9,6 +9,7 @@ excerpt: >-
 template: post
 image: images/absolutvision-82TpEld0_e4-unsplash.jpg
 thumb_image: images/absolutvision-82TpEld0_e4-unsplash.jpg
+author: src/data/authors/ansubha-manandhar.yaml
 ---
 When competition for a job cranks up, standing out from the rest can be a challenge. What can you do to ensure that your resume lands right into the hands of the recruiter? Hiring managers are generally processing through a flood of resumes to find the right candidate. 
 
