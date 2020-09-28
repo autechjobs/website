@@ -54,16 +54,16 @@
         "social_title": "Community",
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/au_tech_jobs",
-                "new_window": true,
-                "primary": false
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/company/autechjobs",
                 "new_window": true,
                 "primary": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/au_tech_jobs",
+                "new_window": true,
+                "primary": false
             },
             {
                 "label": "Facebook",
