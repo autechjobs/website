@@ -43,7 +43,7 @@
                 "url": "/contact"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Blog",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": true,
