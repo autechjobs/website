@@ -41,6 +41,13 @@
             {
                 "label": "Contact",
                 "url": "/contact"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "primary": false,
+                "new_window": true,
+                "type": "action"
             }
         ],
         "has_social": true,
