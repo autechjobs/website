@@ -59,7 +59,7 @@
                 "primary": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Facebook",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": true,
