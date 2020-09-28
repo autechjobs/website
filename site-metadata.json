@@ -39,15 +39,15 @@
                 "url": "https://auth.autechjobs.ml/login"
             },
             {
-                "label": "Contact",
-                "url": "/contact"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact"
             }
         ],
         "has_social": true,
