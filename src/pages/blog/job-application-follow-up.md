@@ -1,5 +1,5 @@
 ---
-title: How to follow up on TECH job applications without sounding needy
+title: How to follow up on tech job applications without sounding needy
 subtitle: Job application follow up tips
 date: '2020-09-28'
 excerpt: >-
