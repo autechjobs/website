@@ -18,16 +18,16 @@
                 "url": "/pricing"
             },
             {
-                "label": "Sign Up",
-                "url": "https://auth.autechjobs.ml/login",
-                "primary": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
+            },
+            {
+                "label": "Sign Up",
+                "url": "https://auth.autechjobs.ml/login",
+                "primary": true
             }
         ]
     },
