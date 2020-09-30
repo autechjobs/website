@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/au-tech-jobs-search.jpg
-    title: Liberating Job Search!!
+    title: Liberating Job Search!
     content: >-
       Looking for a career launch or the next dream job? We understand your
       hustle to land that ideal tech job in Australia, we are here to simplify
