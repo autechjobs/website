@@ -21,7 +21,7 @@
                 "label": "Blog",
                 "url": "/blog",
                 "primary": false,
-                "new_window": true,
+                "new_window": false,
                 "type": "action"
             },
             {
