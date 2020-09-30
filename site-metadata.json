@@ -20,7 +20,7 @@
             {
                 "label": "Blog",
                 "url": "/blog",
-                "primary": true,
+                "primary": false,
                 "new_window": true,
                 "type": "action"
             },
