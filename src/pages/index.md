@@ -13,7 +13,7 @@ sections:
 
 
       Australia’s tech industry is ever expanding and competitive. Navigate
-      through our growing list of 35 plus companies to toggle options like visa
+      through our growing list of 50 plus companies to toggle options like visa
       sponsoring tech job vacancies in Australia. Get sorted with AU Tech jobs!
     actions:
       - label: Sign Up
