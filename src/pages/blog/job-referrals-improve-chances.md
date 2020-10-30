@@ -5,14 +5,10 @@ subtitle: >-
   your chances of interview or being hired by getting a referral.
 date: '2020-10-30'
 excerpt: >-
-  ## Lorem ipsum
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
-
-  - Lorem ipsum
-
-  - dolor sit amet
+  Have you been waiting long to hear from companies you have applied to? Chances
+  are that the company might have hired a referred candidate. With skyrocketing
+  competition added with COVID related job insecurities, it may not be wise to
+  rely just on your resume
 template: post
 image: images/communication-5453421_1280.png
 thumb_image: images/communication-5453421_640.png
