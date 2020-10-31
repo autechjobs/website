@@ -12,6 +12,7 @@ excerpt: >-
 template: post
 image: images/communication-5453421_1280.png
 thumb_image: images/communication-5453421_640.png
+author: src/data/authors/person-ypv2hab24.json
 ---
 
 Have you been waiting long to hear from companies you have applied to? Chances are that the company might have hired a referred candidate. With skyrocketing competition added with COVID related job insecurities, it may not be wise to rely just on your resume. Luckily, Employee Referrals have come to the rescue for many job seekers in such situations. Learn why and how employee referrals can effectively improve your chances of getting a job.
