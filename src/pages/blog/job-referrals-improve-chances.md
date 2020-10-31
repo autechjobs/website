@@ -21,7 +21,7 @@ Have you been waiting long to hear from companies you have applied to? Chances a
 
 When someone recommends you to the hiring manager for a vacant job position, you have a referral. Employee Referrals are usually made by an active employee of the organization you are interested in. When employees refer a candidate from their pool of networks, it adds an organic advantage for the hiring manager. With employee referral, you become a candidate that is internally pre-screened by your connection. You are  trusted to represent the company's values and ethos. So, this edge skyrockets the chance of you getting through the interview and landing the job.
 
-## Why should you get an Employee Referral ##?
+## Why should you get an Employee Referral ?
 Employee referrals could be your best way into your dream job. Referrals can skip the process of your resume going through the ATS and get it into human hands of the recruiter. If you have a strong recruiter, someone who can really vouch for you, it might get you directly into the interview. This makes the hiring process faster for you, works in your favor in comparison to an otherwise tedious hiring process that may not be quite effective for you. 
 
 Referrals have become very relevant in recent times.According to a 2015 Recruiter Nation Survey, in the United States, they found that 78% of the time, managers were hiring on the basis of referrals. Even if 5 years later, there was a 2% increase, the chance of being hired would go to 80% in 2020. You can imagine how important employee referrals have now become, as they increase the odds in your favor.
@@ -52,16 +52,16 @@ For most tech companies in Australia, employees are eligible for a bonus only if
 
 Finding the right connection for your job will take diligent work from your end. Not only does it emphasize on networking but also directs your focus towards building meaningful connections. You will need to learn how to find the right network, how to connect and how to maintain longevity in your relationships.
 More often than not, you will find that connections can be built through your own colleagues and business groups. 
-**Use LinkedIn and other social media**:  If you are someone who is eyeing a dream company to work for, you can use the company website,Linkedin or someone you know  to learn more about people who work there.
-**Second and third connections on Linkedin**: You may have a 2nd or 3rd connection on LikedIn who can introduce you to the right person through their network.
-**Establish strong connections with existing network**: Engage in meaningful relationships with your network of people. You can request that they keep an eye out for opportunities that align with your skillset. Chances are they might be interested to help you. They may deny, communicate in a way that allows them the space to say no. 
-**Friends and Family support**: Ask family members if they might just know someone related to the organization you want to work for.
-**Improve online visibility**: Get your resume and profile on online platforms and social networks so it's easier for people to find you. 
-**Participate and volunteer**:  Find current projects related to your skills and offer your services.This way you can connect to a network of professionals who are into the same field as you. It gives you an opportunity to learn and connect with new people.
+* **Use LinkedIn and other social media**:  If you are someone who is eyeing a dream company to work for, you can use the company website,Linkedin or someone you know  to learn more about people who work there.
+* **Second and third connections on Linkedin**: You may have a 2nd or 3rd connection on LikedIn who can introduce you to the right person through their network.
+* **Establish strong connections with existing network**: Engage in meaningful relationships with your network of people. You can request that they keep an eye out for opportunities that align with your skillset. Chances are they might be interested to help you. They may deny, communicate in a way that allows them the space to say no. 
+* **Friends and Family support**: Ask family members if they might just know someone related to the organization you want to work for.
+* **Improve online visibility**: Get your resume and profile on online platforms and social networks so it's easier for people to find you. 
+* **Participate and volunteer**:  Find current projects related to your skills and offer your services.This way you can connect to a network of professionals who are into the same field as you. It gives you an opportunity to learn and connect with new people.
 
 ## Next steps ##
 Once connected with the right people, you can strengthen and greatly increase your chances of interview or being hired by getting a referral.
 
 One great way to start is by tracking down a list of companies that you might be interested to apply for. At AU Tech Jobs, we provide a list of companies that are currently hiring for tech jobs in Australia. One of our prominent features is that you can conduct a  search for visa sponsoring companies and save the jobs that you would like to apply for.
-This will help you get a better idea of networks you would like to connect with depending on the organization you may be interested in. To find out more about tech jobs in Australia visit autechjobs.ml
+This will help you get a better idea of networks you would like to connect with depending on the organization you may be interested in. To find out more about tech jobs in Australia visit [autechjobs.ml](https://autechjobs.ml/)
 
