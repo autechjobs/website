@@ -45,7 +45,7 @@ The Chief Human Resources Officer Julie Carroll said, “We know that people ref
 
 ## Working around the Employee Referral Bonus ##
 
-When an employee refers you for a job, he /she is generally liable for a bonus, should you get hired by this company. Usually tech companies in Australia pay around 2k- 5k  depending upon their program.Companies have their own rules around the conditions under which an active employee may be eligible for said bonus.
+When an employee refers you for a job, he /she is generally liable for a bonus, should you get hired by this company. Usually tech companies in Australia pay around 2k- 5k to their employee for referring someone. This also depends on company conditions under which an active employee may be eligible for said bonus.
 
 For most tech companies in Australia, employees are eligible for a bonus only if they recommend someone before the candidate has applied for the job.This means that ideally you reach out to your connection before you apply. Otherwise they may not be eligible for a bonus if you are recommended after you have posted your job application. It is therefore important as a job seeker that you keep these guidelines in mind, so your application is placed in alignment with their company’s referral program requirements. 
 
@@ -54,11 +54,11 @@ For most tech companies in Australia, employees are eligible for a bonus only if
 Finding the right connection for your job will take diligent work from your end. Not only does it emphasize on networking but also directs your focus towards building meaningful connections. You will need to learn how to find the right network, how to connect and how to maintain longevity in your relationships.
 More often than not, you will find that connections can be built through your own colleagues and business groups. 
 * **Use LinkedIn and other social media**:  If you are someone who is eyeing a dream company to work for, you can use the company website,Linkedin or someone you know  to learn more about people who work there.
-* **Second and third connections on Linkedin**: You may have a 2nd or 3rd connection on LikedIn who can introduce you to the right person through their network.
-* **Establish strong connections with existing network**: Engage in meaningful relationships with your network of people. You can request that they keep an eye out for opportunities that align with your skillset. Chances are they might be interested to help you. They may deny, communicate in a way that allows them the space to say no. 
+* **Second and third connections on Linkedin**: You may have a 2nd or 3rd connection on LinkedIn who can introduce you to the right person through their network.
+* **Establish strong connections with existing network**: Engage in meaningful relationships with your network of people. You can request that they keep an eye out for opportunities that align with your skillset. Chances are they might be interested to help you. They may deny and thats totally okay. Communicate in a way that allows them the space to say No. 
 * **Friends and Family support**: Ask family members if they might just know someone related to the organization you want to work for.
 * **Improve online visibility**: Get your resume and profile on online platforms and social networks so it's easier for people to find you. 
-* **Participate and volunteer**:  Find current projects related to your skills and offer your services.This way you can connect to a network of professionals who are into the same field as you. It gives you an opportunity to learn and connect with new people.
+* **Participate and volunteer**:  Find current projects related to your skills online or offline and offer your services.This way you can connect to a network of professionals who are into the same field as you. It gives you an opportunity to learn and connect with new people.
 
 ## Next steps ##
 Once connected with the right people, you can strengthen and greatly increase your chances of interview or being hired by getting a referral.
