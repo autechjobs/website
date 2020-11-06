@@ -8,6 +8,7 @@ date: '2020-11-06'
 excerpt: ' Many industries have frozen hiring owing to the pandemic. But thanks to the change in workspaces and the constant need to keep technology updated, tech jobs have been on the rise. Keeping yourself updated on the most in-demand tech jobs will help you choose skills that you could refine or learn.'
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
+image: images/computer-4795762_1280.jpg
 ---
 
 
