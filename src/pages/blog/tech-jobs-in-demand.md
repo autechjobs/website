@@ -5,15 +5,7 @@ subtitle: >-
   function are constantly changing. But these tech jobs are valued enough to be
   on-demand for 2021. 
 date: '2020-11-06'
-excerpt: >-
-  ## Lorem ipsum
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
-
-  - Lorem ipsum
-
-  - dolor sit amet
+excerpt: ' Many industries have frozen hiring owing to the pandemic. But thanks to the change in workspaces and the constant need to keep technology updated, tech jobs have been on the rise. Keeping yourself updated on the most in-demand tech jobs will help you choose skills that you could refine or learn.'
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
 ---
