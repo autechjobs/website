@@ -16,6 +16,7 @@ excerpt: >-
 
   - dolor sit amet
 template: post
+author: src/data/authors/ansubha-manandhar.yaml
 ---
 
 
