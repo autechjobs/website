@@ -9,6 +9,7 @@ excerpt: ' Many industries have frozen hiring owing to the pandemic. But thanks 
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
 image: images/computer-4795762_1280.jpg
+thumb_image: images/computer-4795762_640.jpg
 ---
 
 
