@@ -23,7 +23,7 @@ There are only two months remaining in 2020 now. Many industries have frozen hir
 
 In this article, we have created a list of 3 most in-demand tech jobs right now. This list is based on statistics from current tech job vacancies at ATJ.
 
-## 1. **Software Engineering: ** 
+## 1. Software Engineering: 
 
 Software engineering is number one on our list. This is one job that has consistently been on the rise and seems like its end is nowhere near. According to a study by [Indeed hiring lab 2018](https://www.hiringlab.org/au/blog/2018/06/13/australia-tech-skills-changing/), .net developers, front-end developers, and software engineers were highest on-demand and accounted for one-fifth of all tech roles.  
 Companies are constantly emerging with new technologies. They need to be regularly updated so they meet the expected user experience. Thanks to software engineers, we have improved system qualities and enhanced applications. Apart from these roles, they work in collaboration with teams to support, implement, and design software solutions.
