@@ -39,7 +39,7 @@ This is one area that has been continuously thriving. According to a report from
 
 
 ## Cloud computing:
- According to [Gartner](https://www.gartner.com/smarterwithgartner/gartner-top-strategic-technology-trends-for-2021/), an industry analyst firm, cloud-based tech, and services rank as one of the top tech trends that will dominate 2021. It says that “ Distributed cloud is the future of cloud” and that trends of companies being able to operate from anywhere will follow in coming years. 
+ According to [Gartner](https://www.gartner.com/smarterwithgartner/gartner-top-strategic-technology-trends-for-2021/), an industry analyst firm, cloud-based tech and services rank as one of the top tech trends that will dominate 2021. It says that “ Distributed cloud is the future of cloud” and that trends of companies being able to operate from anywhere will follow in coming years. 
 
 These are few areas where investment is currently high and so will be the demand for skilled professionals. You can choose one such preferred area of work and start updating or building your skill set in that direction. It will help keep yourself relevant and in demand in the tech market.   
 
@@ -47,11 +47,11 @@ These are few areas where investment is currently high and so will be the demand
 
 When it comes to popular cities in terms of tech job opportunities, Sydney seems to be the winner. It is a city that has world recognition, hosts tech giants like Google, Facebook, and Twitter. Some of the top tech companies of Australia like Atlassian,  Canva are also located here.
 
-However, Melbourne is coming up as a new favorite among many tech startups as this city offers a more affordable cost of living. According to a report called [Tech cities in Motion](https://pdf.euro.savills.co.uk/global-research/tech-cities-in-motion.pdf), Melbourne was voted one of the best places for new tech startups in 2019. It hosts now growing tech companies like Slack, Eventbrite, and major companies like SEEK. 
+However, Melbourne is coming up as a new favorite among many tech startups as this city offers a more affordable cost of living. According to a report called [Tech cities in Motion](https://pdf.euro.savills.co.uk/global-research/tech-cities-in-motion.pdf), Melbourne was voted one of the best places for new tech startups in 2019. It hosts growing tech companies like Slack, Eventbrite, and major companies like SEEK. 
 
 Other cities like Brisbane, Perth, Hobart, Adelaide, and Canberra may also be suitable for you depending upon your preferences such as family-friendly places, countryside, affordable housing, etc, besides good job opportunities. You can check out some of the best places to live in Australia [here](https://www.internations.org/go/moving-to-australia/housing/best-places-to-live-in-australia).
 # Visa regulations: 
-The Australian Government provides several options for nonnative people who want to live and work in Australia. For reliable information, you can visit https://immi.homeaffairs.gov.au/  which is the official site for the Australian Government’s dept of home affairs. 
+The Australian Government provides several options for foreigners who want to live and work in Australia. For reliable information, you can visit https://immi.homeaffairs.gov.au/  which is the official site for the Australian Government’s dept of home affairs. 
 The Australian home affairs website provides a list of visas that you can choose from based on your eligibility and govt requirements. You can see the list [here](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing).
 
 # English Language Requirements: 
@@ -59,7 +59,7 @@ One of the basic requirements is that you score well on English language tests s
 
 
 # Applying for Jobs: 
-At [autechjobs](autechjobs.ml) we provide a hassle-free job search experience if you are looking for tech jobs in Australia. If you are an immigrant, we understand what a toll it takes to go through the job search process, the anxiety for job hunt can be grueling, especially if you are also trying to make it on your own or manage family and life in a different country. So to make the process easier, you can find job descriptions summarized, save your favorite jobs and apply them and know what companies are currently sponsoring visas for a particular job. 
+At [autechjobs](autechjobs.ml) we provide a hassle-free job search experience if you are looking for tech jobs in Australia. If you are an immigrant, we understand what a toll it takes to go through the job search process. Job search anxiety can be real and grueling, especially if you are also trying to make it on your own or manage family and life in a different country. So to make the process easier, we at autechjobs offer features where you can find job descriptions summarized, save your favorite jobs and apply them and know what companies are currently sponsoring visas for a particular job.
 
 ## Employee Referral:
 Before you apply for your dream role, consider connecting with existing employees within the organization or someone from your network who might be able to refer you to that position. Referrals are a big deal and for good reason. As a referred candidate you drastically improve your chances of an interview while the employee who refers you gets a bonus. Not to mention, it makes it easier for the organization to place their trust in you than a complete stranger. 
@@ -100,7 +100,7 @@ There are ways in which you can answer common questions that will ease what coul
 # Culture:
 One great way to acclimatize and learn about the ways of a new country is to learn about their culture. Australia is a wonderfully diverse country and varying communities. This brings in a wonderful blend of unique cultures and lifestyles in the country. Whether it’s making the most of the coastline or their love for outdoor adventures, familiarize and make yourself aware so that you are no stranger to the ways of life,in  [the Aussie style](https://cutt.ly/thRccwL). If you want to make Australia your new home, it would help you open up new possibilities and experience if you learn their perspective of life. 
 
-Once you begin to start with these initial steps, you should be able to get the ball rolling for your job search. It can be a long process and a daunting one too. But patience and timely actions can get you through this process and help in cutting down anxiety. To search for tech jobs visit [autechjobs.ml](autechjobs.ml)
+Once you begin to start with these initial steps, you should be able to get the ball rolling for your job search. It can be a long process and a daunting one too. But patience and timely actions can help you make this process hassle free. To begin your search for tech jobs in australia visit [autechjobs.ml](autechjobs.ml)
 
 
 
