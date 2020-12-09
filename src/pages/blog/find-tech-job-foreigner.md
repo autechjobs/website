@@ -59,6 +59,10 @@ One of the basic requirements is that you score well on English language tests s
 
 
 # Applying for Jobs: 
+You can start applying for jobs directly from the company website, through social media, vacancy ad or maybe a referral. You can also use recruiting agencies, job portals or online services that help you through this process. 
+
+Through this process it helps to keep track of your job applications, your updates and other company information through a single document or excel sheet. It helps you stay organized while keeping the throttle on for thr job hunt. 
+
 At [autechjobs](autechjobs.ml) we provide a hassle-free job search experience if you are looking for tech jobs in Australia. If you are an immigrant, we understand what a toll it takes to go through the job search process. Job search anxiety can be real and grueling, especially if you are also trying to make it on your own or manage family and life in a different country. So to make the process easier, we at autechjobs offer features where you can find job descriptions summarized, save your favorite jobs and apply them and know what companies are currently sponsoring visas for a particular job.
 
 ## Employee Referral:
