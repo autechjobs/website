@@ -13,6 +13,7 @@ excerpt: >-
   help in cutting down anxiety.
 template: post
 image: images/blonde-1867768_640.jpg
+thumb_image: images/blonde-1867768_1280.jpg
 ---
 ## Lorem ipsum
 
