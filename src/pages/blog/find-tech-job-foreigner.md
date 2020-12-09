@@ -30,8 +30,10 @@ With the changing dynamic of work amidst the pandemic, many jobs were lost. Howe
 ## Cybersecurity: 
 Ever-evolving security threats have positioned the government to increase cybersecurity in 2020. To support this, Australian Minister for Home Affairs, Peter Dutton, [released a paper](https://www.homeaffairs.gov.au/reports-and-pubs/files/cyber-security-strategy-2020-discussion-paper.pdf) in 2019 asking for opinion and feedback to replace its 2016 strategy. It would likely be investing $1.35b in the coming years towards this direction. This can catapult the number of jobs for cybersecurity in the near future.
 
-## Artificial Intelligence: 
-This is one area that has been continuously thriving. According to a report from ACOLA, industrial automation is going to significantly increase the use of AI over the next few years. As a tech job seeker, you will need to be proactive in acquiring these skills to keep yourself relevant to the most in-demand jobs in the market.
+## Artificial Intelligence & Internet of Things (IOT): 
+This is one area that has been continuously thriving. According to a report from Australian council of Learned Academes(ACOLA), industrial automation is going to significantly increase the use of AI over the next few years. Its recent [report on Internet of Things](https://acola.org/hs5-internet-of-things-australia/) also stresses the need to utilize opprtunties to improve the quality of life in Australian cities by considering a national approach on IOT. As a tech job seeker, you will need to be proactive in acquiring these skills to keep yourself relevant to such in-demand jobs in the market.
+
+
 
 ## Cloud computing:
  According to [Gartner](https://www.gartner.com/smarterwithgartner/gartner-top-strategic-technology-trends-for-2021/), an industry analyst firm, cloud-based tech, and services rank as one of the top tech trends that will dominate 2021. It says that “ Distributed cloud is the future of cloud” and that trends of companies being able to operate from anywhere will follow in coming years. 
