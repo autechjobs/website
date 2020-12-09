@@ -12,6 +12,7 @@ excerpt: >-
   one too. But patience and timely actions can get you through this process and
   help in cutting down anxiety.
 template: post
+image: images/blonde-1867768_640.jpg
 ---
 ## Lorem ipsum
 
