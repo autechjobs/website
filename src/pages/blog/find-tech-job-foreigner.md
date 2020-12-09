@@ -34,7 +34,7 @@ Ever-evolving security threats have positioned the government to increase cybers
 This is one area that has been continuously thriving. According to a report from Australian council of Learned Academes(ACOLA), industrial automation is going to significantly increase the use of AI over the next few years. As a tech job seeker, you will need to be proactive in acquiring these skills to keep yourself relevant to such in-demand jobs in the market.
 
 ## Internet of Things (IOT): 
- Its recent [report on Internet of Things](https://acola.org/hs5-internet-of-things-australia/) also stresses the need to utilize opprtunties to improve the quality of life in Australian cities by considering a national approach on IOT. As digitization is only going to increase in the next decade, this report shows the possibility of overcoming challenges throug IOTas well as  testing new IOT applications. 
+ ACOLA's recent [report on Internet of Things](https://acola.org/hs5-internet-of-things-australia/) also stresses the need to utilize opprtunties to improve the quality of life in Australian cities by considering a national approach on IOT. As digitization is only going to increase in the next decade, this report shows the possibility of overcoming challenges throug IOTas well as  testing new IOT applications. 
 
 
 
