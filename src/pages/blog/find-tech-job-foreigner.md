@@ -7,16 +7,10 @@ subtitle: >-
   explore work in the Australian  tech landscape. 
 date: '2020-12-09'
 excerpt: >-
-  ## Lorem ipsum
-
-
-  Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-
-
-  - Lorem ipsum
-
-  - dolor sit amet
+  Once you begin to start with these initial steps, you should be able to get
+  the ball rolling for your job search. It can be a long process and a daunting
+  one too. But patience and timely actions can get you through this process and
+  help in cutting down anxiety.
 template: post
 ---
 ## Lorem ipsum
