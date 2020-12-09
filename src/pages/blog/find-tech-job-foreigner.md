@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Initial steps to find a tech job in Australia if you are a foreigner
 subtitle: lorem-ipsum
 date: '2020-12-09'
 excerpt: >-
