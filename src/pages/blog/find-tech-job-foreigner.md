@@ -16,7 +16,7 @@ image: images/blonde-1867768_640.jpg
 thumb_image: images/blonde-1867768_1280.jpg
 ---
 
-Starting or changing career is an important decision. Top that with starting a whole new life in another country, and you have got yourself a ticking explosion of consequences waiting to happen if you don't make the right choices. As a foreigner, its a bit of a challenge than to fill out a couple job applications, walk into an interviews and there you have a job. There are many other factors that come into play before you decide on a job possibility.  On the australian front, here are a few things you could consider doing before you take the plunge.
+Starting or changing into a new career is an important life decision. Top that with starting a whole new life in another country, and you have got yourself a ticking explosion of consequences waiting to happen if you don't make the right choices. As a foreigner, its a bit of a challenge than to fill out a couple job applications, walk into an interviews and there you have a job. There are many other factors that come into play before you decide on a job possibility.  On the australian front, here are a few things you could consider doing before you take the plunge.
 
 # Do some basic research: 
 No matter how far along you are on your tech job search, research provides a deeper understanding of the market. But especially as a foreigner, it pays a great deal to know what you might be getting your foot into. So before you dive in, maybe explore some current tech trends in Australia. 
