@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Refine your resume with these tips for your next tech job
 subtitle: lorem-ipsum
 date: '2020-12-20'
 excerpt: >-
