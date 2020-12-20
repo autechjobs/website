@@ -1,6 +1,6 @@
 ---
 title: Refine your resume with these tips for your next tech job
-subtitle: ' Craft your resume like an art masterpiece that is meant to cater to a specific audience.  '
+subtitle: ' How to craft your resume like an art masterpiece that is meant to cater to a specific audience.  '
 date: '2020-12-20'
 excerpt: >-
   ## Lorem ipsum
