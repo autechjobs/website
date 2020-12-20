@@ -7,6 +7,7 @@ excerpt: |2+
 
 
 template: post
+image: images/job-interview-156130_640.png
 ---
 ## Lorem ipsum
 
