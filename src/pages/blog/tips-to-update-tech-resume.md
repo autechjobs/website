@@ -7,7 +7,7 @@ excerpt: |2+
 
 
 template: post
-image: images/job-interview-156130_640.png
+image: images/job-interview-156130_1280.png
 thumb_image: images/smiling-turmeric.png
 ---
 ## Lorem ipsum
