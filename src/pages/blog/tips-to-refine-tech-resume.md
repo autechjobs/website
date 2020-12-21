@@ -16,7 +16,7 @@ Include any personal or volunteer projects that you think adds value to the tech
 
 If you have a GitHub, GitLab, or bitbucket that host your open source projects, include them. Include your social media links if they complement your resume to an extent. The projects you choose and the interests you have to create your own personal brand in the recruiter’s mind.  This also differentiates you from the rest of the stack. 
 
-*Here is an example of two resumes of the same software engineer. *
+Here is an example of two resumes of the same software engineer. 
 
 The first one is a simple resume that is a straight forward list of your achievements. It could easily be lost in the pile. 
 
@@ -35,12 +35,12 @@ When describing your work experience, refer to any tangible impact it made. This
 For example, you were a Junior developer at XY company for 4 years. Instead of writing :
 
 
-**Junior Developer **
+Junior Developer
 * Worked on banking software at  XY solutions for 4 years 
 
 Say, 
 
-**Junior Developer **
+Junior Developer 
 
 XY solutions: 4yrs
 * Redesigned banking software that improved customer satisfaction by 60%
@@ -48,13 +48,13 @@ XY solutions: 4yrs
 Alternatively, you can also focus on the skill you have learned. Recruiters are interested in how exactly you might be beneficial to their company. 
 For example, intead of saying: 
 
-**Cyber-security Analyst**
+Cyber-security Analyst
 * Worked with network admin on efficient network traffic analysis*
 
 You could make your expression more impactful if you say, 
 
 
-**Cyber Security Analyst**
+Cyber Security Analyst
 
 * Performed network traffic analysis by learning the Intrusion Detection System (IDS) to improve efficiency by 5%
 
