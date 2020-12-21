@@ -14,6 +14,7 @@ excerpt: >-
 template: post
 image: images/blonde-1867768_1280.jpg
 thumb_image: images/blonde-1867768_1280.jpg
+author: src/data/authors/person-zzo3kkbp7.json
 ---
 
 Starting or changing into a new career is an important life decision. Top that with starting a whole new life in another country, and you have got yourself a ticking explosion of consequences waiting to happen if you don't make the right choices. 
