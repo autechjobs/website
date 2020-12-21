@@ -25,6 +25,9 @@ No matter how far along you are on your tech job search, research provides a dee
 
 Australia’s tech landscape is ever-growing. Just by how much? Well, the country is home to 25 million people as of November 2020. Almost one million out of that population is currently employed within the tech industry.
 
+![Leaf](https://autechjobs.ml/images/02leaf.jpg "Leaf ko paat")
+
+
 According to [AlphaBeta’s report,](https://alphabeta.com/wp-content/uploads/2019/09/australias-digital-dividend-final.pdf) the tech sector contributes around  $122b which makes for 6.6% GDP of the country. If it catches up to global leaders like the US, it has a potential of $207b contribution to GDP. 
 
 # Find out what tech roles are in demand: 
