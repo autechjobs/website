@@ -19,6 +19,7 @@ If you have a GitHub, GitLab, or bitbucket that host your open source projects, 
 Here is an example of two resumes of the same software engineer. 
 
 The first one is a simple resume that is a straight forward list of your achievements. It could easily be lost in the pile. 
+ ![Wrong Resume](https://autechjobs.ml/images/Wrong%20resume.SE.png "poorly structured resume")
 
 The second one has the following advantages:
 * a clear structure, 
