@@ -16,11 +16,11 @@ Include any personal or volunteer projects that you think adds value to the tech
 
 If you have a GitHub, GitLab, or bitbucket that host your open source projects, include them. Include your social media links if they complement your resume to an extent. The projects you choose and the interests you have to create your own personal brand in the recruiter’s mind.  This also differentiates you from the rest of the stack. 
 
-Here is an example of two resumes of the same software engineer. 
+*Here is an example of two resumes of the same software engineer. *
 
-1. The first one is a simple resume that is a straight forward list of your achievements. It could easily be lost in the pile. 
+The first one is a simple resume that is a straight forward list of your achievements. It could easily be lost in the pile. 
 
-2.   The second one has the following advantages:
+The second one has the following advantages:
 * a clear structure, 
 * an appealing yet appropriate design
 * focus on your contact information and links
@@ -35,7 +35,7 @@ When describing your work experience, refer to any tangible impact it made. This
 For example, you were a Junior developer at XY company for 4 years. Instead of writing :
 
 
-**Junior Developer** 
+**Junior Developer **
 * Worked on banking software at  XY solutions for 4 years 
 
 Say, 
@@ -56,9 +56,12 @@ You could make your expression more impactful if you say,
 
 **Cyber Security Analyst**
 
-* Performed network traffic analysis by learning the Intrusion Detection System (IDS) to improve efficiency by 5%*
+* Performed network traffic analysis by learning the Intrusion Detection System (IDS) to improve efficiency by 5%
 
-The words you use to describe your experience also matters a lot. Using the right keywords help you communicate precisely while also helping to improve your chances to get chosen further in the process. Andrew Stetsenko, a tech entrepreneur and founder at CVcompiler suggests that “Having the marketable tech keywords in your resume (surely, you should list the ones you're good at) will definitely boost the chance to be invited for interviews”. In his article called 40 words to include in your Developer’s resume, he lists a good example of how to use keywords to make an impactful resume. 
+The words you use to describe your experience also matters a lot. Using the right keywords help you communicate precisely while also helping to improve your chances to get chosen further in the process.
+
+
+[Andrew Stetsenko](https://www.linkedin.com/in/andrewstetsenko/), a tech entrepreneur and founder at CVcompiler, suggests that “Having the marketable tech keywords in your resume (surely, you should list the ones you're good at) will definitely boost the chance to be invited for interviews”. In his article called [40 words to include in your Developer’s resume,](https://hackernoon.com/40-words-to-include-into-your-developer-resume-fk6o3y7v) he lists a good example of how to use keywords to make an impactful resume. 
 
 
 # 3.Keep your resume relevant to the job you are applying to 
@@ -67,17 +70,17 @@ Shortlist your skills to highlight those that are most relevant to the job at ha
 
 It’s not necessary to cramp up your resume with everything you have done so far. 
 
-*For example, let’s say you are applying for the position of Project Manager at an ABC company. *
+For example, let’s say you are applying for the position of Project Manager at an ABC company. 
 
 You could mention coding skills: 
 
- *HTML, CSS, Javascript, SQL, Python*
+ HTML, CSS, Javascript, SQL, Python
 
 You could mention related skills :
 
-*Proficiency in Agile, Scrum, and Kanban *
+Proficiency in Agile, Scrum, and Kanban 
 
-*Maybe you could go easy on general ones such as  MS Office, Documentation, etc.*
+Maybe you could go easy on general ones such as  MS Office, Documentation, etc.
 
 Its usually assumed that as a project manager you will be able to handle simpler tasks that involve these skills.
 
