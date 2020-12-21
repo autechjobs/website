@@ -14,7 +14,7 @@ thumb_image: images/job-interview-156130_1280.png
 
 Include any personal or volunteer projects that you think adds value to the tech role you are applying for. Working on these projects apart from your regular work makes a strong case that you are genuinely interested in what you do. 
 
-If you have a GitHub, GitLab, or bitbucket that host your open source projects, include them. Include your social media links if they complement your resume to an extent. The projects you choose and the interests you have to create your own personal brand in the recruiter’s mind.  This also differentiates you from the rest of the stack. 
+If you have a GitHub, GitLab, or bitbucket that host your open source projects, include them. Include your social media links if they complement your resume to an extent. The projects you choose and the interests you have help to create your personal brand in the recruiter’s mind.  This differentiates you from the rest of the stack. 
 
 Here is an example of two resumes of the same software engineer. 
 
