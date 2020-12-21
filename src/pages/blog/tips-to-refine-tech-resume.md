@@ -102,7 +102,7 @@ The way you write your resume will also translate to the way you will do your jo
 
 
 # #Bonus tip: Keep your resume short and to the point
-Recruiters only take  6- 7 secs to scan each resume on avg, so it doesn’t make sense to make it long unless you have a very impressive history of achievements. Geshan Manandhar, Lead Software Engineer at The Iconic, says that one of the aspects. Keeping a resume short and concise is one great way to make your resume readable and thus improve your chances of an interview. 
+Recruiters only take  6- 7 secs to scan each resume on avg, so it doesn’t make sense to make it long unless you have a very impressive history of achievements. [Geshan Manandhar](https://www.linkedin.com/in/geshan/), Lead Software Engineer at The Iconic, says that one of the aspects. Keeping a resume short and concise is one great way to make your resume readable and thus improve your chances of an interview. He has also writtern an article about [what top recruiters look for in your tech resume.](https://www.linkedin.com/in/geshan/) The article also provides actionable insights on tips that you could use to update your resume.
 
 
 # 5. Mention your work gaps strategically:
