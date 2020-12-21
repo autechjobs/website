@@ -27,6 +27,7 @@ The second one has the following advantages:
 * focus on your contact information and links
 * adds character to the resume with volunteer projects
 
+![Right Resume](https://autechjobs.ml/images/Right%20resume.SE.png "Well structured resume")
 
 
 # 2.Add impactful details to your work experience
