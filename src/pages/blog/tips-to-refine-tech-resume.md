@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 5 powerful tips to refine your tech resume that will help you stand out
 subtitle: lorem-ipsum
 date: '2020-12-21'
 excerpt: >-
