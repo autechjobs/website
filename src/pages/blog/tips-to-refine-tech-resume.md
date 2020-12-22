@@ -64,7 +64,7 @@ Cyber Security Analyst
 The words you use to describe your experience also matters a lot. Using the right keywords help you communicate precisely while also helping to improve your chances to get chosen further in the process.
 
 
-[Andrew Stetsenko](https://www.linkedin.com/in/andrewstetsenko/), a tech entrepreneur and founder at CVcompiler, suggests that “Having the marketable tech keywords in your resume (surely, you should list the ones you're good at) will definitely boost the chance to be invited for interviews”. In his article called [40 words to include in your Developer’s resume,](https://hackernoon.com/40-words-to-include-into-your-developer-resume-fk6o3y7v) he lists a good example of how to use keywords to make an impactful resume. 
+[Andrew Stetsenko](https://www.linkedin.com/in/andrewstetsenko/), a tech entrepreneur and founder at CVcompiler, suggests that “Having the marketable tech keywords in your resume (surely, you should list the ones you're good at) will definitely boost the chance to be invited for interviews”. In his article called [40 words to include in your Developer’s resume,](https://cvcompiler.com/blog/40-words-to-spice-up-your-developer-resume/) he lists a good example of how to use keywords to make an impactful resume. 
 
 
 # 3.Keep your resume relevant to the job you are applying to 
