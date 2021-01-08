@@ -11,6 +11,7 @@ excerpt: >-
   your mind towards constructive thoughts to land your dream job. 
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
+image: images/job search anxiety.png
 ---
 ## Lorem ipsum
 
