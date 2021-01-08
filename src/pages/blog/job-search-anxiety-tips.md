@@ -1,6 +1,9 @@
 ---
 title: Easy ways to cope when job search anxiety hits you hard
-subtitle: lorem-ipsum
+subtitle: >-
+  Job search anxiety is very real, it happens to the best of us.  So, while you
+  are on the hunt, here are some ways that will keep your nerves calm and set
+  your mind towards constructive thoughts to land your dream job. 
 date: '2021-01-08'
 excerpt: >-
   ## Lorem ipsum
