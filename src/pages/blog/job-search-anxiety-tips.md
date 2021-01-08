@@ -12,6 +12,7 @@ excerpt: >-
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
 image: images/job search anxiety.png
+thumb_image: images/unique-pluto.png
 ---
 ## Lorem ipsum
 
