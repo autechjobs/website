@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Easy ways to cope when job search anxiety hits you hard
 subtitle: lorem-ipsum
 date: '2021-01-08'
 excerpt: >-
