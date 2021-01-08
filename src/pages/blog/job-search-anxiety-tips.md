@@ -12,7 +12,6 @@ excerpt: >-
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
 image: images/job search anxiety.png
-thumb_image: images/job search anxiety sm.png
 ---
 We all know that searching for a job isn’t a process  that we are thrilled about. But it doesn’t need to be frustrating, you can make it a learning experience. A lot of you might be going through anxiety during a job search especially given the COVID scenario. Many have been laid off, many have found themselves just out of school and little hope of finding their dream job anytime soon. 
 
