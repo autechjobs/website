@@ -23,16 +23,13 @@ We are living under new circumstances amid the pandemic, so chances are that lan
 
 How can you prepare to keep your anxieties on check? Try these tips that can gear you up  to structure your activities towards getting your next job.
 
-##  Know that this isn’t permanent 
+##  -Know that this isn’t permanent 
 This too shall pass. When you realize that this phase, neverending as it may seem, is temporary, it lightens the mental  weight you carry. It also helps you become hopeful about your opportunities as well as positive about your outcomes.
 
-## Unemployment benefits
+## -Unemployment benefits
 You could file for unemployment with your government. You may also be eligible for benefits depending upon various factors such as age, family status, etc. The Australian government provides unemployment benefits to its citizens and permanent residents. You can visit their website and find options for individuals as well as organizations. 
 
-## Side hustle 
-You can look for side gigs depending on the interests that may make you part-time income while you are on the job lookout. We have come up with new ways to do business during this pandemic. Explore opportunities based on your interests to help sustain yourself until you find a more stable source of income. 
-
-## Organizing yourself 
+## -Organizing yourself 
 It makes sense to start by organizing your savings and use it judiciously. It will act as a temporary financial cushion that you can rely on. Additionally, you can create a structure around activities that you’ll need to do like getting your resume ready, searching for jobs online, and managing other chores. If it has been a long time since you have had to look for a job, you can update your resume, call your career coach or mentor,  learn a new skill, and get your social media accounts like Linkedin updated. 
 
 
@@ -40,13 +37,13 @@ It makes sense to start by organizing your savings and use it judiciously. It wi
 When times are tough, inspiration to do what you love can be challenging. The Australian Psychological Society lists Cognitive behavior therapy as one of the treatments for anxiety. Cognitive restructuring is a process where you change your negative thoughts and develop more positive and constructive ways of thinking. 
 Keeping positive self-talk, affirmations going behind your head will help you in many ways:
 
-## Helps to drown out negative mental chatter
+## -Helps to drown out negative mental chatter
 Check your thoughts like a self-audit and see what you are saying to yourself. You may be thinking, “Okay, I got this, I am going to get myself a job” or you may be thinking, “ There is no way I can figure this out, I have literally applied to all the jobs out there and I haven’t heard back from anyone” Catch yourself if you are falling in the negative self-talk that involves scary thoughts about your future that arent true. 
 
-## Helps to be your own support system
+## -Helps to be your own support system
 You can change your internal dialogue. For example, If you keep saying to yourself, “ I am not good enough for the jobs out there”, you could change your thought to  “I am fortunate that I am skilled, I will find something that suits my capabilities.”This way, you become your own support especially when the process is internal. A positive outlook provides encouragement to move your job search process along. 
 
-## Helps you to plan ahead
+## -Helps you to plan ahead
 Positive affirmations can keep worry out of your head and motivate you to work consistently towards your goal. It can boost mental well being and help you figure out how you can use available options to chart your way to a new job. 
 
 
@@ -56,9 +53,11 @@ According to the Australian psychological society, stressful life events such as
 
 Got your resume updated? Send out your job applications? Did you just get back from your interview? Take some time off to celebrate your progress. Savoring your continuous efforts can propel you forward with motivation. If you can manage, a change of scene will help you get some peace too.
 
-# 4. Reflect on your self-worth: 
+# 4. Perspective: 
 Your job is definitely a huge part of your life. But it's not your entire life because we play multiple roles in family, social circle etc. We have our interests, our responsibilities and other aspects that make life-enriching. So while there is an undeniable void due to a non-existent job, you can consider taking some time out for  your loved ones or for things you love to do. This fresh perspective will help you gather support from loved ones, use referrals through your connections, or learn a skill. This way you can push back your anxiety and bring your confidence to the forefront.  
 
-#  5. Staying physically and mentally healthy: 
+#  5. Staying healthy: 
 Taking care of yourself at a challenging time in your life can be a game-changer. Eating well and exercising regularly will keep you performing at your best. In addition, you can also practice mindfulness and self-awareness through meditation. This is a popular and effective way of keeping your headspace going strong when you have anxious thoughts. You can also reach out to your friends and family when you are in need of help or seek professional help.
 
+# Looking ahead: 
+Job search can be a learning experience about yourself and about the industry you want to work in. It is only natural that so many people are anxious in the face of uncertainty. However, this pandemic has given way to innovative ways of doing business. So hang in there as you are not alone. By following the above tips you can maintain a strong headspace to work towards a pleasant job search experience. 
