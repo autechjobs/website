@@ -1,5 +1,5 @@
 ---
-title: How to keep a strong headspace when job search anxiety hits you hard
+title: 'Tips '
 subtitle: >-
   Job search anxiety is very real, it happens to the best of us.  So, while you
   are on the hunt, here are some ways that will keep your nerves calm and set
