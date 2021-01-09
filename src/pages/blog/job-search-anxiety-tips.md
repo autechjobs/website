@@ -1,5 +1,5 @@
 ---
-title: Tips for a strong hea
+title: Tips for a strong headspace during job search anxity
 subtitle: >-
   Job search anxiety is very real, it happens to the best of us.  So, while you
   are on the hunt, here are some ways that will keep your nerves calm and set
