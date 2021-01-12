@@ -5,6 +5,7 @@ date: '2020-12-21'
 excerpt: ' Your tech resume can be crafted like an art masterpiece that caters to a specific audience. Use these simple yet effective tips that will help you stand out from the recruiter’s stacks of resumes.'
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
+thumb_image: images/scott-graham-5fNmWej4tAA-unsplash.jpg
 ---
  Your tech resume can be crafted like an art masterpiece that caters to a specific audience. Use these simple yet effective tips that will help you stand out from the recruiter’s stacks of resumes.
 
