@@ -11,7 +11,6 @@ excerpt: >-
   your mind towards constructive thoughts to land your dream job. 
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
-image: images/job search anxiety.png
 thumb_image: images/Untitled design (1).png
 ---
 For many people, their job is a huge part of their identity. So,when you don’t have one, it can often feel like there is a big void to fill. Moreover, there are many people that have been on the lookout for a job after the global pandemic. And not everyone is thrilled about this experience.
