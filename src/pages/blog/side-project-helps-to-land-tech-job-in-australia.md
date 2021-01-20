@@ -80,3 +80,11 @@ He realized that he needed coding experiences that could stem initially from pet
 ### How AUtechjobs(ATJ) happened to him:
 
 Exploring volunteer projects to work on came from a deep realization that he had to involve in something more tangible than coding exercises from training programs. “ They were good learning experiences but later I was looking to get my hands dirty on a project. That’s when I found out about ATJ. I came onboard at the end of March 2020 when the pandemic was starting to soar. I knew that this project would give me the platform to level up on my skills and I was excited by the opportunity” he recollects.
+
+### Working as a frontend software engineer and later, leading the frontend team: 
+
+Suvash shares that having a team to work with was invaluable to his professional growth. “I built the ATJ frontend from scratch and that I guess became one of my biggest learnings ]. Later I also took on the role of Frontend guardian/lead. It's really inspiring to see how driven he was with ATJ considering that he also worked at an Elderly Care center. “ Whenever I had free time, I used to spend my time either contributing to ATJ or learning code. I practically stopped binge watching Netflix or Prime Videos and only took short breaks as needed”, he shares.
+
+We had another teammate, Biswash (currently in Nepal), who completed his master’s degree from Sydney. He is one of the most talented people in terms of design that I have ever met. As a team, I would code and he would design. Working together was so much fun” he recalls. 
+
+Consequently, Biswash was able to land an internship in Sydney, leading to a permanent position within the company. 
