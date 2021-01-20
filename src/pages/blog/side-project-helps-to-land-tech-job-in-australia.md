@@ -71,7 +71,7 @@ Suvash grew up in Nepal and went to Prime College in Kathmandu. With a vision to
 
 Suvash was on a two year PSW (Post-study-work)visa while in Australia. He found out that most companies that he looked for were either hiring Australian citizens or Australian permanent residents only. This unsaid rule seemed to add an extra challenge to the already competitive tech job market. 
 
-Apart from visa issues, he found that lack of experience became a challenge. ”I have good grades but academic excellence alone wasn't a good measure of a solid resume.” he laments.
+Apart from visa issues, he found that lack of work experience became a challenge. ”I have good grades but academic excellence alone wasn't a good measure of a solid resume.” he laments.
 
 > “Basically if you don't have a working URL, your chance to land an interview goes down significantly.”
 
@@ -83,11 +83,11 @@ Exploring volunteer projects to work on came from a deep realization that he had
 
 ### Working as a frontend software engineer and later, leading the frontend team: 
 
-Suvash shares that having a team to work with was invaluable to his professional growth. “I built the ATJ frontend from scratch and that I guess became one of my biggest learnings ]. Later I also took on the role of Frontend guardian/lead. It's really inspiring to see how driven he was with ATJ considering that he also worked at an Elderly Care center. “ Whenever I had free time, I used to spend my time either contributing to ATJ or learning code. I practically stopped binge watching Netflix or Prime Videos and only took short breaks as needed”, he shares.
+Suvash shares that having a team to work with was invaluable to his professional growth. “I built the ATJ frontend from scratch and that I guess became one of my biggest learnings. Later I also took on the role of Frontend guardian/lead. It's really inspiring to see how driven he was with ATJ considering that he also working full time at an Elderly Care center. “ Whenever I had free time, I used to spend my time either contributing to ATJ or learning code. I practically stopped binge watching Netflix or Prime Videos and only took short breaks as needed”, he shares.
 
 We had another teammate, Biswash (currently in Nepal), who completed his master’s degree from Sydney. He is one of the most talented people in terms of design that I have ever met. As a team, I would code and he would design. Working together was so much fun” he recalls. 
 
-Consequently, Biswash was able to land an internship in Sydney, leading to a permanent position within the company. 
+Consequently, Biswash was able to land an internship at a tech company in Sydney, leading to a permanent position now,  within the company. 
 
 ### Applying what he learned at a fulfilling tech job in Brisbane
 
