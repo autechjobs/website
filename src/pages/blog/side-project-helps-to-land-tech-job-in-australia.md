@@ -91,11 +91,11 @@ Consequently, Biswash was able to land an internship at a tech company in Sydney
 
 ### Applying what he learned at a fulfilling tech job in Brisbane
 
-After six months of working for ATJ, Suvash found himself a tech job as a Graduate Software Engineer at [IntelliHR](https://intellihr.co/), a Brisbane based IT company. He believes that working for ATJ as a side project helped him move forward with a point of strength.Once I joined intelliHR, I realized the gains that came from working with ATJ, he says.
+After six months of working for ATJ, Suvash found himself a tech job as a Graduate Software Engineer at [IntelliHR](https://intellihr.co/), a Brisbane based IT company. He believes that working for ATJ as a side project helped him move forward with a point of strength. Once I joined intelliHR, I realized the gains that came from working with ATJ, he says.
 
 *   I was able to understand the basic structure of coding, versioning, and how git works
 
-*   My current team members and my reporting manager were happy that I was able to start doing the frontend tasks independently 
+*   My current team members and reporting manager were happy that I was able to start doing frontend tasks independently 
 
 *   The skills I put to use such as effective code reviews, writing unit tests, and discussion prior to coding helped me and my teammates save time which we put to productive use.
 
@@ -107,31 +107,31 @@ Through his job searching experience, one piece of advice he would like to give 
 
 ## **Arpan KC**, *Junior Fullstack developer, A2B Australia, Sydney, AU*
 
-Growing up in Kathmandu, Nepal from humble beginnings, Arpan recalls not being particularly good at anything and being an introvert. “I went to a government school in my early years and later joined boarding school. Somewhere between grade 8 and grade 10, I figured that I wanted to be a “professional programmer\*\*”\*\* whatever that meant to me at that time. That is one reason why I believe I’m very lucky (to know early in my life what I wanted to do). From then on, this goal was always at the back of my mind and has guided every major decision until now.”
+Growing up in Kathmandu, Nepal from humble beginnings, Arpan recalls not being particularly good at anything and being an introvert. “I went to a government school in my early years and later joined boarding school. Somewhere between grade 8 and grade 10, I figured that I wanted to be a “professional programmer" whatever that meant to me at that time. That is one reason why I believe I’m very lucky (to know early in my life what I wanted to do). From then on, this goal was always at the back of my mind and has guided every major decision until now.”
 
 ### Initial challenges during the job search process:  
 
-After his fair share of working at a local cafe and at the customer service department at the Woolsworth Supermarket, Arpan was zoning in on finding a tech job that suited his skills. 
+After a fair share of working at the local cafe and at the customer service department of a popular supermarket, Arpan began zoning in on finding a tech job that suited his skills. 
 
 Some challenges I faced: 
 
 *   I was rejected multiple times because of my visa status (I’m on a Temporary Residence Visa), Later I added my visa status on my resume, that way recruiters/managers know early on. I think that helped.
 
-*   My lack of knowledge of how software engineers collaborated in teams (what tools they used, how they used them etc). These are the things that demonstrate you’re a professional in an interview in my opinion.
+*   Lack of knowledge on how software engineers collaborated in teams (what tools they used, how they used them etc). These are the things that demonstrate you’re a professional in an interview in my opinion.
 
 *   The interview process seemed very daunting, and like most engineers, I suffer from what they call ‘imposter syndrome’. So I did not apply to as many places as I should have.
 
 ### How AUtechjobs(ATJ) happened to him
 
-Arpan began approaching professionals to review his resume and stumbled upon ATJ by accident.  He had approached one of the team members contributing to ATJ. to review his resume. “I’d read his blog posts many times floating around LinkedIn. I had no doubt about his knowledge of the industry and he was truly a professional that a wannabe developer like me could hope to be. When I was approached with a project like ATJ, I said yes straight away because I knew this was an opportunity for rapid growth” he remembers.
+Arpan began approaching professionals to review his resume and stumbled upon ATJ by accident. He had approached one of the team members contributing to ATJ to review his resume.  “I’d read his blog posts many times floating around LinkedIn. I had no doubt about his knowledge of the industry and that he was someone that a wannabe developer like me could hope to be. When I was approached with a project like ATJ, I said yes straight away because I knew this was an opportunity for rapid growth” he remembers.
 
 ### Landing a job as a Junior Fullstack developer
 
-Six months down the line, Arpan successfully landed a role in [A2B Australia](https://www.a2baustralia.com/) where he currently works. Having a side project to fall back on has been helpful to him not just to land a job but also for numerous other reasons. He lists some ways in which ATJ helped him grow.
+After working at ATJ as a volunteer for six months, Arpan successfully landed a role in [A2B Australia](https://www.a2baustralia.com/) where he currently works. Having a side project to fall back on has been helpful to him not just to land a job but also for numerous other reasons. He lists some ways in which ATJ helped him grow.
 
-Aside from being able to put this on my resume, my experience at ATJ taught me: 
+Aside from being able to put this on my resume, the experience at ATJ taught me: 
 
-*   How to collaborate in a team ( the tools and methodology): Eg, I finally learned how to use Github properly, worked with a Kanban board (with other people), learned to communicate effectively in a team. These are the things that you do in commercial settings and this gave me something to talk about in interviews.
+*   How to collaborate in a team ( the tools and methodology): Eg, I finally learned how to use Github properly, worked with a Kanban board (with other people), learned to communicate effectively in a team. These are the things that you do in commercial settings and this gave me something substantial to talk about in my interviews.
 
 *   Experience with Cloud services(GCP), also helped.
 
@@ -141,7 +141,7 @@ Aside from being able to put this on my resume, my experience at ATJ taught me:�
 
 ### Moving forward: 
 
-“I think there is no better learning experience to code than building through projects. Before ATJ, I had been working on other side projects too.” Arpan mentions that he has also worked at Woolworth supermarket. But, not all side projects have had the same impact during tech interviews.
+“I think there is no better learning experience to code than building through projects. Before ATJ, I had been working on other side projects too.” Arpan mentions that he also has experience of working at the Woolworth supermarket. But, not all side projects have had the same impact during tech interviews.
 
 > “It is essential that side projects are relevant to the job you are applying for”
 
