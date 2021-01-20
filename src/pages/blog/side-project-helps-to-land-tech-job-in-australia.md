@@ -21,8 +21,14 @@ At AU tech jobs(ATJ), 2020 was our first year in operation. We came together as 
 
 They talk about challenges in job search, what they learned working at ATJ, and how they navigated their way to successfully land the prized full-time tech job, all during the crippling pandemic. Let’s get cracking!
 
-**Ajeet Chaulagain**, Front-end Software Engineer, Melbourne, AU
+## **Ajeet Chaulagain**, Front-end Software Engineer, Melbourne, AU
 
 Ajeet has been into creating his own pet projects since he was in high school. Talking about how he grew up, he reflects, “ Born and brought up in Kathmandu, Nepal as a 90’s kid I had limited access to mobile phones or computers. However, I created a simple toy snake game using Action Script in Adobe Flash that received a lot of support and recognition from my loved ones. It might have been a pivotal moment in life that set my direction towards a career in the tech industry.” 
 
+### Initial challenges faced during the job search process:  
 
+He further exclaims, “Based on the skills mentioned in the job description, I would select multiple jobs to apply for that matched my own skillset. **But I rarely heard back**. If I did, I was mostly being rejected. It was then that I decided to hit pause on the job hunt and find out why I wasn’t getting hired”
+
+
+
+Just out of college in Australia, with a master’s degree from the Swinburne University of Technology, Ajeet found himself in an array of job hunting queues only to be rejected after the initial interview. 
