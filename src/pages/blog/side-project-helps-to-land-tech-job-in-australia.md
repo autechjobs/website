@@ -88,3 +88,19 @@ Suvash shares that having a team to work with was invaluable to his professional
 We had another teammate, Biswash (currently in Nepal), who completed his master’s degree from Sydney. He is one of the most talented people in terms of design that I have ever met. As a team, I would code and he would design. Working together was so much fun” he recalls. 
 
 Consequently, Biswash was able to land an internship in Sydney, leading to a permanent position within the company. 
+
+### Applying what he learned at a fulfilling tech job in Brisbane
+
+After six months of working for ATJ, Suvash found himself a tech job as a Graduate Software Engineer at [IntelliHR](https://intellihr.co/), a Brisbane based IT company. He believes that working for ATJ as a side project helped him move forward with a point of strength.Once I joined intelliHR, I realized the gains that came from working with ATJ, he says.
+
+*   I was able to understand the basic structure of coding, versioning, and how git works
+
+*   My current team members and my reporting manager were happy that I was able to start doing the frontend tasks independently 
+
+*   The skills I put to use such as effective code reviews, writing unit tests, and discussion prior to coding helped me and my teammates save time which we put to productive use.
+
+*   As a beginner at ATJ I was able to put into practice the basic concepts of programming, which gave me an advantage at job interviews and now at my new tech job. 
+
+ATJ became a side project that acted as a threshold of his career in Australia.“ It was overwhelming to not know where to start, but I knew I had to start somewhere,” he quips. 
+
+Through his job searching experience, one piece of advice he would like to give job seekers looking for tech jobs is to stay clear of self-doubt and the mentality that “you are not good enough”. “Work experience, knowledge, and skill are part of the journey and can be gradually developed,” he inferred. 
