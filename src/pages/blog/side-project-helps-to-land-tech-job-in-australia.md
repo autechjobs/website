@@ -145,7 +145,7 @@ Aside from being able to put this on my resume, my experience at ATJ taught me:�
 
 > “It is essential that side projects are relevant to the job you are applying for”
 
-“They can give you a feel for the real world, at least that's what ATJ did for me,” he says. As for advice to job seekers, he shares some basic but very useful tips. “From my experience, the most important things are:
+“They can give you a feel for the real tech world, at least that's what ATJ did for me,” he says. As for advice to job seekers, he shares some basic but very useful tips. “From my experience, the most important things are:
 
 *   Keep building stuff (get involved in projects from start to finish)
 
@@ -155,10 +155,10 @@ Aside from being able to put this on my resume, my experience at ATJ taught me:�
 
 *   Keep finding ways to get your work reviewed
 
-These are the things I think  that makes you a solid candidate and will help you find a tech job.”
+These are my advice on what makes you a solid candidate and may help you find a tech job.”
 
 ## Conclusion
 
-A relevant side project or updated portfolio is a great way to build a platform to showcase your body of work without having to involve in a full-time job. They act as validation to your skills and make you stand out in interviews. Not just that, you could navigate your way into far better remuneration packages by justifying your expertise with the work you have done. 
+A relevant side project or updated portfolio is a great way to build a platform that showcases your body of work without having to involve in a full-time job. They act as validation to your skills and make you stand out in interviews. Not just that, you could navigate your way into far better remuneration packages by justifying your expertise with the work you have done. 
 
 Job seekers can use side projects to tap into new opportunities. Thanks to the pandemic, you can work from anywhere around the world as working remotely is becoming the norm. Side projects also help you stay updated with tech industry trends.  These engineers have proven in many ways, that a relevant and meaningful side project can be beneficial to help you successfully land a dream tech job.
