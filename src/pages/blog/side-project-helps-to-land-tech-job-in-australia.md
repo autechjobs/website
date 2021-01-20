@@ -141,4 +141,24 @@ Aside from being able to put this on my resume, my experience at ATJ taught me:�
 
 ### Moving forward: 
 
-“I think there is no better learning experience to code than building through projects. Before ATJ, I had been working on other side projects too.” Arpan mentions that he has also worked at Woolworth supermarket. But, not all side projects have had the same impact during tech interviews. 
+“I think there is no better learning experience to code than building through projects. Before ATJ, I had been working on other side projects too.” Arpan mentions that he has also worked at Woolworth supermarket. But, not all side projects have had the same impact during tech interviews.
+
+> “It is essential that side projects are relevant to the job you are applying for”
+
+“They can give you a feel for the real world, at least that's what ATJ did for me,” he says. As for advice to job seekers, he shares some basic but very useful tips. “From my experience, the most important things are:
+
+*   Keep building stuff (get involved in projects from start to finish)
+
+*   Collaborate when you can 
+
+*   Find a mentor
+
+*   Keep finding ways to get your work reviewed
+
+These are the things I think  that makes you a solid candidate and will help you find a tech job.”
+
+## Conclusion
+
+Side projects or constantly updating a personal portfolio is a great way to build a platform to showcase your body of work without having to involve in a full-time job. They act as validation to your skills and make you stand out in interviews. Not just that, you could navigate your way into better remuneration packages by justifying your expertise with the work you have done. 
+
+Job seekers can use side projects to tap into new opportunities to work around the world as working remotely is becoming the norm. They also help you stay updated with tech industry trends.  These engineers prove, in many ways, that a relevant and meaningful side project can be beneficial to help you successfully land a dream tech job. 
