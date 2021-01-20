@@ -35,3 +35,20 @@ He further exclaims, “Based on the skills mentioned in the job description, I 
 
 In the process of working on his skills through personal projects, Ajeet connected with the project lead (another volunteer at ATJ) through which he joined the team at ATJ. “After an engaging and fruitful conversation, I was sold on the idea of contributing to ATJ as a frontend engineer",he recalls.
 
+### The learning process: 
+
+“Through this single side project, I got a chance to enhance  several of my skills, including:
+
+*   Working effectively with a group of an agile team to release the features through a robust Continuous Integration (CI) / Continuous Delivery (CD) pipeline.
+
+*   How to think about edge cases while adding features in a production-grade application to avoid potential issues 
+
+*   Writing clean, maintainable, and balanced test cases.
+
+*   Effective communication between team members to solve the problem.
+
+*   How to do effective code reviews.
+
+Also, one of the exciting things for me was a custom Slack Bot at Au Tech Jobs. I really loved deploying features and bug fixes added to the desired environment(Staging, Production) by simply mentioning a bot with a single line of command. 
+
+Had I not decided to contribute for ATJ and other side projects I would probably still be frustrated by not landing any exciting offers from my job search,” he rejoices.
