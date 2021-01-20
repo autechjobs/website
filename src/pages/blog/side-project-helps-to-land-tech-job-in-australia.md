@@ -72,3 +72,7 @@ Suvash grew up in Nepal and went to Prime College in Kathmandu. With a vision to
 Suvash was on a two year PSW (Post-study-work)visa while in Australia. He found out that most companies that he looked for were either hiring Australian citizens or Australian permanent residents only. This unsaid rule seemed to add an extra challenge to the already competitive tech job market. 
 
 Apart from visa issues, he found that lack of experience became a challenge. ”I have good grades but academic excellence alone wasn't a good measure of a solid resume.” he laments.
+
+> “Basically if you don't have a working URL, your chance to land an interview goes down significantly.”
+
+He realized that he needed coding experiences that could stem initially from pet projects, or from courses on platforms like Udemy, or a blog. “ So, I started learning React JS from Udemy,” he says. 
