@@ -121,6 +121,20 @@ Some challenges I faced: 
 
 *   The interview process seemed very daunting, and like most engineers, I suffer from what they call ‘imposter syndrome’. So I did not apply to as many places as I should have.
 
-### How AUtechjobs(ATJ) happened to him&#xA;&#xA;&#xA;&#xA;
+### How AUtechjobs(ATJ) happened to him
 
 Arpan began approaching professionals to review his resume and stumbled upon ATJ by accident.  He had approached one of the team members contributing to ATJ. to review his resume. “I’d read his blog posts many times floating around LinkedIn. I had no doubt about his knowledge of the industry and he was truly a professional that a wannabe developer like me could hope to be. When I was approached with a project like ATJ, I said yes straight away because I knew this was an opportunity for rapid growth” he remembers.
+
+## Landing a job as a Junior Fullstack developer
+
+Six months down the line, Arpan successfully landed a role in [A2B Australia](https://www.a2baustralia.com/) where he currently works. Having a side project to fall back on has been helpful to him not just to land a job but also for numerous other reasons. He lists some ways in which ATJ helped him grow.
+
+Aside from being able to put this on my resume, my experience at ATJ taught me: 
+
+*   How to collaborate in a team ( the tools and methodology): Eg, I finally learned how to use Github properly, worked with a Kanban board (with other people), learned to communicate effectively in a team. These are the things that you do in commercial settings and this gave me something to talk about in interviews.
+
+*   Experience with Cloud services(GCP), also helped.
+
+*   I learned the things that make awesome software ( a lot of tests & a smooth CI/CD pipeline)
+
+*   Mentorship from Geshan *dai(meaning brother in Nepali)* was the most important, every feedback and code review I got, I worked on it diligently.  I can say that the mentorship I received was instrumental in me becoming a more relevant candidate for recruiters. 
