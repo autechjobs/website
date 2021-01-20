@@ -76,3 +76,7 @@ Apart from visa issues, he found that lack of experience became a challenge. ”
 > “Basically if you don't have a working URL, your chance to land an interview goes down significantly.”
 
 He realized that he needed coding experiences that could stem initially from pet projects, or from courses on platforms like Udemy, or a blog. “ So, I started learning React JS from Udemy,” he says. 
+
+### How AUtechjobs(ATJ) happened to him:
+
+Exploring volunteer projects to work on came from a deep realization that he had to involve in something more tangible than coding exercises from training programs. “ They were good learning experiences but later I was looking to get my hands dirty on a project. That’s when I found out about ATJ. I came onboard at the end of March 2020 when the pandemic was starting to soar. I knew that this project would give me the platform to level up on my skills and I was excited by the opportunity” he recollects.
