@@ -23,7 +23,7 @@ They talk about challenges in job search, what they learned working at ATJ, and 
 
 ## **Ajeet Chaulagain**, *Front-end Software Engineer, Melbourne, AU*
 
-Ajeet has been into creating his own pet projects since he was in high school. Talking about how he grew up, he reflects, “ Born and brought up in Kathmandu, Nepal as a 90’s kid I had limited access to mobile phones or computers. However, I created a simple toy snake game using Action Script in Adobe Flash that received a lot of support and recognition from my loved ones. It might have been a pivotal moment in life that set my direction towards a career in the tech industry.” 
+Ajeet has been into creating his own pet projects since he was in high school. Reflecting upon his childhood days, he shares, “ Born and brought up in Kathmandu, Nepal as a 90’s kid I had limited access to mobile phones or computers. However, I created a simple toy snake game using Action Script in Adobe Flash that received a lot of support and recognition from my loved ones. It might have been a pivotal moment in life that set my direction towards a career in the tech industry.” 
 
 ### Initial challenges faced during the job search process:  
 
@@ -33,7 +33,7 @@ He further exclaims, “Based on the skills mentioned in the job description, I 
 
 ### How AUtechjobs(ATJ) happened to him: 
 
-In the process of working on his skills through personal projects, Ajeet connected with the project lead (another volunteer at ATJ) through which he joined the team at ATJ. “After an engaging and fruitful conversation, I was sold on the idea of contributing to ATJ as a frontend engineer",he recalls.
+In the process of working on his skills through personal projects, Ajeet connected with the project lead (another volunteer ) at ATJ through which he joined the team. “After an engaging and fruitful conversation, I was sold on the idea of contributing to ATJ as a frontend engineer", he recalls.
 
 ### The learning process: 
 
