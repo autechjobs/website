@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  Inspiring stories of 3 software engineers who landed lucrative tech jobs in
+  Australia after working on a real-life side project
 subtitle: lorem-ipsum
 date: '2021-01-20'
 excerpt: >-
