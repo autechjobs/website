@@ -62,3 +62,13 @@ For recent graduates like him, side projects are a great way to get hands-on exp
 > “ Looking back, my decision to prioritize on enhancing my skills by running a side project end to end and contributing to open source projects allowed me the space to build a practical experience that I previously lacked.” 
 
 When asked about my experience at interviews, I am now able to depend on my side projects to show myself as someone who has made a difference using the skills that recruiters are looking for”, he says.
+
+## **Suvash Budathoki ***Graduate Software Engineer, IntelliHR, Brisbane, AU*
+
+Suvash grew up in Nepal and went to Prime College in Kathmandu. With a vision to get more out of life, he headed towards Australia to complete his higher education, to experience international culture, and to explore new ways of thinking. Here, he graduated with a master’s degree from CQ Australia in 2018 and started looking for work opportunities. 
+
+### Initial challenges during job search : 
+
+Suvash was on a two year PSW (Post-study-work)visa while in Australia. He found out that most companies that he looked for were either hiring Australian citizens or Australian permanent residents only. This unsaid rule seemed to add an extra challenge to the already competitive tech job market. 
+
+Apart from visa issues, he found that lack of experience became a challenge. ”I have good grades but academic excellence alone wasn't a good measure of a solid resume.” he laments.
