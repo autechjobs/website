@@ -15,9 +15,6 @@ excerpt: >+
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
 ---
-## Lorem ipsum
+At AU tech jobs(ATJ), 2020 was our first year in operation. We came together as a remote team of volunteers who cared deeply about making tech job search a hassle-free process in Australia. This article is about contributors to AUtechjobs - three software engineers who found incredible ways to learn and grow beyond their limitations and used a common side project - ATJ to land a full-time tech job in Australia.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+They talk about challenges in job search, what they learned working at ATJ, and how they navigated their way to successfully land the prized full-time tech job, all during the crippling pandemic. Let’s get cracking!
