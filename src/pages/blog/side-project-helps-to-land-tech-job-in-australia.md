@@ -17,8 +17,6 @@ author: src/data/authors/ansubha-manandhar.yaml
 image: images/side project helps land techjobs.jpg
 thumb_image: images/side project helps land techjobs _small.jpg
 ---
-
-
 At AU tech jobs(ATJ), 2020 was our first year in operation. We came together as a remote team of volunteers who cared deeply about making tech job search a hassle-free process in Australia. This article is about contributors to AUtechjobs - three software engineers who found incredible ways to learn and grow beyond their limitations and used a common side project - ATJ to land a full-time tech job in Australia.
 
 They talk about challenges in job search, what they learned working at ATJ, and how they navigated their way to successfully land the prized full-time tech job, all during the crippling pandemic. Let’s get cracking!
@@ -107,4 +105,12 @@ ATJ became a side project that acted as a threshold of his career in Australia.�
 
 Through his job searching experience, one piece of advice he would like to give job seekers looking for tech jobs is to stay clear of self-doubt and the mentality that “you are not good enough”. “Work experience, knowledge, and skill are part of the journey and can be gradually developed,”he inferred. 
 
-## **Arpan KC**, *Junior Fullstack developer, A2B Australia, Sydney, AU*&#xA;&#xA; 
+## **Arpan KC**, *Junior Fullstack developer, A2B Australia, Sydney, AU*
+
+Growing up in Kathmandu, Nepal from humble beginnings, Arpan recalls not being particularly good at anything and being an introvert. “I went to a government school in my early years and later joined boarding school. Somewhere between grade 8 and grade 10, I figured that I wanted to be a “professional programmer**”** whatever that meant to me at that time. That is one reason why I believe I’m very lucky (to know early in my life what I wanted to do). From then on, this goal was always at the back of my mind and has guided every major decision until now.”
+
+
+
+
+
+
