@@ -107,10 +107,16 @@ Through his job searching experience, one piece of advice he would like to give 
 
 ## **Arpan KC**, *Junior Fullstack developer, A2B Australia, Sydney, AU*
 
-Growing up in Kathmandu, Nepal from humble beginnings, Arpan recalls not being particularly good at anything and being an introvert. “I went to a government school in my early years and later joined boarding school. Somewhere between grade 8 and grade 10, I figured that I wanted to be a “professional programmer**”** whatever that meant to me at that time. That is one reason why I believe I’m very lucky (to know early in my life what I wanted to do). From then on, this goal was always at the back of my mind and has guided every major decision until now.”
+Growing up in Kathmandu, Nepal from humble beginnings, Arpan recalls not being particularly good at anything and being an introvert. “I went to a government school in my early years and later joined boarding school. Somewhere between grade 8 and grade 10, I figured that I wanted to be a “professional programmer\*\*”\*\* whatever that meant to me at that time. That is one reason why I believe I’m very lucky (to know early in my life what I wanted to do). From then on, this goal was always at the back of my mind and has guided every major decision until now.”
 
+### Initial challenges during the job search process:  
 
+After his fair share of working at a local cafe and at the customer service department at the Woolsworth Supermarket, Arpan was zoning in on finding a tech job that suited his skills. 
 
+Some challenges I faced: 
 
+*   I was rejected multiple times because of my visa status (I’m on a Temporary Residence Visa), Later I added my visa status on my resume, that way recruiters/managers know early on. I think that helped.
 
+*   My lack of knowledge of how software engineers collaborated in teams (what tools they used, how they used them etc). These are the things that demonstrate you’re a professional in an interview in my opinion.
 
+*   The interview process seemed very daunting, and like most engineers, I suffer from what they call ‘imposter syndrome’. So I did not apply to as many places as I should have.
