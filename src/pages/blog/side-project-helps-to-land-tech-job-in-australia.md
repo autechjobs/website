@@ -14,7 +14,6 @@ excerpt: >+
 
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
-thumb_image: images/side project helps land techjobs _small.jpg
 image: images/3 softwrae engineers large.jpg
 ---
 At AU tech jobs(ATJ), 2020 was our first year in operation. We came together as a remote team of volunteers who cared deeply about making tech job search a hassle-free process in Australia. This article is about contributors to AUtechjobs - three software engineers who found incredible ways to learn and grow beyond their limitations and used a common side project - ATJ to land a full-time tech job in Australia.
