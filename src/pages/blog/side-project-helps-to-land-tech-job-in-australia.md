@@ -1,5 +1,7 @@
 ---
-title: Inspiring stories of 3 software engineers
+title: >-
+  3 software engineers share how a side project can help you land a lucrative
+  tech job
 subtitle: >-
   These engineers prove, in many ways, that a relevant and meaningful side
   project can be beneficial to help you successfully land a dream tech job.
