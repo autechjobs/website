@@ -159,6 +159,6 @@ These are the things I think  that makes you a solid candidate and will help yo
 
 ## Conclusion
 
-A relevant side project or updated portfolio is a great way to build a platform to showcase your body of work without having to involve in a full-time job. They act as validation to your skills and make you stand out in interviews. Not just that, you could navigate your way into better remuneration packages by justifying your expertise with the work you have done. 
+A relevant side project or updated portfolio is a great way to build a platform to showcase your body of work without having to involve in a full-time job. They act as validation to your skills and make you stand out in interviews. Not just that, you could navigate your way into far better remuneration packages by justifying your expertise with the work you have done. 
 
 Job seekers can use side projects to tap into new opportunities to work around the world as working remotely is becoming the norm. They also help you stay updated with tech industry trends.  These engineers prove, in many ways, that a relevant and meaningful side project can be beneficial to help you successfully land a dream tech job.
