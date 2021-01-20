@@ -120,3 +120,7 @@ Some challenges I faced: 
 *   My lack of knowledge of how software engineers collaborated in teams (what tools they used, how they used them etc). These are the things that demonstrate you’re a professional in an interview in my opinion.
 
 *   The interview process seemed very daunting, and like most engineers, I suffer from what they call ‘imposter syndrome’. So I did not apply to as many places as I should have.
+
+### How AUtechjobs(ATJ) happened to him&#xA;&#xA;&#xA;&#xA;
+
+Arpan began approaching professionals to review his resume and stumbled upon ATJ by accident.  He had approached one of the team members contributing to ATJ. to review his resume. “I’d read his blog posts many times floating around LinkedIn. I had no doubt about his knowledge of the industry and he was truly a professional that a wannabe developer like me could hope to be. When I was approached with a project like ATJ, I said yes straight away because I knew this was an opportunity for rapid growth” he remembers.
