@@ -51,7 +51,7 @@ In the process of working on his skills through personal projects, Ajeet connect
 
 Also, one of the exciting things for me was a custom Slack Bot at Au Tech Jobs. I really loved deploying features and bug fixes added to the desired environment(Staging, Production) by simply mentioning a bot with a single line of command. 
 
-Had I not decided to contribute for ATJ and other side projects I would probably still be frustrated by not landing any exciting offers from my job search,” he rejoices.
+Had I not decided to contribute for ATJ and other side projects I would probably still be frustrated by not landing any exciting offers from my job search,” he muses.
 
 ### Landing tech jobs as a freelancer: 
 
@@ -59,9 +59,9 @@ Ajeet is now working as a successful freelancer by contributing to open source p
 
 For recent graduates like him, side projects are a great way to get hands-on experience with applying what you have learned as well as staying upbeat in the current market.
 
-> “ Looking back, my decision to prioritize on enhancing my skills by running a side project end to end and contributing to open source projects allowed me the space to build a practical experience that I previously lacked.” 
+> “ Looking back, my decision to prioritize on enhancing skills by running a side project end to end and contributing to open source projects had allowed me the space to build a practical experience that I previously lacked.” 
 
-When asked about my experience at interviews, I am now able to depend on my side projects to show myself as someone who has made a difference using the skills that recruiters are looking for”, he says.
+"When I am asked about my work experience at interviews, I am now able to depend on my side projects. I can show myself as someone who has made a difference using the skills that recruiters are looking for”, he says.
 
 ## **Suvash Budathoki**, *Graduate Software Engineer, IntelliHR, Brisbane, AU*
 
