@@ -4,7 +4,7 @@ title: >-
   tech job
 subtitle: >-
   A relevant and meaningful side project can be beneficial to help you
-  successfully land a dream tech job.
+  successfully land a lucrative tech job.
 date: '2021-01-20'
 excerpt: >+
   This article is about contributors to AUtechjobs - three software engineers
