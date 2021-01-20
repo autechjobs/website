@@ -59,9 +59,6 @@ Ajeet is now working as a successful freelancer by contributing to open source p
 
 For recent graduates like him, side projects are a great way to get hands-on experience with applying what you have learned as well as staying upbeat in the current market.
 
->  “ Looking back, my decision to prioritize on enhancing my skills by running a side project end to end and contributing to open source projects allowed me the space to build a practical experience that I previously lacked.”
->
-> When asked about my experience at interviews, I am now able to depend on my side projects to show myself as someone who has made a difference using the skills that recruiters are looking for”, he says.
->
->
->
+> “ Looking back, my decision to prioritize on enhancing my skills by running a side project end to end and contributing to open source projects allowed me the space to build a practical experience that I previously lacked.” 
+
+When asked about my experience at interviews, I am now able to depend on my side projects to show myself as someone who has made a difference using the skills that recruiters are looking for”, he says.
