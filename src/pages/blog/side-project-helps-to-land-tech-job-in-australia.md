@@ -25,8 +25,6 @@ They talk about challenges in job search, what they learned working at ATJ, and 
 
 Ajeet has been into creating his own pet projects since he was in high school. Reflecting upon his childhood days, he shares, “ Born and brought up in Kathmandu, Nepal as a 90’s kid I had limited access to mobile phones or computers. However, I created a simple toy snake game using Action Script in Adobe Flash that received a lot of support and recognition from my loved ones. It might have been a pivotal moment in life that set my direction towards a career in the tech industry.” 
 
-
-
 ![](https://autechjobs.ml/images/ajeet.jpg)
 
 ### Initial challenges faced during the job search process:  
@@ -71,6 +69,10 @@ For recent graduates like him, side projects are a great way to get hands-on exp
 
 Suvash grew up in Nepal and went to Prime College in Kathmandu. With a vision to get more out of life, he headed towards Australia to complete his higher education, to experience an international culture, and to explore new ways of thinking. Here, he graduated with a master’s degree from CQ Australia in 2018 and started looking for work opportunities. 
 
+
+
+![](https://autechjobs.ml/images/suvash.jpg)
+
 ### Initial challenges during job search : 
 
 Suvash was on a two year PSW (Post-study-work)visa while in Australia. He found out that most companies that he looked for were either hiring Australian citizens or Australian permanent residents only. This unsaid rule seemed to add an extra challenge to the already competitive tech job market. 
@@ -107,7 +109,7 @@ After six months of working for ATJ, Suvash found himself a tech job as a Gradua
 
 ATJ became a side project that acted as a threshold of his career in Australia.“ It was overwhelming to not know where to start, but I knew I had to start somewhere,” he quips. 
 
-Through his job searching experience, one piece of advice he would like to give job seekers looking for tech jobs is to stay clear of self-doubt and the mentality that “you are not good enough”. “Work experience, knowledge, and skill are part of the journey and can be gradually developed,”he inferred. 
+Through his job searching experience, one piece of advice he would like to give job seekers looking for tech jobs is to stay clear of self-doubt and the mentality that “you are not good enough”. “Work experience, knowledge, and skill are part of the journey and can be gradually developed,” he inferred. 
 
 ## **Arpan KC**, *Junior Fullstack developer, A2B Australia, Sydney, AU*
 
