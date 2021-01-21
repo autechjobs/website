@@ -5,17 +5,28 @@ sections:
     type: section_hero
     image: images/au-tech-jobs-search.jpg
     title: Liberating Job Search!
-    content: >-
-      Looking for a career launch or the next dream job? We understand your
-      hustle to land that ideal tech job in Australia, we are here to simplify
-      your hassle. Join AU Tech jobs now and make your search easier, better and
-      faster.
+    content: |
 
 
-      Australia’s tech industry is ever expanding and competitive. Navigate
-      through our growing list of 50 plus companies and 1000+ jobs to toggle
-      options like visa sponsoring tech job vacancies in Australia. Get sorted
-      with AU Tech jobs!
+
+
+
+
+
+
+
+
+
+
+
+
+      We help you to make
+      your job search hassle-free like a low hanging fruit.
+
+      Pick from 1000plus
+      tech jobs with options to view visa sponsoring companies in Australia.
+
+      Get sorted now!
     actions:
       - label: Sign Up
         url: 'https://app.autechjobs.ml'
