@@ -81,8 +81,6 @@ Apart from visa issues, he found that lack of work experience became a challenge
 
 He realized that he needed coding experiences that could stem initially from pet projects, or from courses on platforms like Udemy, or a blog. “ So, I started learning React JS from Udemy,” he says. 
 
-
-
 ![](https://autechjobs.ml/images/suvash1.jpg)
 
 ### How AUtechjobs(ATJ) happened to him:
