@@ -69,8 +69,6 @@ For recent graduates like him, side projects are a great way to get hands-on exp
 
 Suvash grew up in Nepal and went to Prime College in Kathmandu. With a vision to get more out of life, he headed towards Australia to complete his higher education, to experience an international culture, and to explore new ways of thinking. Here, he graduated with a master’s degree from CQ Australia in 2018 and started looking for work opportunities. 
 
-
-
 ![](https://autechjobs.ml/images/suvash.jpg)
 
 ### Initial challenges during job search : 
@@ -114,6 +112,10 @@ Through his job searching experience, one piece of advice he would like to give 
 ## **Arpan KC**, *Junior Fullstack developer, A2B Australia, Sydney, AU*
 
 Growing up in Kathmandu, Nepal from humble beginnings, Arpan recalls not being particularly good at anything and being an introvert. “I went to a government school in my early years and later joined boarding school. Somewhere between grade 8 and grade 10, I figured that I wanted to be a “professional programmer" whatever that meant to me at that time. That is one reason why I believe I’m very lucky (to know early in my life what I wanted to do). From then on, this goal was always at the back of my mind and has guided every major decision until now.”
+
+
+
+![](https://autechjobs.ml/images/arpan.jpg)
 
 ### Initial challenges during the job search process:  
 
