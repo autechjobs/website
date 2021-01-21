@@ -113,13 +113,11 @@ Through his job searching experience, one piece of advice he would like to give 
 
 Growing up in Kathmandu, Nepal from humble beginnings, Arpan recalls not being particularly good at anything and being an introvert. “I went to a government school in my early years and later joined boarding school. Somewhere between grade 8 and grade 10, I figured that I wanted to be a “professional programmer" whatever that meant to me at that time. That is one reason why I believe I’m very lucky (to know early in my life what I wanted to do). From then on, this goal was always at the back of my mind and has guided every major decision until now.”
 
-
-
 ![](https://autechjobs.ml/images/arpan.jpg)
 
 ### Initial challenges during the job search process:  
 
-After a fair share of working at the local cafe and at the customer service department of a popular supermarket, Arpan began zoning in on finding a tech job that suited his skills. 
+After a fair share of working other jobs to sustain himself, Arpan began zoning in on finding a tech job that suited his skills. 
 
 Some challenges I faced: 
 
@@ -149,7 +147,7 @@ Aside from being able to put this on my resume, the experience at ATJ taught me:
 
 ### Moving forward: 
 
-“I think there is no better learning experience to code than building through projects. Before ATJ, I had been working on other side projects too.” Arpan mentions that he also has experience of working at the Woolworth supermarket. But, not all side projects have had the same impact during tech interviews.
+“I think there is no better learning experience to code than building through projects. Before ATJ, I had been working on other side projects too.” Arpan mentions that he also has experience working on other casual jobs. But, not all side projects have had the same impact during tech interviews.
 
 > “It is essential that side projects are relevant to the job you are applying for”
 
