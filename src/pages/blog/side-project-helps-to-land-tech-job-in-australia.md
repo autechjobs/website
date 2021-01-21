@@ -147,7 +147,7 @@ Aside from being able to put this on my resume, the experience at ATJ taught me:
 
 ### Moving forward: 
 
-“I think there is no better learning experience to code than building through projects. Before ATJ, I had been working on other side projects too.” Arpan mentions that he also has experience working on other casual jobs. But, not all side projects have had the same impact during tech interviews.
+“I think there is no better learning experience to code than building through projects. Before ATJ, I had been working on other side projects too.”  But, not all of his side projects have had the same impact during tech interviews.
 
 > “It is essential that side projects are relevant to the job you are applying for”
 
