@@ -25,6 +25,10 @@ They talk about challenges in job search, what they learned working at ATJ, and 
 
 Ajeet has been into creating his own pet projects since he was in high school. Reflecting upon his childhood days, he shares, “ Born and brought up in Kathmandu, Nepal as a 90’s kid I had limited access to mobile phones or computers. However, I created a simple toy snake game using Action Script in Adobe Flash that received a lot of support and recognition from my loved ones. It might have been a pivotal moment in life that set my direction towards a career in the tech industry.” 
 
+!\[Ajeet]\([https://autechjobs.ml/images/ajeet.jpg](https://www.google.com/url?q=https://autechjobs.ml/images/02leaf.jpg\&sa=D\&source=hangouts\&ust=1608605570229000\&usg=AFQjCNECWeqtXex1fnwob6LhElr2nWcwSw) "Ajeet")
+
+
+
 ### Initial challenges faced during the job search process:  
 
 Just out of college in Australia, with a master’s degree from the Swinburne University of Technology, Ajeet found himself in an array of job hunting queues only to be rejected after the initial interview. 
