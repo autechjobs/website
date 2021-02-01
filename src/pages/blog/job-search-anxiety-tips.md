@@ -28,8 +28,6 @@ Through his insights, one can unravel the scenario of what may be the plight of 
 
 *It's very common.*
 
->
->
 > “In all my years of career coaching, I have honestly only encountered one or two people who weren't anxious about their job search”.
 
 *Anxiety is particularly common for people who have lost their job. They've already taken a hit to their confidence. Entering the job market is daunting. We risk rejection, applying for jobs, and attending interviews aren't things that people tend to do very often so many people will feel anxious about their capabilities not only in the jobs they are applying for but the process of job search itself. And, of course, job-seeking requires us to put ourselves out there to be judged so it's no wonder that almost everyone feels at least some anxiety about the process. *
@@ -40,7 +38,7 @@ Through his insights, one can unravel the scenario of what may be the plight of 
 
 *Job search anxiety often leads to avoidance and procrastination because people overly focus on the outcome - "there are so many more qualified people out there so there's no point in even applying for this job."* 
 
-*So, my best advice is to focus on the process, not the outcome. Apply to as many relevant jobs as possible, put yourself in the race, attend the networking events even when you don't want to go, make those virtual connections, etc. Focus on putting your best foot forward and let the outcome take care of itself. Job search, in many ways, is a numbers game so you have to focus on doing the right activities. It can also be a frustrating and lonely process. Rejection will happen so be kind to yourself and try to build a strong social network of friends and colleagues that you can connect with, get advice and sometimes just share your frustrations with. And finally, I cannot speak more highly of the value of working with a professional career coach. *
+*So, my best advice is to focus on the process, not the outcome. Apply to as many relevant jobs as possible, put yourself in the race, attend the networking events even when you don't want to go, make those virtual connections, etc. Focus on putting your best foot forward and let the outcome take care of itself. Job search, in many ways, is a numbers game so you have to focus on doing the right activities. It can also be a frustrating and lonely process. Rejection will happen so be kind to yourself and try to build a strong social network of friends and colleagues that you can connect with, get advice and sometimes just share your frustrations with. And finally, I cannot speak more highly of the value of working with a professional career coach.* 
 
 Job search anxiety is very real, it happens to the best of us. If you are someone who gets anxious about searching for a job, talking to people, the process just makes you nervous, you have come to the right place. Or maybe you are looking for a job after a long time, this article is for you. You can learn how to turn a frustrating, often overwhelming task like searching for a job into a positive learning experience with these tips.
 
