@@ -22,13 +22,13 @@ Through his insights, one can unravel the scenario of what may be the plight of 
 
 1\. What kind of issues have you come across relating to job seekers who have anxiety looking for a job? 
 
-*I think the biggest issue is that anxiety about job seeking can often lead people to hesitate and/or procrastinate around applying for jobs. "You have to be in it to win it" is absolutely true for job seekers. Anxiety can cause us to second guess our own worth and we may miss out on opportunities simply because we didn't put ourselves forward. It can also impact our confidence in networking. Whether it's on-line or in person, networking is critical to successful job seeking. When we're anxious or lacking confidence, we tend to shy away from attending events or engaging in virtual networking.  *
+*I think the biggest issue is that anxiety about job seeking can often lead people to hesitate and/or procrastinate around applying for jobs. "You have to be in it to win it" is absolutely true for job seekers. Anxiety can cause us to second guess our own worth and we may miss out on opportunities simply because we didn't put ourselves forward. It can also impact our confidence in networking. Whether it's on-line or in person, networking is critical to successful job seeking. When we're anxious or lacking confidence, we tend to shy away from attending events or engaging in virtual networking.*  
 
 2\. Can you give us an idea about how common this anxiety might be? What is it that these people feel anxious about?
 
-* It's very common.*
+*It's very common.*
 
-> * *
+>
 >
 > “In all my years of career coaching, I have honestly only encountered one or two people who weren't anxious about their job search”.
 
@@ -38,7 +38,7 @@ Through his insights, one can unravel the scenario of what may be the plight of 
 
 *I wouldn't feel qualified to comment on prescribed methods of coping with job search anxiety as this is the realm of clinical psychology. However, it's similar to many other types of anxiety. I'll go back to my answer to the first question, though. *
 
-*Job search anxiety often leads to avoidance and procrastination because people overly focus on the outcome - "there are so many more qualified people out there so there's no point in even applying for this job." *
+*Job search anxiety often leads to avoidance and procrastination because people overly focus on the outcome - "there are so many more qualified people out there so there's no point in even applying for this job."* 
 
 *So, my best advice is to focus on the process, not the outcome. Apply to as many relevant jobs as possible, put yourself in the race, attend the networking events even when you don't want to go, make those virtual connections, etc. Focus on putting your best foot forward and let the outcome take care of itself. Job search, in many ways, is a numbers game so you have to focus on doing the right activities. It can also be a frustrating and lonely process. Rejection will happen so be kind to yourself and try to build a strong social network of friends and colleagues that you can connect with, get advice and sometimes just share your frustrations with. And finally, I cannot speak more highly of the value of working with a professional career coach. *
 
