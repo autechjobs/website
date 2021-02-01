@@ -30,11 +30,11 @@ Through his insights, one can unravel the scenario of what may be the plight of 
 
 > “In all my years of career coaching, I have honestly only encountered one or two people who weren't anxious about their job search”.
 
-*Anxiety is particularly common for people who have lost their job. They've already taken a hit to their confidence. Entering the job market is daunting. We risk rejection, applying for jobs, and attending interviews aren't things that people tend to do very often so many people will feel anxious about their capabilities not only in the jobs they are applying for but the process of job search itself. And, of course, job-seeking requires us to put ourselves out there to be judged so it's no wonder that almost everyone feels at least some anxiety about the process. *
+\*Anxiety is particularly common for people who have lost their job. They've already taken a hit to their confidence. Entering the job market is daunting. We risk rejection, applying for jobs, and attending interviews aren't things that people tend to do very often so many people will feel anxious about their capabilities not only in the jobs they are applying for but the process of job search itself. And, of course, job-seeking requires us to put ourselves out there to be judged so it's no wonder that almost everyone feels at least some anxiety about the process. \*
 
   3. Is there a prescribed method to cope with job search anxiety?
 
-\*I wouldn't feel qualified to comment on prescribed methods of coping with job search anxiety as this is the realm of clinical psychology. However, it's similar to many other types of anxiety. I'll go back to my answer to the first question, though. \*
+*I wouldn't feel qualified to comment on prescribed methods of coping with job search anxiety as this is the realm of clinical psychology. However, it's similar to many other types of anxiety. I'll go back to my answer to the first question, though. *
 
 *Job search anxiety often leads to avoidance and procrastination because people overly focus on the outcome - "there are so many more qualified people out there so there's no point in even applying for this job."* 
 
