@@ -6,6 +6,7 @@ title: >-
   Do software engineers need a cover letter? Impactful examples for your cover
   letter
 image: images/christina-wocintechchat-com-YVT21p6pO_g-unsplash.jpg
+thumb_image: images/smiling-chestnut.jpg
 ---
 The goal is to stand out and make yourself as unique from the crowd as possible to show how prepared you are to take on the responsibility that the job requires. 
 
