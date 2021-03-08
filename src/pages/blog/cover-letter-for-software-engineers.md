@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  Do software engineers need a cover letter and examples of how to make it
+  impactful
 subtitle: lorem-ipsum
 date: '2021-03-08'
 excerpt: >-
