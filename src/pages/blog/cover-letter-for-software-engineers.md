@@ -13,6 +13,7 @@ excerpt: >-
 
   - dolor sit amet
 template: post
+title: Do software engineers need a cover letter
 ---
 ## Lorem ipsum
 
