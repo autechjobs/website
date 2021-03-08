@@ -14,7 +14,7 @@ excerpt: >-
   - dolor sit amet
 template: post
 title: >-
-  Do software engineers need a cover letter? Impactful Examples your cover
+  Do software engineers need a cover letter? Impactful Examples for your cover
   letter
 ---
 ## Lorem ipsum
