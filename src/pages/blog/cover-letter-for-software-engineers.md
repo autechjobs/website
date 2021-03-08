@@ -1,7 +1,5 @@
 ---
-title: >-
-  Do software engineers need a cover letter and examples of how to make it
-  impactful
+title: Do software engineers need a cover letter and examples impactful
 subtitle: lorem-ipsum
 date: '2021-03-08'
 excerpt: >-
