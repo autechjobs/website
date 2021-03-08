@@ -20,7 +20,7 @@ Having said that, it pays to invest some time in reflection as to what part of y
 
 # Tips to write an impactful cover letter as a software engineer
 
-1.  ## Make it memorable: 
+## Make it memorable: 
 
 Recruiters are probably reading cover letters repeatedly so you want to be someone who is memorable amidst that monotony. How do you do it? 
 
@@ -36,7 +36,7 @@ Recruiters are probably reading cover letters repeatedly so you want to be someo
 
 “ After going to two boot camps and several counseling sessions I have realized that I am great at ( your core skills) 
 
-1.  ## Relevant to the job: 
+## Relevant to the job: 
 
 While writing a cover letter it is very important that you utilize fully the power of those 250- 300 words that give you an opportunity to answer,” Why should you get this job?” 
 
@@ -48,7 +48,7 @@ You could highlight important keywords from the job description and use them to 
 
  
 
-1.  ## Personalize and highlight details of your work experience:
+## Personalize and highlight details of your work experience:
 
  Here comes the part where you mention your skills, your projects, your impressive achievements in a way that builds into quantifiable measurements of your success. Here is what I mean: 
 
@@ -66,7 +66,7 @@ Rather than simply stating facts like:
 
 “ I worked in collaboration with several marketers and product team members within the company from… to …” 
 
-1.  ## Add soft skills that are in demand for software engineers
+## Add soft skills that are in demand for software engineers
 
 Recruiters must have read hundreds of letters that promise they have the skills to become software engineers. But what makes you more appealing as a job candidate is how humanly relatable you are. Especially now that working remotely has become the norm, software engineers are ever more required to be supremely efficient communicators in that they understand other people and know how to get themselves understood. Other skills like curiosity to try new things, adaptability, flexibility, and dynamism could be described through your working experience.
 
@@ -76,17 +76,17 @@ If you can, highlight these skills with personalized examples. What I mean is, y
 
 But this sentence doesn’t do much to set you apart from the rest. Here, the deal is not just to show what skills you have but also to show why you are different than the other applicants. While it is a perfectly good sentence to work with, you could make yourself more impactful by playing to your uniqueness such as,
 
-* “ If we need to migrate to a newer database I will also generally inquire about any downtime or burnout it may cause to end-users before implementing” *
+\* “ If we need to migrate to a newer database I will also generally inquire about any downtime or burnout it may cause to end-users before implementing” \*
 
 This is a very subtle inclination to show EXACTLY how you can be empathetic without having to say so. 
 
 Or, 
 
-*“As an independent consultant, all my clients were really thrilled that I completed all my tasks beforehand and really appreciated that I made presentations to make them understand relevant technical details in simple terms.” *
+\*“As an independent consultant, all my clients were really thrilled that I completed all my tasks beforehand and really appreciated that I made presentations to make them understand relevant technical details in simple terms.” \*
 
 This sentence describes that other people have tested and validated your skills. (more reason to hire you) It effectively implies that you are reliable, communicate well with your clients, and are on top of your task and time management skills. 
 
-1.  ## Stay true and genuine: 
+## Stay true and genuine: 
 
 Make sure your cover letter sounds like you. You can do this by: 
 
