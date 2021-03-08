@@ -1,5 +1,5 @@
 ---
-subtitle: lorem-ipsum
+subtitle: "Your cover letter needs to represent the value you will bring to the job as a candidate.\_ Then you need to market yourself by emphasizing and describing your unique achievements in well-articulated sentences.\_ You can then hope to be impactful in your endeavors to get on to the next round in your application process."
 date: '2021-03-08'
 excerpt: >-
   ## Lorem ipsum
