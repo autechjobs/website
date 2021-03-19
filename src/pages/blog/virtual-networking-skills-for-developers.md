@@ -5,8 +5,8 @@ excerpt: >
   More often than not, you will rely on your networking skills to land a job as
   a software engineer. These virtual networking tips show how to communicate
   with real people while social distancing.  They help you take charge of your
-  communication to further your career rather than just sending out resumes and
-  hoping to hear back.
+  communication to further your career goals rather than just sending out
+  resumes and hoping to hear back.
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
 image: >-
