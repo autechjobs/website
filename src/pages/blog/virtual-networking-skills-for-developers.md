@@ -58,7 +58,7 @@ Your volunteering experience will not only be essential to help you work in a te
 
 ## Hackathons, and coding challenges:
 
-Hackathons are not just about building project management, prioritizing, and problem-solving skills. Internal hackathons are a great way to cut across company bureaucracy and foster innovative techniques, and in doing so building great rapport and connection within teams. It keeps you in touch with the latest trend which is one great way to know if you may need some upskilling. 
+Hackathons are not just about building project management, prioritizing, and problem-solving skills. Internal hackathons are a great way to cut across company bureaucracy and foster innovative techniques, and in doing so building great rapport and connection within teams. It keeps you in touch with the latest trend which is one great way to know if you may need some upskilling.
 
 Although they may not have a direct impact on networking during the pandemic, your cumulative experience in hackathons and coding challenges could give you ground to talk about your experiences, your approach to problem-solving when interacting with other engineers or during interviews. Basically, they build on your networking by adding substance to the kind of work you have been exposed to. 
 
@@ -88,6 +88,5 @@ Another way to stay specific and relevant is by allowing the person you networke
 
 # Moving forward with virtual networking skills
 
-Whether you are a seasoned developer in the “biz” or a rookie out to set your own path, you will more often than not rely on your networking skills to land your next tech job as a software engineer. These virtual networking tips help present you in a positive light and show how to communicate your genuine interest rather than waiting for a call or email to show up from the companies you have reached out to. They help you build skills that take on a proactive approach to start your career as a software engineer.
+Although we cannot socialize in person, we can definitely adapt virtual means to continue to build and strengthen our professional network as software engineers. Whether you are a seasoned developer in the “biz” or a rookie out to set your own path, you will more often than not rely on your networking skills to land your next tech job as a software engineer. These virtual networking tips show how to communicate with real people while social distancing.  They can help you take charge of your communication to further your career goals rather than just sending out resumes and hoping to hear back.
 
-We have been distanced socially, but we can certainly stay in touch in other ways to keep the work going. Virtual networking skills make it easier to connect with people which may help you speed up your job search process and boost career growth. 
