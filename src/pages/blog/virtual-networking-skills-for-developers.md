@@ -14,6 +14,7 @@ author: src/data/authors/ansubha-manandhar.yaml
 image: >-
   images/Virtual Networking Tips for developers in a world of social distancing
   (1).jpg
+thumb_image: images/chris-montgomery-smgTvepind4-unsplash.jpg
 ---
 As we navigate the uncertainties to move towards a post-pandemic world, we still rely on social distancing to safely carry out our business. Translating this to your job search process means that while you may not have to commute towards career fairs, meetups, frequent conferences, you will still need to be proactive in your virtual networking skills as a software engineer to garner support from the right people that can help you land your dream job. 
 
