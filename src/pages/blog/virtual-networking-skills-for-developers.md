@@ -13,7 +13,7 @@ excerpt: >-
 
   - dolor sit amet
 template: post
-thumb_image: images/product-school-nOvIa_x_tfo-unsplash.jpg
+thumb_image: images/rainy-lime.jpg
 image: >-
   images/Virtual Networking Tips for developers in a world of social
   distancing.jpg
