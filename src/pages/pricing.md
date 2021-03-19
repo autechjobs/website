@@ -15,7 +15,7 @@ sections:
           * Search jobs based on specific keywords
         actions:
           - label: Subscribe Now
-            url: /signup
+            url: 'https://app.autechjobs.ml'
         highlight: false
       - title: Gold
         price: TBD
