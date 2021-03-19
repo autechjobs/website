@@ -1,17 +1,14 @@
 ---
 title: Virtual networking tips for software engineers in a world of social distancing
 date: '2021-03-19'
-excerpt: >-
-  ## Lorem ipsum
+excerpt: >+
+  Whether you are a seasoned developer in the “biz” or a rookie out to set your
+  own path, you will more often than not rely on your networking skills to land
+  your next tech job as a software engineer. These virtual networking tips help
+  present you in a positive light and show how to communicate your genuine
+  interest rather than waiting for a call or email to show up from the companies
+  you have reached out to.
 
-
-  Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-
-
-  - Lorem ipsum
-
-  - dolor sit amet
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
 image: >-
