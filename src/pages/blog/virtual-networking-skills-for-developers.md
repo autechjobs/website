@@ -2,11 +2,11 @@
 title: Virtual networking tips for software engineers in a world of social distancing
 date: '2021-03-19'
 excerpt: >
-  Whether you are a seasoned developer in the “biz” or a rookie out to set your
-  own path, you will more often than not rely on your networking skills to land
-  your next tech job as a software engineer. These virtual networking tips show
-  how to effectively communicate your genuine interest in career opportunities
-  with real people rather than just sending out resumes and hoping to hear back.
+  More often than not, you will rely on your networking skills to land a job as
+  a software engineer. These virtual networking tips show how to communicate
+  with real people while social distancing.  They help you take charge of your
+  communication to further your career rather than just sending out resumes and
+  hoping to hear back.
 template: post
 author: src/data/authors/ansubha-manandhar.yaml
 image: >-
