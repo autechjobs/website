@@ -1,5 +1,5 @@
 ---
-title: Virtual networking tips for developers in a world of social distancing
+title: Virtual networking tips for software engineers in a world of social distancing
 date: '2021-03-19'
 excerpt: >-
   ## Lorem ipsum
