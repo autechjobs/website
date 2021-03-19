@@ -26,7 +26,7 @@ sections:
         highlight: true
         actions:
           - label: Subscribe Now
-            url: /signup
+            url: 'https://app.autechjobs.ml'
   - section_id: faq
     type: section_faq
     background: gray
