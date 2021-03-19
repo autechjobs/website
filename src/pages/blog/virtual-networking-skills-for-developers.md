@@ -13,7 +13,6 @@ excerpt: >-
 
   - dolor sit amet
 template: post
-thumb_image: images/rainy-lime.jpg
 author: src/data/authors/ansubha-manandhar.yaml
 ---
 As we navigate the uncertainties to move towards a post-pandemic world, we still rely on social distancing to safely carry out our business. Translating this to your job search process means that while you may not have to commute towards career fairs, meetups, frequent conferences, you will still need to be proactive in your virtual networking skills as a developer to garner support from the right people that can help you land your dream job. 
