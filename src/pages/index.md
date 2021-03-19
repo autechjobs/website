@@ -6,8 +6,10 @@ sections:
     image: images/au-tech-jobs-search.jpg
     title: Liberating Job Search!
     content: |
-      We make your tech job search hassle-free
-      like picking a low-hanging fruit.
+      We make your tech job search hassle-free;
+
+
+      Like picking a low-hanging fruit.
 
       Choose from 1000plus
       tech jobs with options to view visa sponsoring companies in Australia.
