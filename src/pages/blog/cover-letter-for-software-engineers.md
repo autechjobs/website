@@ -3,8 +3,8 @@ date: '2021-03-08'
 excerpt: "Your cover letter needs to represent the value you will bring to the job as a candidate.\_ Then you need to market yourself by emphasizing and describing your unique achievements in well-articulated sentences.\_ You can then hope to be impactful in your endeavors to get on to the next round in your application process.\_\n\n\n"
 template: post
 title: >-
-  Do software engineers need a cover letter? Impactful examples for your cover
-  letter
+  Do you need a cover letter for your tech job? Examples that add impact to your
+  cover letter
 image: images/christina-wocintechchat-com-YVT21p6pO_g-unsplash.jpg
 thumb_image: images/smiling-chestnut.jpg
 ---
