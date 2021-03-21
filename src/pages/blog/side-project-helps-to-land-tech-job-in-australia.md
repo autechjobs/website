@@ -73,7 +73,7 @@ Suvash grew up in Nepal and went to Prime College in Kathmandu. With a vision to
 
 ### Initial challenges during job search : 
 
-Suvash was on a two year PSW (Post-study-work)visa while in Australia. He found out that most companies that he looked for were either hiring Australian citizens or Australian permanent residents only. This unsaid rule seemed to add an extra challenge to the already competitive tech job market. 
+Suvash was on a two-year PSW (Post-study-work)visa while in Australia. He found out that most companies that he looked for were either hiring Australian citizens or Australian permanent residents only; it was challenging to search for [Australian companies that would hire a foreigner](https://autechjobs.ml/blog/find-tech-job-foreigner/) like himself.  This unsaid rule seemed to add an extra challenge to the already competitive tech job market. 
 
 Apart from visa issues, he found that lack of work experience became a challenge. ”I have good grades but academic excellence alone wasn't a good measure of a solid resume.” he laments.
 
@@ -127,11 +127,11 @@ Some challenges I faced: 
 
 *   Lack of knowledge on how software engineers collaborated in teams (what tools they used, how they used them etc). These are the things that demonstrate you’re a professional in an interview in my opinion.
 
-*   The interview process seemed very daunting, and like most engineers, I suffer from what they call ‘imposter syndrome’. So I did not apply to as many places as I should have.
+*   The interview process seemed very daunting, and like most engineers, I suffer from what they call ‘imposter syndrome". So I did not apply to as many places as I should have.
 
 ### How AUtechjobs(ATJ) happened to him
 
-Arpan began approaching professionals to review his resume and stumbled upon ATJ by accident. He had approached one of the team members contributing to ATJ to review his resume.  “I’d read his blog posts many times floating around LinkedIn. I had no doubt about his knowledge of the industry and that he was someone that a wannabe developer like me could hope to be. When I was approached with a project like ATJ, I said yes straight away because I knew this was an opportunity for rapid growth” he remembers.
+Arpan began approaching professionals to review his resume and stumbled upon ATJ by accident. He had approached one of the team members contributing to ATJ to [review his resume](https://autechjobs.ml/blog/tips-to-refine-tech-resume/).  “I’d read his blog posts many times floating around LinkedIn. I had no doubt about his knowledge of the industry and that he was someone that a wannabe developer like me could hope to be. When I was approached with a project like ATJ, I said yes straight away because I knew this was an opportunity for rapid growth” he remembers.
 
 ### Landing a job as a Junior Fullstack developer
 
