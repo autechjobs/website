@@ -10,17 +10,17 @@ thumb_image: images/smiling-chestnut.jpg
 ---
 The goal is to stand out and make yourself as unique from the crowd as possible to show how prepared you are to take on the responsibility that the job requires. 
 
-Let's get right to it. Not all software engineers are writers and most of them will have done similar things as you, some much better or worse than you. But to make your case with recruiters you will need to depend on something other than your resume. Something that reflects on your personality in a way that enhances your capabilities to take on the job in question. Enter, a smashing cover letter that does the job for you. 
+Let's get right to it. Not all tech professionals are great writers and some of them may require assistance and effort to get it right. But to make your case with recruiters you will need to depend on something other than your resume. Something that reflects on your personality in a way that enhances your capabilities to take on the responsibilities in question. Enter, a smashing cover letter that does the job for you. 
 
-# Do software engineers really need a cover letter?
+# Do you really need a cover letter for your tech job?
 
 Usually, recruiters are after your technical achievements that can be very well demonstrated through your resume. So why a cover letter? While a well-crafted resume undoubtedly plays a significant role in landing you a job, a cover letter helps you make a compelling case as to why a recruiter should look at your resume in the first place. It helps you personalize your unique experiences and accentuate your technical experience with a unique personality that sets you apart from the rest of the software engineers who may be equally capable. 
 
-So yes, software engineers do need cover letters. 
+So yes, you do need a cover letter. 
 
-Having said that, it pays to invest some time in reflection as to what part of your experiences would you like to share and how that would play to your strengths in landing you a job. There is no doubt that a poorly written cover letter is only going to do you more harm than good. So with a few guidelines on how to make your cover letter as a software engineer impactful for the recruiter, you should be good to go. 
+Having said that, it pays to invest some time in reflection as to what part of your experiences would you like to share and how that would play to your strengths in landing you a job. There is no doubt that a poorly written cover letter is only going to do you more harm than good. So with a few guidelines on how to write a cover letter that will make the recruiter take your resume up on along the hiring process, you are good to go. 
 
-# Tips to write an impactful cover letter as a software engineer
+# Tips to write an impactful cover letter for your tech job
 
 ## Make it memorable: 
 
@@ -34,9 +34,9 @@ Recruiters are probably reading cover letters repeatedly so you want to be someo
 
           “ I have been a software engineer for three years now, and the best thing about my experience is that…..(highlight your unique experiences)”
 
-  “ Right from high school, I have had a knack for developing when I ….(talk about your personal projects)
+  “ Right from high school, I have had a knack for designing ….(talk about your personal projects)
 
-“ After going to two boot camps and several counseling sessions I have realized that I am great at ( your core skills) 
+“ After going to two boot camps and several independent contracts, I have realized that I am great at ( your core skills) 
 
 ## Relevant to the job: 
 
@@ -68,9 +68,9 @@ Rather than simply stating facts like:
 
 “ I worked in collaboration with several marketers and product team members within the company from… to …” 
 
-## Add soft skills that are in demand for software engineers
+## Add soft skills that are in demand for your tech job
 
-Recruiters must have read hundreds of letters that promise they have the skills to become software engineers. But what makes you more appealing as a job candidate is how humanly relatable you are. Especially now that working remotely has become the norm, software engineers are ever more required to be supremely efficient communicators in that they understand other people and know how to get themselves understood. Other skills like curiosity to try new things, adaptability, flexibility, and dynamism could be described through your working experience.
+Recruiters must have read hundreds of letters that promise they have the skills to become the tech professional they need. But what makes you more appealing as a job candidate is how humanly relatable you are. Especially now that working remotely has become the norm, tech professionals are ever more required to be supremely efficient communicators in that they understand other people and know how to get themselves understood. Other skills like curiosity to try new things, adaptability, flexibility, and dynamism could be described through your working experience.
 
 If you can, highlight these skills with personalized examples. What I mean is, you could say, 
 
