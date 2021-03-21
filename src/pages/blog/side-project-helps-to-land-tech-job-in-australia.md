@@ -31,11 +31,11 @@ Ajeet has been into creating his own pet projects since he was in high school. R
 
 Just out of college in Australia, with a master’s degree from the Swinburne University of Technology, Ajeet found himself in an array of job hunting queues only to be rejected after the initial interview. 
 
-He further exclaims, “Based on the skills mentioned in the job description, I would select multiple jobs to apply for that matched my own skillset. **But I rarely heard back**. If I did, I was mostly being rejected. It was then that I decided to hit pause on the job hunt and find out why I wasn’t getting hired” 
+He further exclaims, “Based on the skills mentioned in the job description, I would select multiple jobs to apply for that matched my own skillset. **But I rarely heard back**. I would [follow up on my job applications](https://autechjobs.ml/blog/job-application-follow-up/), but I was mostly being rejected. It was then that I decided to hit pause on the job hunt and find out why I wasn’t getting hired” 
 
 ### How AUtechjobs(ATJ) happened to him: 
 
-In the process of working on his skills through personal projects, Ajeet connected with the project lead (another volunteer ) at ATJ through which he joined the team. “After an engaging and fruitful conversation, I was sold on the idea of contributing to ATJ as a frontend engineer", he recalls.
+In the process of working on his skills and [networking with other tech professionals](https://autechjobs.ml/blog/virtual-networking-skills-for-developers/), Ajeet connected with the project lead (another volunteer ) at ATJ through which he joined the team. “After an engaging and fruitful conversation, I was sold on the idea of contributing to ATJ as a frontend engineer", he recalls.
 
 ### The learning process: 
 
