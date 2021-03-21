@@ -10,7 +10,7 @@ thumb_image: images/smiling-chestnut.jpg
 ---
 The goal is to stand out and make yourself as unique from the crowd as possible to show how prepared you are to take on the responsibility that the job requires. 
 
-Let's get right to it. Not all tech professionals are great writers and some of them may require assistance and effort to get it right. But to make your case with recruiters you will need to depend on something other than your resume. Something that reflects on your personality in a way that enhances your capabilities to take on the responsibilities in question. Enter, a smashing cover letter that does the job for you. 
+Let's get right to it. Not all tech professionals are great writers and some of them may require assistance and effort to get it right. But to make your case with recruiters you will need to depend on something other than your [resume.](https://autechjobs.ml/blog/tips-to-refine-tech-resume/) Something that reflects on your personality in a way that enhances your capabilities to take on the responsibilities in question. Enter, a smashing cover letter that does the job for you. 
 
 # Do you really need a cover letter for your tech job?
 
@@ -18,7 +18,7 @@ Usually, recruiters are after your technical achievements that can be very well 
 
 So yes, you do need a cover letter. 
 
-Having said that, it pays to invest some time in reflection as to what part of your experiences would you like to share and how that would play to your strengths in landing you a job. There is no doubt that a poorly written cover letter is only going to do you more harm than good. So with a few guidelines on how to write a cover letter that will make the recruiter take your resume up on along the hiring process, you are good to go. 
+Having said that, it pays to invest some time in reflection as to what part of your experiences would you like to share and how that would play to your strengths in [landing you a tech job](https://autechjobs.ml/blog/find-tech-job-foreigner/). There is no doubt that a poorly written cover letter is only going to do you more harm than good. So with a few guidelines on how to write a cover letter that will make the recruiter take your resume up along the hiring process, you are good to go. 
 
 # Tips to write an impactful cover letter for your tech job
 
@@ -70,7 +70,7 @@ Rather than simply stating facts like:
 
 ## Add soft skills that are in demand for your tech job
 
-Recruiters must have read hundreds of letters that promise they have the skills to become the tech professional they need. But what makes you more appealing as a job candidate is how humanly relatable you are. Especially now that working remotely has become the norm, tech professionals are ever more required to be supremely efficient communicators in that they understand other people and know how to get themselves understood. Other skills like curiosity to try new things, adaptability, flexibility, and dynamism could be described through your working experience.
+Recruiters must have read hundreds of letters that promise they have the [most in-demand tech skills](https://autechjobs.ml/blog/tech-jobs-in-demand/) for the job. But what makes you more appealing as a job candidate is how humanly relatable you are. Especially now that working remotely has become the norm, tech professionals are ever more required to be supremely efficient communicators in that they understand other people and know how to get themselves understood. Other skills like curiosity to try new things, adaptability, flexibility, and dynamism could be described through your working experience.
 
 If you can, highlight these skills with personalized examples. What I mean is, you could say, 
 
