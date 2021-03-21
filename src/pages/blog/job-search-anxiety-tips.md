@@ -22,7 +22,7 @@ Through his insights, one can unravel the scenario of what may be the plight of 
 
 1\. What kind of issues have you come across relating to job seekers who have anxiety looking for a job? 
 
-*I think the biggest issue is that anxiety about job seeking can often lead people to hesitate and/or procrastinate around applying for jobs. "You have to be in it to win it" is absolutely true for job seekers. Anxiety can cause us to second guess our own worth and we may miss out on opportunities simply because we didn't put ourselves forward. It can also impact our confidence in networking. Whether it's on-line or in person, networking is critical to successful job seeking. When we're anxious or lacking confidence, we tend to shy away from attending events or engaging in virtual networking.*  
+*I think the biggest issue is that anxiety about job seeking can often lead people to hesitate and/or procrastinate around applying for jobs. "You have to be in it to win it" is absolutely true for job seekers. Anxiety can cause us to second guess our own worth and we may miss out on opportunities simply because we didn't put ourselves forward. It can also impact our confidence in networking. Whether it's on-line or in person, networking is critical to successful job seeking. When we're anxious or lacking confidence, we tend to shy away from attending events or engaging in *[*virtual networking*](https://autechjobs.ml/blog/virtual-networking-skills-for-developers/)*.*  
 
 2\. Can you give us an idea about how common this anxiety might be? What is it that these people feel anxious about?
 
@@ -44,7 +44,7 @@ Job search anxiety is very real, it happens to the best of us. If you are someon
 
 # 1.Prepare yourself for the time it will take
 
-We are living under new circumstances amid the pandemic, so chances are that landing your ideal job may take some time. Take a deep breath and start by accepting your current situation. When you accept that the situation isnt as good as you want it to be right now, you will look at options to make it better.
+We are living under new circumstances amid the pandemic, so chances are that landing your ideal job may take some time. Take a deep breath and start by accepting your current situation. When you accept that the situation isnt as good as you want it to be right now, you will look at options to make it better. Then you could begin by exploring [tech jobs that are in demand](https://autechjobs.ml/blog/tech-jobs-in-demand/) in your field of work. 
 
 How can you prepare yourself to battle anxiety during your job search? Try these tips that will help strengthen your mindset.
 
@@ -60,7 +60,7 @@ The Australian government provides unemployment benefits to its citizens and per
 
 ## -Organizing yourself
 
-It makes sense to start by organizing your savings and use it judiciously. It will act as a temporary financial cushion that you can rely on. Additionally, you can create a structure around activities that you’ll need to do like getting your resume ready, filling out job applications, and managing other chores. If it has been a long time since you have had to look for a job, you can [update your resume,](https://autechjobs.ml/blog/tips-to-refine-tech-resume/) call your career coach or mentor,  learn a new skill, and get your social media accounts like Linkedin updated.
+It makes sense to start by organizing your savings and use it judiciously. It will act as a temporary financial cushion that you can rely on. Additionally, you can create a structure around activities that you’ll need to do like getting your resume ready, filling out job applications, and managing other chores. If it has been a long time since you have had to look for a job, you can [update your resume,](https://autechjobs.ml/blog/tips-to-refine-tech-resume/)  [changing your cover letter approaches](https://autechjobs.ml/blog/cover-letter-for-software-engineers/),  call your career coach or mentor,  learn a new skill, and get your social media accounts like Linkedin updated.
 
 # 2. Keep a positive outlook
 
