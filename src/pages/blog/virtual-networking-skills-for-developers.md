@@ -1,5 +1,5 @@
 ---
-title: Virtual networking tips for software engineers in a world of social distancing
+title: Virtual networking tips for a world of social distancing
 date: '2021-03-19'
 excerpt: >
   More often than not, you will rely on your networking skills to land a job as
