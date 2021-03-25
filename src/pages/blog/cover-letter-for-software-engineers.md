@@ -78,13 +78,13 @@ If you can, highlight these skills with personalized examples. What I mean is, y
 
 But this sentence doesn’t do much to set you apart from the rest. Here, the deal is not just to show what skills you have but also to show why you are different than the other applicants. While it is a perfectly good sentence to work with, you could make yourself more impactful by playing to your uniqueness such as,
 
-\* “ If we need to migrate to a newer database I will also generally inquire about any downtime or burnout it may cause to end-users before implementing” \*
+ “ If we need to migrate to a newer database I will also generally inquire about any downtime or burnout it may cause to end-users before implementing” 
 
 This is a very subtle inclination to show EXACTLY how you can be empathetic without having to say so. 
 
 Or, 
 
-\*“As an independent consultant, all my clients were really thrilled that I completed all my tasks beforehand and really appreciated that I made presentations to make them understand relevant technical details in simple terms.” \*
+“As an independent consultant, all my clients were really thrilled that I completed all my tasks beforehand and really appreciated that I made presentations to make them understand relevant technical details in simple terms.” 
 
 This sentence describes that other people have tested and validated your skills. (more reason to hire you) It effectively implies that you are reliable, communicate well with your clients, and are on top of your task and time management skills. 
 
