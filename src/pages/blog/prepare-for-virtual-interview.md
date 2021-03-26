@@ -6,6 +6,7 @@ template: post
 title: How to prepare for your next virtual interview
 author: src/data/authors/ansubha-manandhar.yaml
 image: images/12.jpg
+thumb_image: images/12_thumb.jpg
 ---
 Many companies are looking to hire new people: there‘s just one difference. The interviews are mostly virtual. Statistics all around the world state that hiring managers are reducing the stockpile of their resumes by interviewing them virtually to cut out the most deserving candidates. Ravaged by a second wave of the virus in most economies, companies continue to find new ways to hire employees, collaborate, and work to keep their companies going. 
 
