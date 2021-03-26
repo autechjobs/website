@@ -15,7 +15,12 @@ sections:
 
       - dolor sit amet
     background: gray
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        primary: false
+        new_window: true
+        type: action
     type: section_content
 template: landing
 ---
