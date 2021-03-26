@@ -7,5 +7,6 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Virtual interview.jpg
 template: landing
 ---
