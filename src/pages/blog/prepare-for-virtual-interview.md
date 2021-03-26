@@ -1,4 +1,0 @@
----
-sections: []
-template: landing
----
