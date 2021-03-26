@@ -14,6 +14,7 @@ excerpt: >-
   - dolor sit amet
 template: post
 title: How to prepare for your next virtual interview
+author: src/data/authors/ansubha-manandhar.yaml
 ---
 ## Lorem ipsum
 
