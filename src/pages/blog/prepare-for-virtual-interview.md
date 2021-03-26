@@ -1,5 +1,4 @@
 ---
-subtitle: lorem-ipsum
 date: '2021-03-26'
 excerpt: "Statistics all around the world state that hiring managers are reducing the stockpile of their resumes by interviewing candidates virtually to bring out the most deserving ones. There are a few ways in which you can set yourself to ace your next virtual interview and make an impactful connection with your interviewer.\_\n"
 template: post
