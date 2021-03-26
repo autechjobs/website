@@ -7,6 +7,6 @@ sections:
     actions: []
     type: section_content
     image: images/Virtual interview.jpg
-    title: 'how to prepare for your next '
+    title: how to prepare for your next virtual interview
 template: landing
 ---
