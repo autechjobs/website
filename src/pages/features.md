@@ -22,6 +22,6 @@ sections:
       * and more..
     actions:
       - label: Free Trial
-        url: 'https:'
+        url: 'https://app.autechjobs.ml'
 template: landing
 ---
