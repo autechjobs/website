@@ -22,6 +22,6 @@ sections:
       * and more..
     actions:
       - label: Free Trial
-        url: /signup
+        url: 'https:'
 template: landing
 ---
