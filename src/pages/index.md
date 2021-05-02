@@ -8,10 +8,9 @@ sections:
     content: |
       We make your tech job search hassle-free;
 
-
       Like picking a low-hanging fruit.
 
-      Choose from 1000plus
+      Choose from 1400+
       tech jobs with options to view visa sponsoring companies in Australia.
 
       Get sorted now!
