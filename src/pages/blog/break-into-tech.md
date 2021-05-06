@@ -1,5 +1,7 @@
 ---
-subtitle: lorem-ipsum
+subtitle: >-
+  Break into tech : 3 tech professionals share how they landed a meaningful tech
+  job in Australia
 date: '2021-05-06'
 excerpt: >-
   ## Lorem ipsum
