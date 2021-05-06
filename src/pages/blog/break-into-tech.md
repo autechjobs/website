@@ -1,7 +1,5 @@
 ---
-subtitle: >-
-  Break into tech : 3 tech professionals share how they landed a meaningful tech
-  job in Australia
+subtitle: how they landed a meaningful tech job in Australia
 date: '2021-05-06'
 excerpt: "Are you on the job hunt in the Australian tech market? Looking forward to applying to your dream companies? In this post, we will cover the experiences of three software engineers from various backgrounds, different countries, and different situations(one of them taking care of a newborn baby) who successfully found tech jobs in Australia that were meaningful to their careers.\_\n\n\n"
 template: post
