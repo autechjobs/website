@@ -7,6 +7,7 @@ title: >-
   job in Australia
 author: src/data/authors/ansubha-manandhar.yaml
 image: images/dan-freeman-7Zb7kUyQg1E-unsplash.jpg
+thumb_image: images/dan-freeman-7Zb7kUyQg1E-unsplash.jpg
 ---
 Are you on the job hunt in the Australian tech market? Looking forward to applying to your dream companies? In this post, we will cover the experiences of three software engineers from various backgrounds, different countries, and different situations(one of them taking care of a newborn baby) who successfully found tech jobs in Australia that were meaningful to their careers. Presenting,  
 
