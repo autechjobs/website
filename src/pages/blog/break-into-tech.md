@@ -35,7 +35,9 @@ How do you look at failure and what do you say to yourself? It seems that your m
 
 On this subject, Sagar suggests, *“Get used to rejections. They are part of the process. Rejection does not always mean you have failed, oftentimes the companies are looking for something very specific which may not be the right thing for you. Do your research to find out if the company and its culture feel like a place you could fit into.”*
 
-\*\*
+![](/images/modern-lettuce.JPEG)
+
+Sagar Ghimire
 
 > I applied for over 200 jobs and interviewed for about 20 roles before I got my first two offers in 2019. Learning from rejections and applying them to my next interviews really helped me. -
 >
@@ -53,7 +55,9 @@ In an empathetic note, Monica shares how we may never feel like we are ready but
 
 *“From what I know, I would say that every junior's big question is always "When will I land my first job?". The job-hunting process is exhausting to everybody, but being a newbie itself makes this journey a little more daunting. Unfortunately, people are preferably looking for someone who has years of experience and/or rarely has time to mentor/teach you, so as a junior, most of them expect you to be ready."*
 
-!\[Monica]\([https://autechjobs.ml/images/Monica.jpg](https://www.google.com/url?q=https://autechjobs.ml/images/02leaf.jpg\&sa=D\&source=hangouts\&ust=1608605570229000\&usg=AFQjCNECWeqtXex1fnwob6LhElr2nWcwSw) "Monica Mendez")
+![](/images/perpetual-kale.jpg)
+
+Monica Mendes Montanha, Junior Software Engineer at Domain 
 
 
 
@@ -69,11 +73,19 @@ Turn it around and instead of looking for what you can get; look for people and 
 
 *“Be involved with the community, attend and volunteer to organize tech events and conferences. Be willing to mentor someone where you can despite being a “newbie” (we know how easy it is to find someone that knows more than us, but the inverse is also true, help someone that has taken their first steps).”*
 
+**![](/images/maroon-paprika.png)
+
+Monica Mendez on the top left, involving herself with a tech team.
+
 # Finding a tech job as an immigrant in Australia: &#xA;&#xA;
 
 Iryna shares her struggle of searching for tech jobs as an immigrant while having a language barrier and a child to take care of. 
 
 *“I have two degrees: finance and engineering. I used to work in an insurance company as an investigator and later shifted to IT in the same company. I feel like my experience as an IT professional made it a little easier for me to look for similar jobs in Australia. After I received a fiance visa, I left for Australia. At some time, I got pregnant and gave birth to my son there.*
+
+**![](/images/amazing-paprika.jpeg)
+
+Iryna with her son, Leo.
 
 *After a year I got a wife visa and now I wanted to be more secure with my finances. At first, I wanted to go to the coles or woolies to unpack food as a job, but my husband guessed that they wouldn’t hire me unless I could speak fluent English(I never learned English, I spoke french). As an alternative, I thought I would bake cakes and cook other food. However, my mother in her good humor suggested that someone may get poisoned and blame my food and turned down the idea.*
 
@@ -81,9 +93,7 @@ Iryna shares her struggle of searching for tech jobs as an immigrant while havin
 
 Monica recollects her early days of looking for a tech job as a software engineer in Australia. 
 
-\*“I am a Brazillian and a former physiotherapist who used to work helping kids’ development for 7 years. I decided to change my career to become a software engineer. My journey began when I came to Australia in 2017. \*
-
-*I reckon my big challenge was dealing with anxiety in trying to be myself, learning a different language, in another country and another culture, we know that things like that take time, also at the same time I was switching careers which usually comes along with a big level of uncertain in every single step that you take as everything is new.”*
+*“I am a Brazillian and a former physiotherapist who used to work helping kids’ development for 7 years. I decided to change my career to become a software engineer. My journey began when I came to Australia in 2017. I reckon my big challenge was dealing with anxiety in trying to be myself, learning a different language, in another country and another culture, we know that things like that take time, also at the same time I was switching careers which usually comes along with a big level of uncertain in every single step that you take as everything is new.”*
 
 # Employee referrals:&#xA;&#xA;
 
@@ -111,6 +121,11 @@ Working on your tech resume, preparing for interviews, writing a good cover lett
 Sagar believes in refining resumes and getting feedback from others in the industry. 
 
 He says, *“You can ask for interview feedback from companies where your application doesn’t move further. Not all of them may respond but some will give you a good idea of where you can improve. Also, it’s important to follow up on your application if you don’t hear back in a couple of days or weeks. It’s easy for your CV to get buried among all the applications coming into a company and sometimes following up can make a big difference.”*
+
+**![](/images/famous-eucalyptus.JPEG)
+
+Sagar Ghimire, Software Engineer, Finder, AU
+
 
 Reflecting on his personal experience, he shares, *“ Each failed interview felt like a setback but they always helped me do my next interview better. I became more aware of my strengths and weaknesses. Eventually, I got 2 job offers.”* 
 
