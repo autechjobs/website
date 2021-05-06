@@ -9,11 +9,11 @@ author: src/data/authors/ansubha-manandhar.yaml
 image: images/dan-freeman-7Zb7kUyQg1E-unsplash.jpg
 thumb_image: images/dan-freeman-7Zb7kUyQg1E-unsplash.jpg
 ---
-Are you on the job hunt in the Australian tech market? Looking forward to applying to your dream companies? In this post, we will cover the experiences of three software engineers from various backgrounds, different countries, and different situations(one of them taking care of a newborn baby) who successfully found tech jobs in Australia that were meaningful to their careers. Presenting,  
+Are you on the job hunt in the Australian tech market? Looking forward to applying to your dream companies? In this post, we will cover the experiences of three software engineers from various backgrounds, different countries, and different situations(one of them taking care of a newborn baby) who successfully found tech jobs in Australia that were meaningful to their careers. Presenting,
 
-1.   [Sagar Ghimire, Software Engineer at Finder](https://www.linkedin.com/in/gmrsagar/) 
+1.  [Sagar Ghimire, Software Engineer at Finder](https://www.linkedin.com/in/gmrsagar/)
 
-2.   [Monica Mendes Montanha, Junior Software Engineer at Domain ](https://www.linkedin.com/in/monicamendesmontanha/)
+2.  [Monica Mendes Montanha, Junior Software Engineer at Domain ](https://www.linkedin.com/in/monicamendesmontanha/)
 
 3.  [Iryna Propenko, Java software engineer, Tyro Payments](https://www.linkedin.com/in/iryna-prokopenko/)
     How did they find themselves a perfect tech job? The topics below will uncover what they think helped make their job search easier.
@@ -35,6 +35,8 @@ Monica , who is a physiotherapist turned software engineer shares how to get in 
 How do you look at failure and what do you say to yourself? It seems that your mindset plays a huge role in keeping your mental health in check when the job search gets tedious. 
 
 On this subject, Sagar suggests, *“Get used to rejections. They are part of the process. Rejection does not always mean you have failed, oftentimes the companies are looking for something very specific which may not be the right thing for you. Do your research to find out if the company and its culture feel like a place you could fit into.”*
+
+**
 
 > I applied for over 200 jobs and interviewed for about 20 roles before I got my first two offers in 2019. Learning from rejections and applying them to my next interviews really helped me. -
 >
