@@ -54,8 +54,6 @@ In an empathetic note, Monica shares how we may never feel like we are ready but
 
 *“From what I know, I would say that every junior's big question is always "When will I land my first job?". The job-hunting process is exhausting to everybody, but being a newbie itself makes this journey a little more daunting. Unfortunately, people are preferably looking for someone who has years of experience and/or rarely has time to mentor/teach you, so as a junior, most of them expect you to be ready."*
 
->
->
 > *One thing that I'm always questioning is, sincerely, we are never absolutely ready - even if we say we are, we all know that, by the end, we’re gonna do the best that we can and learn by doing (if we get a chance)But, ready ready... NEVER! There is always something that we haven’t even heard about.*
 >
 > ”-Monica Mendes, Software Engineer, Domain, AU
