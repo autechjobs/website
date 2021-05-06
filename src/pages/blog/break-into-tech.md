@@ -30,7 +30,7 @@ Let’s say you now found a project/company you are interested in. What do you d
 
 Monica Mendes, who is a physiotherapist turned software engineer shares how to get in touch with relevant people. She is now a software engineer at Domain, one of the most sought after tech companies of Australia.
 
-*“You may frequently find job ad postings that require a lot more experience than you have. But if you really want to work for/with them,  give it a try to talk directly to any of the people from there and express your interest. If they are not keen to proceed with you for some reason, it would be for the best.” Now you know that probably that’s not the best place to start your career seeing that as a junior you gonna need a lot of people's support.” *she shares. 
+“You may frequently find job ad postings that require a lot more experience than you have. But if you really want to work for/with them,  give it a try to talk directly to any of the people from there and express your interest. If they are not keen to proceed with you for some reason, it would be for the best.” Now you know that probably that’s not the best place to start your career seeing that as a junior you gonna need a lot of people's support.” she shares. 
 
 ## Battling Job anxiety: 
 
@@ -38,15 +38,15 @@ How do you look at failure and what do you say to yourself? It seems that your m
 
 On this subject, Sagar suggests, *“Get used to rejections. They are part of the process. Rejection does not always mean you have failed, oftentimes the companies are looking for something very specific which may not be the right thing for you. Do your research to find out if the company and its culture feel like a place you could fit into.”*
 
-> “I applied for over 200 jobs and interviewed for about 20 roles before I got my first two offers in 2019. Learning from rejections and applying them to my next interviews really helped me.” -
+> I applied for over 200 jobs and interviewed for about 20 roles before I got my first two offers in 2019. Learning from rejections and applying them to my next interviews really helped me. -
 >
 > *Sagar Ghimire, Software Engineer, Finder, AU*
 
 Some people break down mentally when they need a job urgently and can’t find one sooner. Some others face adversities with everything they have. For example, It’s inspiring to see how Iryna Prokopenko, a software engineer at Tyro, went about her job hunt while also managing to care for her baby.
 
-*“I sent my resume to The Iconic (for the first time)in Australia and they called me.  I almost died I was so nervous  🤪😂  but I was glad to hear the recruiter say that I had cleared the first stage of their hiring process. I was emotionally overwhelmed because this came at a time when I couldn’t afford childcare so I ask my mom to come to Australia and take care of my son while I was doing all these interviews”,* she reminisces. 
+*“I sent my resume to The Iconic (for the first time)in Australia and they called me.  I almost died I was so nervous  🤪😂  but I was glad to hear the recruiter say that I had cleared the first stage of their hiring process. I was emotionally overwhelmed because this came at a time when I couldn’t afford childcare so I ask my mom to come to Australia and take care of my son while I was doing all these interviews”,* she reminisces.
 
-> *“How to find a job? You should be motivated, that's all. I found a job in a new country, without a PR visa (on a fiance visa) with a baby on my hand, without English and previous experience.” -*
+> *How to find a job? You should be motivated, that's all. I found a job in a new country, without a PR visa (on a fiance visa) with a baby on my hand, without English and previous experience. -*
 >
 > Iryna Propenko, Java software engineer, Tyro Payments, AU
 
@@ -54,11 +54,11 @@ In an empathetic note, Monica shares how we may never feel like we are ready but
 
 *“From what I know, I would say that every junior's big question is always "When will I land my first job?". The job-hunting process is exhausting to everybody, but being a newbie itself makes this journey a little more daunting. Unfortunately, people are preferably looking for someone who has years of experience and/or rarely has time to mentor/teach you, so as a junior, most of them expect you to be ready."*
 
-> “
+>
 >
 > *One thing that I'm always questioning is, sincerely, we are never absolutely ready - even if we say we are, we all know that, by the end, we’re gonna do the best that we can and learn by doing (if we get a chance)But, ready ready... NEVER! There is always something that we haven’t even heard about.*
 >
-> ” -Monica Mendes, Software Engineer, Domain, AU
+> ”-Monica Mendes, Software Engineer, Domain, AU
 
 # &#xA;Giving back through side projects: &#xA;
 
@@ -80,7 +80,7 @@ Iryna shares her struggle of searching for tech jobs as an immigrant while havin
 
 Monica recollects her early days of looking for a tech job as a software engineer in Australia. 
 
-“I am a Brazillian and a former physiotherapist who used to work helping kids’ development for 7 years. I decided to change my career to become a software engineer. My journey began when I came to Australia in 2017. 
+*“I am a Brazillian and a former physiotherapist who used to work helping kids’ development for 7 years. I decided to change my career to become a software engineer. My journey began when I came to Australia in 2017. *
 
 *I reckon my big challenge was dealing with anxiety in trying to be myself, learning a different language, in another country and another culture, we know that things like that take time, also at the same time I was switching careers which usually comes along with a big level of uncertain in every single step that you take as everything is new.”*
 
@@ -89,7 +89,7 @@ Monica recollects her early days of looking for a tech job as a software enginee
 Applying to many jobs and waiting for them to respond may seem like a long time. As a more proactive approach, you can seek an employee referral that helps you gain the trust of an insider of the company you would like to work for. It is a game-changer because it almost doubly improves your chances of getting hired. 
 Sagar reflects on how to look for an employee referral.*“Tech skills are definitely an important part of your core skill set but you also need to work on your soft skills. They will help you communicate better with people, contribute your ideas and relay your challenges even after you land a job. Connecting with people can also help you get referrals to the companies that you wish to work for.”*
 
-> “At the time of writing this, I’ve been with Finder for 6 months now. The preparations were similar to the first job searches in Sydney. But this time I had more experience and a referral to help me fast track my application.” - Sagar Ghimire, Software Engineer, Finder, AU
+> At the time of writing this, I’ve been with Finder for 6 months now. The preparations were similar to the first job searches in Sydney. But this time I had more experience and a referral to help me fast track my application. - Sagar Ghimire, Software Engineer, Finder, AU
 
 He further explores, *“I wanted to join a place that values learning, growth, and collaboration. Some of the things I did as a preparation include looking up the company and doing some research around what they did and what values they stand for, Lookup interviewers in LinkedIn to get an idea of what area they specialize in.”*
 
@@ -99,9 +99,9 @@ Enhancing your existing skillset in your relevant area of work can give you the 
 
 For example, Sagar says, *“ One great opportunity to expand my portfolio and learn something new is to work along with people who helped me identify gaps in my knowledge as well as job applications.”*
 
-Iryna says,\* “I enrolled into a $14 java course for testers and another free manual testing course in udemy.”\*
+Iryna says, *“I enrolled into a $14 java course for testers and another free manual testing course in udemy.”*
 
-Monica talks about involving in your respected work community through events and meetups to get a good sense of idea about your field of work. She says,*“Get a better understanding of "best practices" in your field through good books, blogs, podcasts, etc when you are beginning as a junior. I’ve been working at Domain for roughly 1 year and 7 months now. Before that, I’ve embedded myself in the tech industry by attending meetups, enrolling in the LevelUp program at ThoughtWorks, and studying the Software Engineering Immersive course at General Assembly. I’ve got a chance to help organize a few conferences and meetups such as ReactConfAU, YOW!, DDD Sydney, ServerlessDays, and MusesJS, which on the last two I’m still involved as a Co-organiser and as a mentor respectively."*
+Monica talks about involving in your respected work community through events and meetups to get a good sense of idea about your field of work. She says, *“Get a better understanding of "best practices" in your field through good books, blogs, podcasts, etc when you are beginning as a junior. I’ve been working at Domain for roughly 1 year and 7 months now. Before that, I’ve embedded myself in the tech industry by attending meetups, enrolling in the LevelUp program at ThoughtWorks, and studying the Software Engineering Immersive course at General Assembly. I’ve got a chance to help organize a few conferences and meetups such as ReactConfAU, YOW!, DDD Sydney, ServerlessDays, and MusesJS, which on the last two I’m still involved as a Co-organiser and as a mentor respectively."*
 
 # Resume and interview tips: 
 
@@ -116,7 +116,7 @@ Reflecting on his personal experience, he shares, *“ Each failed interview fel
 Iryna shares a personal account of how she landed interviews:
 *“There was a lot of learning, working, CV revisions, and referrals before I started to land a significant amount of interviews. I looked up interview questions on Google and used Glassdoor to learn about company feedback. My friends helped me a lot with my resume and interview. I did mock interviews with my friend who pretended to be a recruiter. For a local experience, I wrote selenium tests for a guy on Facebook and got regular feedback for my work.”*
 
-She talks about an emotional moment when she finally landed a job.* “For the interview that got me this job, I had given it when I was getting better, only a few days after my surgery. So when the recruiter called me to say that I was hired I cried because I was so happy, and that was how I got my first job in Australia. The next 3 months were challenging as I learned English on the fly and had a  job where I had a lot to learn, but that story is for another time!”*
+She talks about an emotional moment when she finally landed a job.*“For the interview that got me this job, I had given it when I was getting better, only a few days after my surgery. So when the recruiter called me to say that I was hired I cried because I was so happy, and that was how I got my first job in Australia. The next 3 months were challenging as I learned English on the fly and had a  job where I had a lot to learn, but that story is for another time!”*
 
 # Working around the pandemic: 
 
