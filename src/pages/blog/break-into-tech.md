@@ -41,7 +41,9 @@ On this subject, Sagar suggests, *“Get used to rejections. They are part of th
 
 ![](/images/modern-lettuce.JPEG)
 
-Sagar Ghimire
+Sagar Ghimire, Software Engineer, Finder, AU
+
+
 
 > I applied for over 200 jobs and interviewed for about 20 roles before I got my first two offers in 2019. Learning from rejections and applying them to my next interviews really helped me. -
 >
@@ -53,7 +55,9 @@ Some people break down mentally when they need a job urgently and can’t find o
 
 ![](/images/scientific-coriander.jpeg)
 
-Iryna Propenko
+Iryna Propenko, Java software engineer, Tyro Payments, AU
+
+
 
 > *How to find a job? You should be motivated, that's all. I found a job in a new country, without a PR visa (on a fiance visa) with a baby on my hand, without English and previous experience. -*
 >
@@ -124,9 +128,9 @@ Monica talks about involving in your respected work community through events and
 
 Working on your tech resume, [preparing for interviews](https://autechjobs.ml/blog/prepare-for-virtual-interview/), [writing a good cover letter](https://autechjobs.ml/blog/cover-letter-for-software-engineers/) will be a part of the job search process once you start applying. Even in this stage, our software engineers share tips to get you through the thresholds by learning from their experience. 
 
-Sagar believes in [refining resumes ](https://autechjobs.ml/blog/tips-to-refine-tech-resume/)and getting feedback from others in the industry. 
+Sagar believes in [refining resumes ](https://autechjobs.ml/blog/tips-to-refine-tech-resume/)and [getting feedback](https://autechjobs.ml/blog/job-application-follow-up/) from others in the industry. 
 
-He says, *“You can ask for *[*interview feedback*](https://autechjobs.ml/blog/job-application-follow-up/)* from companies where your application doesn’t move further. Not all of them may respond but some will give you a good idea of where you can improve. Also, it’s important to follow up on your application if you don’t hear back in a couple of days or weeks. It’s easy for your CV to get buried among all the applications coming into a company and sometimes following up can make a big difference.”*
+He says, *“You can ask for interview feedback from companies where your application doesn’t move further. Not all of them may respond but some will give you a good idea of where you can improve. Also, it’s important to follow up on your application if you don’t hear back in a couple of days or weeks. It’s easy for your CV to get buried among all the applications coming into a company and sometimes following up can make a big difference.”*
 
 \*\*![](/images/famous-eucalyptus.JPEG)
 
@@ -137,7 +141,7 @@ Reflecting on his personal experience, he shares, *“ Each failed interview fel
 Iryna shares a personal account of how she landed interviews:
 *“There was a lot of learning, working, CV revisions, and referrals before I started to land a significant amount of interviews. I looked up interview questions on Google and used Glassdoor to learn about company feedback. My friends helped me a lot with my resume and interview. I did mock interviews with my friend who pretended to be a recruiter. For a local experience, I wrote selenium tests for a guy on Facebook and got regular feedback for my work.”*
 
-**![](/images/iryna%20leo.jpeg)
+\*\*![](/images/iryna%20leo.jpeg)
 
 Iryna with her son, baby Leo.
 
