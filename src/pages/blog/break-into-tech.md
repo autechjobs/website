@@ -43,8 +43,6 @@ On this subject, Sagar suggests, *“Get used to rejections. They are part of th
 
 Sagar Ghimire, Software Engineer, Finder, AU
 
-
-
 > I applied for over 200 jobs and interviewed for about 20 roles before I got my first two offers in 2019. Learning from rejections and applying them to my next interviews really helped me. -
 >
 > *Sagar Ghimire, Software Engineer, Finder, AU*
@@ -56,8 +54,6 @@ Some people break down mentally when they need a job urgently and can’t find o
 ![](/images/scientific-coriander.jpeg)
 
 Iryna Propenko, Java software engineer, Tyro Payments, AU
-
-
 
 > *How to find a job? You should be motivated, that's all. I found a job in a new country, without a PR visa (on a fiance visa) with a baby on my hand, without English and previous experience. -*
 >
@@ -83,7 +79,7 @@ Turn it around and instead of looking for what you can get; look for people and 
 
 *“Be involved with the community, attend and volunteer to organize tech events and conferences. Be willing to mentor someone where you can despite being a “newbie” (we know how easy it is to find someone that knows more than us, but the inverse is also true, help someone that has taken their first steps).”*
 
-\*\*![](/images/maroon-paprika.png)
+![](/images/maroon-paprika.png)
 
 Monica Mendez on the top left, involving herself with a tech team.
 
@@ -93,7 +89,7 @@ Iryna shares her struggle of [searching for tech jobs as an immigrant ](https://
 
 *“I have two degrees: finance and engineering. I used to work in an insurance company as an investigator and later shifted to IT in the same company. I feel like my experience as an IT professional made it a little easier for me to look for similar jobs in Australia. After I received a fiance visa, I left for Australia. At some time, I got pregnant and gave birth to my son there.*
 
-\*\*![](/images/amazing-paprika.jpeg)
+![](/images/amazing-paprika.jpeg)
 
 Iryna with her son, Leo.
 
@@ -132,7 +128,7 @@ Sagar believes in [refining resumes ](https://autechjobs.ml/blog/tips-to-refine-
 
 He says, *“You can ask for interview feedback from companies where your application doesn’t move further. Not all of them may respond but some will give you a good idea of where you can improve. Also, it’s important to follow up on your application if you don’t hear back in a couple of days or weeks. It’s easy for your CV to get buried among all the applications coming into a company and sometimes following up can make a big difference.”*
 
-\*\*![](/images/famous-eucalyptus.JPEG)
+![](/images/famous-eucalyptus.JPEG)
 
 Sagar Ghimire, Software Engineer, Finder, AU
 
@@ -141,7 +137,7 @@ Reflecting on his personal experience, he shares, *“ Each failed interview fel
 Iryna shares a personal account of how she landed interviews:
 *“There was a lot of learning, working, CV revisions, and referrals before I started to land a significant amount of interviews. I looked up interview questions on Google and used Glassdoor to learn about company feedback. My friends helped me a lot with my resume and interview. I did mock interviews with my friend who pretended to be a recruiter. For a local experience, I wrote selenium tests for a guy on Facebook and got regular feedback for my work.”*
 
-\*\*![](/images/iryna%20leo.jpeg)
+![](/images/iryna%20leo.jpeg)
 
 Iryna with her son, baby Leo.
 
