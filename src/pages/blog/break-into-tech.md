@@ -16,19 +16,24 @@ excerpt: >-
   - dolor sit amet
 template: post
 ---
-Are you on the job hunt in the Australian tech market? Looking forward to applying to your dream companies? In this post, we will cover the experiences of three software engineers from various backgrounds, different countries, and different situations(one of them taking care of a newborn baby) who successfully found tech jobs in Australia that were meaningful to their careers. 
+Are you on the job hunt in the Australian tech market? Looking forward to applying to your dream companies? In this post, we will cover the experiences of three software engineers from various backgrounds, different countries, and different situations(one of them taking care of a newborn baby) who successfully found tech jobs in Australia that were meaningful to their careers. Presenting,  
 
-How did they find themselves a perfect tech job? The topics below will uncover what they think helped make their job search easier.
+1.   [Sagar Ghimire, Software Engineer at Finder](https://www.linkedin.com/in/gmrsagar/) 
+
+2.   [Monica Mendes Montanha, Junior Software Engineer at Domain ](https://www.linkedin.com/in/monicamendesmontanha/)
+
+3.  [Iryna Propenko, Java software engineer, Tyro Payments](https://www.linkedin.com/in/iryna-prokopenko/)
+    How did they find themselves a perfect tech job? The topics below will uncover what they think helped make their job search easier.
 
 # Networking:
 
 It matters that you get in touch with the tech community around you. It helps you reach out to people who have been on a similar journey that you are going through. You may find people looking to team up with someone like you. Explaining his initial job search days in Australia,
 
-Sagar Ghimire a software engineer at Finder says, *”I came to Sydney from Kathmandu, Nepal in July 2018 with my wife who was starting her Master’s degree in IT. I started looking for jobs online through portals like Seek, Indeed, LinkedIn, and such. I got a few interviews but it didn’t get much past that. We started going to tech meetups around the city to learn about the tech industry here, during which I got in touch with the Nepalese tech community. One of the people I met was Geshan who is working as a Lead Software Engineer at THE ICONIC. He introduced me to a project called ResPos that a handful of the Nepalese techies were contributing to at that time.”*
+Sagar says, *”I came to Sydney from Kathmandu, Nepal in July 2018 with my wife who was starting her Master’s degree in IT. I started looking for jobs online through portals like Seek, Indeed, LinkedIn, and such. I got a few interviews but it didn’t get much past that. We started going to tech meetups around the city to learn about the tech industry here, during which I got in touch with the Nepalese tech community. One of the people I met was Geshan who is working as a Lead Software Engineer at THE ICONIC. He introduced me to a project called ResPos that a handful of the Nepalese techies were contributing to at that time.”*
 
 Let’s say you now found a project/company you are interested in. What do you do if it doesn’t offer any positions currently that you feel confident about? 
 
-Monica Mendes, who is a physiotherapist turned software engineer shares how to get in touch with relevant people. She is now a software engineer at Domain, one of the most sought after tech companies of Australia.
+Monica , who is a physiotherapist turned software engineer shares how to get in touch with relevant people. She is now a software engineer at Domain, one of the most sought after tech companies of Australia.
 
 “You may frequently find job ad postings that require a lot more experience than you have. But if you really want to work for/with them,  give it a try to talk directly to any of the people from there and express your interest. If they are not keen to proceed with you for some reason, it would be for the best.” Now you know that probably that’s not the best place to start your career seeing that as a junior you gonna need a lot of people's support.” she shares. 
 
@@ -42,7 +47,7 @@ On this subject, Sagar suggests, *“Get used to rejections. They are part of th
 >
 > *Sagar Ghimire, Software Engineer, Finder, AU*
 
-Some people break down mentally when they need a job urgently and can’t find one sooner. Some others face adversities with everything they have. For example, It’s inspiring to see how Iryna Prokopenko, a software engineer at Tyro, went about her job hunt while also managing to care for her baby.
+Some people break down mentally when they need a job urgently and can’t find one sooner. Some others face adversities with everything they have. For example, It’s inspiring to see how Iryna, a software engineer at Tyro, went about her job hunt while also managing to care for her baby.
 
 *“I sent my resume to The Iconic (for the first time)in Australia and they called me.  I almost died I was so nervous  🤪😂  but I was glad to hear the recruiter say that I had cleared the first stage of their hiring process. I was emotionally overwhelmed because this came at a time when I couldn’t afford childcare so I ask my mom to come to Australia and take care of my son while I was doing all these interviews”,* she reminisces.
 
@@ -56,7 +61,7 @@ In an empathetic note, Monica shares how we may never feel like we are ready but
 
 > *One thing that I'm always questioning is, sincerely, we are never absolutely ready - even if we say we are, we all know that, by the end, we’re gonna do the best that we can and learn by doing (if we get a chance)But, ready ready... NEVER! There is always something that we haven’t even heard about.*
 >
-> ”-Monica Mendes, Software Engineer, Domain, AU
+> ”-Monica Mendes, Junior Software Engineer, Domain, AU
 
 # &#xA;Giving back through side projects: &#xA;
 
@@ -78,7 +83,7 @@ Iryna shares her struggle of searching for tech jobs as an immigrant while havin
 
 Monica recollects her early days of looking for a tech job as a software engineer in Australia. 
 
-*“I am a Brazillian and a former physiotherapist who used to work helping kids’ development for 7 years. I decided to change my career to become a software engineer. My journey began when I came to Australia in 2017. *
+\*“I am a Brazillian and a former physiotherapist who used to work helping kids’ development for 7 years. I decided to change my career to become a software engineer. My journey began when I came to Australia in 2017. \*
 
 *I reckon my big challenge was dealing with anxiety in trying to be myself, learning a different language, in another country and another culture, we know that things like that take time, also at the same time I was switching careers which usually comes along with a big level of uncertain in every single step that you take as everything is new.”*
 
