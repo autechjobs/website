@@ -47,6 +47,12 @@ Some people break down mentally when they need a job urgently and can’t find o
 
 *“I sent my resume to The Iconic (for the first time)in Australia and they called me.  I almost died I was so nervous  🤪😂  but I was glad to hear the recruiter say that I had cleared the first stage of their hiring process. I was emotionally overwhelmed because this came at a time when I couldn’t afford childcare so I ask my mom to come to Australia and take care of my son while I was doing all these interviews”,* she reminisces.
 
+![](/images/scientific-coriander.jpeg)
+
+Iryna Propenko
+
+
+
 > *How to find a job? You should be motivated, that's all. I found a job in a new country, without a PR visa (on a fiance visa) with a baby on my hand, without English and previous experience. -*
 >
 > Iryna Propenko, Java software engineer, Tyro Payments, AU
@@ -57,9 +63,7 @@ In an empathetic note, Monica shares how we may never feel like we are ready but
 
 ![](/images/perpetual-kale.jpg)
 
-Monica Mendes Montanha, Junior Software Engineer at Domain 
-
-
+Monica Mendes Montanha, Junior Software Engineer at Domain
 
 > *One thing that I'm always questioning is, sincerely, we are never absolutely ready - even if we say we are, we all know that, by the end, we’re gonna do the best that we can and learn by doing (if we get a chance)But, ready ready... NEVER! There is always something that we haven’t even heard about.*
 >
@@ -73,7 +77,7 @@ Turn it around and instead of looking for what you can get; look for people and 
 
 *“Be involved with the community, attend and volunteer to organize tech events and conferences. Be willing to mentor someone where you can despite being a “newbie” (we know how easy it is to find someone that knows more than us, but the inverse is also true, help someone that has taken their first steps).”*
 
-**![](/images/maroon-paprika.png)
+\*\*![](/images/maroon-paprika.png)
 
 Monica Mendez on the top left, involving herself with a tech team.
 
@@ -83,7 +87,7 @@ Iryna shares her struggle of searching for tech jobs as an immigrant while havin
 
 *“I have two degrees: finance and engineering. I used to work in an insurance company as an investigator and later shifted to IT in the same company. I feel like my experience as an IT professional made it a little easier for me to look for similar jobs in Australia. After I received a fiance visa, I left for Australia. At some time, I got pregnant and gave birth to my son there.*
 
-**![](/images/amazing-paprika.jpeg)
+\*\*![](/images/amazing-paprika.jpeg)
 
 Iryna with her son, Leo.
 
@@ -122,10 +126,9 @@ Sagar believes in refining resumes and getting feedback from others in the indus
 
 He says, *“You can ask for interview feedback from companies where your application doesn’t move further. Not all of them may respond but some will give you a good idea of where you can improve. Also, it’s important to follow up on your application if you don’t hear back in a couple of days or weeks. It’s easy for your CV to get buried among all the applications coming into a company and sometimes following up can make a big difference.”*
 
-**![](/images/famous-eucalyptus.JPEG)
+\*\*![](/images/famous-eucalyptus.JPEG)
 
 Sagar Ghimire, Software Engineer, Finder, AU
-
 
 Reflecting on his personal experience, he shares, *“ Each failed interview felt like a setback but they always helped me do my next interview better. I became more aware of my strengths and weaknesses. Eventually, I got 2 job offers.”* 
 
