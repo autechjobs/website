@@ -35,7 +35,7 @@ How do you look at failure and what do you say to yourself? It seems that your m
 
 On this subject, Sagar suggests, *“Get used to rejections. They are part of the process. Rejection does not always mean you have failed, oftentimes the companies are looking for something very specific which may not be the right thing for you. Do your research to find out if the company and its culture feel like a place you could fit into.”*
 
-**
+\*\*
 
 > I applied for over 200 jobs and interviewed for about 20 roles before I got my first two offers in 2019. Learning from rejections and applying them to my next interviews really helped me. -
 >
@@ -52,6 +52,10 @@ Some people break down mentally when they need a job urgently and can’t find o
 In an empathetic note, Monica shares how we may never feel like we are ready but we have to take a leap of faith anyway. She says, 
 
 *“From what I know, I would say that every junior's big question is always "When will I land my first job?". The job-hunting process is exhausting to everybody, but being a newbie itself makes this journey a little more daunting. Unfortunately, people are preferably looking for someone who has years of experience and/or rarely has time to mentor/teach you, so as a junior, most of them expect you to be ready."*
+
+!\[Monica]\([https://autechjobs.ml/images/Monica.jpg](https://www.google.com/url?q=https://autechjobs.ml/images/02leaf.jpg\&sa=D\&source=hangouts\&ust=1608605570229000\&usg=AFQjCNECWeqtXex1fnwob6LhElr2nWcwSw) "Monica Mendez")
+
+
 
 > *One thing that I'm always questioning is, sincerely, we are never absolutely ready - even if we say we are, we all know that, by the end, we’re gonna do the best that we can and learn by doing (if we get a chance)But, ready ready... NEVER! There is always something that we haven’t even heard about.*
 >
