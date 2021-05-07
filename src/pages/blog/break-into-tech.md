@@ -27,11 +27,11 @@ Let’s say you now found a project/company you are interested in. What do you d
 
 Monica , who is a physiotherapist turned software engineer shares how to get in touch with relevant people. She is now a software engineer at Domain, one of the most sought after tech companies of Australia.
 
-![](https://preview--website-12eda.stackbit.dev/images/perpetual-kale.jpg)
+![](/images/Monica.jpg)
 
 Monica Mendes Montanha, Junior Software Engineer at Domain
 
-“You may frequently find job ad postings that require a lot more experience than you have. But if you really want to work for/with them,  give it a try to talk directly to any of the people from there and express your interest. If they are not keen to proceed with you for some reason, it would be for the best.” Now you know that probably that’s not the best place to start your career seeing that as a junior you gonna need a lot of people's support.” she shares. 
+"You might frequently find job ads postings that require a lot more experience than you got. But if you really want to work for/with them,  give it a try to talk directly to any of the people from there and express your interest. There is a great chance they open their doors for you.", she shares.
 
 ## Battling Job anxiety: 
 
@@ -81,7 +81,7 @@ Turn it around and instead of looking for what you can get; look for people and 
 
 ![](/images/maroon-paprika.png)
 
-Monica Mendez on the top left, involving herself with a tech team.
+Monica Mendes hosting the  ServerlessDays ANZ 2020.
 
 # Finding a tech job as an immigrant in Australia: &#xA;&#xA;
 
