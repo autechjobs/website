@@ -15,7 +15,8 @@ Are you on the job hunt in the Australian tech market? Looking forward to applyi
 2.  [Monica Mendes Montanha, Junior Software Engineer at Domain ](https://www.linkedin.com/in/monicamendesmontanha/)
 
 3.  [Iryna Propenko, Java software engineer, Tyro Payments](https://www.linkedin.com/in/iryna-prokopenko/)
-    How did they find themselves a perfect tech job? The topics below will uncover what they think helped make their job search easier.
+
+How did they find themselves a perfect tech job? The topics below will uncover what they think helped make their job search easier.
 
 # Networking:
 
@@ -78,8 +79,6 @@ Turn it around and instead of looking for what you can get; look for people and 
  As a solution to take such a step forward she says, 
 
 “Be involved with the community, attend meetups, and volunteer on organizing tech events and conferences. Be willing to mentor someone despite being a Junior dev - We know how easy is to always find someone that knows more than us, but the inverse is also true, try to help someone that is taken their first steps, it is really satisfying and also it is one of the best ways to learn and grow."
-
-
 
 ![](/images/maroon-paprika.png)
 
