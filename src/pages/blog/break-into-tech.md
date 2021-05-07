@@ -77,7 +77,9 @@ Turn it around and instead of looking for what you can get; look for people and 
 
  As a solution to take such a step forward she says, 
 
-*“Be involved with the community, attend and volunteer to organize tech events and conferences. Be willing to mentor someone where you can despite being a “newbie” (we know how easy it is to find someone that knows more than us, but the inverse is also true, help someone that has taken their first steps).”*
+“Be involved with the community, attend meetups, and volunteer on organizing tech events and conferences. Be willing to mentor someone despite being a Junior dev - We know how easy is to always find someone that knows more than us, but the inverse is also true, try to help someone that is taken their first steps, it is really satisfying and also it is one of the best ways to learn and grow."
+
+
 
 ![](/images/maroon-paprika.png)
 
