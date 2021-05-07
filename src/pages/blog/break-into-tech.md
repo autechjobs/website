@@ -31,7 +31,7 @@ Monica , who is a physiotherapist turned software engineer shares how to get in 
 
 Monica Mendes Montanha, Junior Software Engineer at Domain
 
-"You might frequently find job ads postings that require a lot more experience than you got. But if you really want to work for/with them,  give it a try to talk directly to any of the people from there and express your interest. There is a great chance they open their doors for you.", she shares.
+"You might frequently find job ads postings that require a lot more experience than you got. But if you really want to work for/with them,  give it a try to talk directly to any of the people from there and express your interest. There is a great chance that they might open their doors for you.", she shares.
 
 ## Battling Job anxiety: 
 
