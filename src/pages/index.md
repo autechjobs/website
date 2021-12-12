@@ -5,13 +5,18 @@ sections:
     type: section_hero
     image: images/au-tech-jobs-search.jpg
     title: Liberating Job Search!
-    content: |
+    content: >
       We make your tech job search hassle-free;
+
 
       Like picking a low-hanging fruit.
 
-      Choose from 1400+
-      tech jobs with options to view visa sponsoring companies in Australia.
+
+      Choose from 2500+
+
+      tech jobs from 100+ companies with options to view visa sponsoring
+      companies in Australia.
+
 
       Get sorted now!
     actions:
