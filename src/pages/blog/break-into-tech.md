@@ -20,7 +20,7 @@ How did they find themselves a perfect tech job? The topics below will uncover w
 
 # Networking:
 
-It matters that you [get in touch with the tech community](https://autechjobs.ml/blog/virtual-networking-skills-for-developers/) around you. It helps you reach out to people who have been on a similar journey that you are going through. You may find people looking to team up with someone like you. Explaining his initial job search days in Australia,
+It matters that you [get in touch with the tech community](https://autechjobs.com/blog/virtual-networking-skills-for-developers/) around you. It helps you reach out to people who have been on a similar journey that you are going through. You may find people looking to team up with someone like you. Explaining his initial job search days in Australia,
 
 Sagar says, *”I came to Sydney from Kathmandu, Nepal in July 2018 with my wife who was starting her Master’s degree in IT. I started looking for jobs online through portals like Seek, Indeed, LinkedIn, and such. I got a few interviews but it didn’t get much past that. We started going to tech meetups around the city to learn about the tech industry here, during which I got in touch with the Nepalese tech community. One of the people I met was Geshan who is working as a Lead Software Engineer at THE ICONIC. He introduced me to a project called ResPos that a handful of the Nepalese techies were contributing to at that time.”*
 
@@ -36,7 +36,7 @@ Monica Mendes Montanha, Junior Software Engineer at Domain
 
 ## Battling Job anxiety: 
 
-How do you look at failure and what do you say to yourself? It seems that your mindset plays a huge role in [keeping your mental health in check when the job search gets tedious. ](https://autechjobs.ml/blog/job-search-anxiety-tips/)
+How do you look at failure and what do you say to yourself? It seems that your mindset plays a huge role in [keeping your mental health in check when the job search gets tedious. ](https://autechjobs.com/blog/job-search-anxiety-tips/)
 
 On this subject, Sagar suggests, *“Get used to rejections. They are part of the process. Rejection does not always mean you have failed, oftentimes the companies are looking for something very specific which may not be the right thing for you. Do your research to find out if the company and its culture feel like a place you could fit into.”*
 
@@ -74,7 +74,7 @@ Monica at the right end of the picture with the MUSES JS CREW in Sydney.
 
 # &#xA;Giving back through side projects: &#xA;
 
-Turn it around and instead of looking for what you can get; look for people and places that need your help. This can be achieved through [side projects ](https://autechjobs.ml/blog/side-project-helps-to-land-tech-job-in-australia/)or other involvement with your tech community. You may never know what might turn into a sustainable work opportunity. Monica leads by example here. She has involved herself in many events and communities that have helped her grow as a professional. You can read more about her work [here.](https://monicamendesmontanha.github.io/)
+Turn it around and instead of looking for what you can get; look for people and places that need your help. This can be achieved through [side projects ](https://autechjobs.com/blog/side-project-helps-to-land-tech-job-in-australia/)or other involvement with your tech community. You may never know what might turn into a sustainable work opportunity. Monica leads by example here. She has involved herself in many events and communities that have helped her grow as a professional. You can read more about her work [here.](https://monicamendesmontanha.github.io/)
 
  As a solution to take such a step forward she says, 
 
@@ -86,7 +86,7 @@ Monica Mendes hosting the  ServerlessDays ANZ 2020.
 
 # Finding a tech job as an immigrant in Australia: &#xA;&#xA;
 
-Iryna shares her struggle of [searching for tech jobs as an immigrant ](https://autechjobs.ml/blog/find-tech-job-foreigner/)while having a language barrier and a child to take care of. 
+Iryna shares her struggle of [searching for tech jobs as an immigrant ](https://autechjobs.com/blog/find-tech-job-foreigner/)while having a language barrier and a child to take care of. 
 
 *“I have two degrees: finance and engineering. I used to work in an insurance company as an investigator and later shifted to IT in the same company. I feel like my experience as an IT professional made it a little easier for me to look for similar jobs in Australia. After I received a fiance visa, I left for Australia. At some time, I got pregnant and gave birth to my son there.*
 
@@ -104,7 +104,7 @@ Monica recollects her early days of looking for a tech job as a software enginee
 
 # Employee referrals:&#xA;&#xA;
 
-Applying to many jobs and waiting for them to respond may seem like a long time. As a more proactive approach, you can seek an [employee referral ](https://autechjobs.ml/blog/job-referrals-improve-chances/)that helps you gain the trust of an insider of the company you would like to work for. It is a game-changer because it almost doubly improves your chances of getting hired. 
+Applying to many jobs and waiting for them to respond may seem like a long time. As a more proactive approach, you can seek an [employee referral ](https://autechjobs.com/blog/job-referrals-improve-chances/)that helps you gain the trust of an insider of the company you would like to work for. It is a game-changer because it almost doubly improves your chances of getting hired. 
 Sagar reflects on how to look for an employee referral.*“Tech skills are definitely an important part of your core skill set but you also need to work on your soft skills. They will help you communicate better with people, contribute your ideas and relay your challenges even after you land a job. Connecting with people can also help you get referrals to the companies that you wish to work for.”*
 
 > At the time of writing this, I’ve been with Finder for 6 months now. The preparations were similar to the first job searches in Sydney. But this time I had more experience and a referral to help me fast track my application. - Sagar Ghimire, Software Engineer, Finder, AU
@@ -113,7 +113,7 @@ He further explores, *“I wanted to join a place that values learning, growth, 
 
 # &#xA;Upskilling :
 
-Enhancing your existing skillset in your relevant area of work can give you the leg up to [land your dream tech job sooner](https://autechjobs.ml/blog/tech-jobs-in-demand/). There are many ways you can build yourself to become a more skilled professional. 
+Enhancing your existing skillset in your relevant area of work can give you the leg up to [land your dream tech job sooner](https://autechjobs.com/blog/tech-jobs-in-demand/). There are many ways you can build yourself to become a more skilled professional. 
 
 For example, Sagar says, *“ One great opportunity to expand my portfolio and learn something new is to work along with people who helped me identify gaps in my knowledge as well as job applications.”*
 
@@ -123,9 +123,9 @@ Monica talks about involving in your respected work community through events and
 
 # Resume and interview tips: 
 
-Working on your tech resume, [preparing for interviews](https://autechjobs.ml/blog/prepare-for-virtual-interview/), [writing a good cover letter](https://autechjobs.ml/blog/cover-letter-for-software-engineers/) will be a part of the job search process once you start applying. Even in this stage, our software engineers share tips to get you through the thresholds by learning from their experience. 
+Working on your tech resume, [preparing for interviews](https://autechjobs.com/blog/prepare-for-virtual-interview/), [writing a good cover letter](https://autechjobs.com/blog/cover-letter-for-software-engineers/) will be a part of the job search process once you start applying. Even in this stage, our software engineers share tips to get you through the thresholds by learning from their experience. 
 
-Sagar believes in [refining resumes ](https://autechjobs.ml/blog/tips-to-refine-tech-resume/)and [getting feedback](https://autechjobs.ml/blog/job-application-follow-up/) from others in the industry. 
+Sagar believes in [refining resumes ](https://autechjobs.com/blog/tips-to-refine-tech-resume/)and [getting feedback](https://autechjobs.com/blog/job-application-follow-up/) from others in the industry. 
 
 He says, *“You can ask for interview feedback from companies where your application doesn’t move further. Not all of them may respond but some will give you a good idea of where you can improve. Also, it’s important to follow up on your application if you don’t hear back in a couple of days or weeks. It’s easy for your CV to get buried among all the applications coming into a company and sometimes following up can make a big difference.”*
 

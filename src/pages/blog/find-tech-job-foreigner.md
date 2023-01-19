@@ -30,7 +30,7 @@ According to [AlphaBeta’s report,](https://alphabeta.com/wp-content/uploads/20
 
 # Find out what tech roles are in demand:
 
-With the changing dynamic of work amidst the pandemic, many jobs were lost. The tech sector has had to facilitate new dynamics like working from home and has seen steady growth in job demand. So, few areas are ranking high to be the [top tech roles](https://autechjobs.ml/blog/tech-jobs-in-demand/) that will dominate in 2021 and the coming years. Some of them are:
+With the changing dynamic of work amidst the pandemic, many jobs were lost. The tech sector has had to facilitate new dynamics like working from home and has seen steady growth in job demand. So, few areas are ranking high to be the [top tech roles](https://autechjobs.com/blog/tech-jobs-in-demand/) that will dominate in 2021 and the coming years. Some of them are:
 
 ## Cybersecurity:
 
@@ -80,7 +80,7 @@ You can start applying for jobs directly from the company website, through socia
 
 One tip that could be handy is if you learn to keep track of your job applications, your updates, and other company information by recording it in a single document or excel sheet. It helps you to stay organized while keeping the throttle on for your job hunt.
 
-At [autechjobs](autechjobs.ml) we provide a hassle-free job search experience if you are looking for tech jobs in Australia. If you are an immigrant, we understand what a toll it takes to go through the job search process. Job search anxiety can be real and grueling, especially if you are also trying to make it on your own or manage family and life in a different country.
+At [autechjobs](autechjobs.com) we provide a hassle-free job search experience if you are looking for tech jobs in Australia. If you are an immigrant, we understand what a toll it takes to go through the job search process. Job search anxiety can be real and grueling, especially if you are also trying to make it on your own or manage family and life in a different country.
 
 So to make the process easier, we at autechjobs offer features where you can find job descriptions summarized to save time. You can save your favorite jobs easily and apply for them later. You can also pick jobs based on companies are currently sponsoring work visas for a particular position.
 
@@ -92,11 +92,11 @@ Referrals are a big deal and for good reason. As a referred candidate you drasti
 
 You can use social media connections using sites like LinkedIn to search for a connection. It could be an Alumni or someone from your network of friends and family that could help you get  a referral in the company you are interested in.
 
-To learn more about how you can get a referral, Check out this article on [how employee referrals can improve your chances of getting a job.](https://autechjobs.ml/blog/job-referrals-improve-chances/)
+To learn more about how you can get a referral, Check out this article on [how employee referrals can improve your chances of getting a job.](https://autechjobs.com/blog/job-referrals-improve-chances/)
 
 ## Resume:
 
-Once you have started with the job application process, it helps if you[ pay attention in your resume](https://autechjobs.ml/blog/tips-to-refine-tech-resume/) to  ensure that:
+Once you have started with the job application process, it helps if you[ pay attention in your resume](https://autechjobs.com/blog/tips-to-refine-tech-resume/) to  ensure that:
 
 1.  Your resume reflects the best of your experience, relevant to the job you are applying.
 2.  Your resume is written in flawless English with no grammatical errors.
@@ -108,7 +108,7 @@ Once you have started with the job application process, it helps if you[ pay att
 
 ## Cover Letter:
 
-Depending on the type of tech company you apply in, you might be asked to include a cover letter. A few things to consider while [writing an impactful cover letter](https://autechjobs.ml/blog/cover-letter-for-software-engineers/) are:
+Depending on the type of tech company you apply in, you might be asked to include a cover letter. A few things to consider while [writing an impactful cover letter](https://autechjobs.com/blog/cover-letter-for-software-engineers/) are:
 
 1.  An easy to read cover letter is always pleasant and effective.
 2.  A cover letter should highlight your strengths, abilities in some way.
@@ -137,4 +137,4 @@ One great way to acclimatize and learn about the ways of a new country is to lea
 Whether it’s making the most of the coastline or their love for outdoor adventures, familiarize and make yourself aware so that you are no stranger to the ways of life,in  [the Aussie style](https://cutt.ly/thRccwL). If you want to make Australia your new home, it would help you open up new possibilities and experience if you learn their perspective of life.
 
 Once you begin to start with these initial steps, you should be able to get the ball rolling for your job search. It can be a long process and a daunting one too. But patience and timely actions can help you make this process hassle free.
-To begin your search for tech jobs in australia visit [autechjobs.ml](autechjobs.ml)
+To begin your search for tech jobs in australia visit [autechjobs.com](autechjobs.com)

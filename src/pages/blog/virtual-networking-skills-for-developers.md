@@ -26,9 +26,9 @@ Hitting send on the website job application page doesn’t cut it anymore. Your 
 
 ## Connect with your existing network:
 
-More often than not, it’s great to start looking for people within your own connections of friends, family, and colleagues who could potentially boost your career growth. Many people may also hesitate to reach out to a stranger directly but are looking for jobs while fighting [job search anxiety](https://autechjobs.ml/blog/job-search-anxiety-tips/). So for those people, No place better to start than from home. 
+More often than not, it’s great to start looking for people within your own connections of friends, family, and colleagues who could potentially boost your career growth. Many people may also hesitate to reach out to a stranger directly but are looking for jobs while fighting [job search anxiety](https://autechjobs.com/blog/job-search-anxiety-tips/). So for those people, No place better to start than from home. 
 
-You can use your close connections as an intermediary who could help introduce you to someone that may be able to[ refer you for a job](https://autechjobs.ml/blog/job-referrals-improve-chances/). This usually happens when you go to conferences and meet-ups in person, but since we are networking during the pandemic, an e- meet or video chat could be an alternative. This is beneficial for both parties because it brings an element of familiarity for your initial meeting and it’s easier for people to talk to someone they feel like they could trust rather than a complete stranger. 
+You can use your close connections as an intermediary who could help introduce you to someone that may be able to[ refer you for a job](https://autechjobs.com/blog/job-referrals-improve-chances/). This usually happens when you go to conferences and meet-ups in person, but since we are networking during the pandemic, an e- meet or video chat could be an alternative. This is beneficial for both parties because it brings an element of familiarity for your initial meeting and it’s easier for people to talk to someone they feel like they could trust rather than a complete stranger. 
 
 Get back in touch with colleagues that you haven’t connected with for a long time. Collaborate with your circle of developers, designers, product people, QA people, and software engineers on their projects. Ask them how they are doing and if there is anything that you could help with. They may also be able to share details about new events that are happening, challenges you can participate in, or maybe internal hirings that haven’t gone out yet. 
 
@@ -44,13 +44,13 @@ Finding yourself the right tech community to network with during social distanci
 
 ## Recruiters
 
-Since career fairs are out of the question while we are social distancing, you can email a hiring manager, a department at your dream tech company, or an external recruiter with an intent to explore career opportunities that may now be available at their company along with a [compelling cover letter](https://autechjobs.ml/blog/cover-letter-for-software-engineers/) attached to your[ resume](https://autechjobs.ml/blog/tips-to-refine-tech-resume/). You need not be ashamed of networking through cold calls as long as you keep the conversation professional and you respect their time.
+Since career fairs are out of the question while we are social distancing, you can email a hiring manager, a department at your dream tech company, or an external recruiter with an intent to explore career opportunities that may now be available at their company along with a [compelling cover letter](https://autechjobs.com/blog/cover-letter-for-software-engineers/) attached to your[ resume](https://autechjobs.com/blog/tips-to-refine-tech-resume/). You need not be ashamed of networking through cold calls as long as you keep the conversation professional and you respect their time.
 
 # 2. Knowing how to connect with them 
 
 ## Volunteer projects: 
 
-One great way to network with other engineers is to volunteer for a personal project or other [ongoing side projects](https://autechjobs.ml/blog/side-project-helps-to-land-tech-job-in-australia/) that you may be interested in. Maybe you are contributing to GitHub or stack overflow, or you have a portfolio ready at behance. Keep working on yourself consisitently.
+One great way to network with other engineers is to volunteer for a personal project or other [ongoing side projects](https://autechjobs.com/blog/side-project-helps-to-land-tech-job-in-australia/) that you may be interested in. Maybe you are contributing to GitHub or stack overflow, or you have a portfolio ready at behance. Keep working on yourself consisitently.
 
 Your volunteering experience will not only be essential to help you work in a team but also may give you a chance to build meaningful relationships over the course of your work. With a good rapport and support, your networking skills should land you long-lasting relationships with your team. 
 

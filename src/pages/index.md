@@ -21,7 +21,7 @@ sections:
       Get sorted now!
     actions:
       - label: Sign Up
-        url: 'https://app.autechjobs.ml'
+        url: 'https://app.autechjobs.com'
         primary: true
   - section_id: features
     type: section_features
