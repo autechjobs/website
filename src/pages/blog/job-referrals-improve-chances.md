@@ -64,5 +64,5 @@ More often than not, you will find that connections can be built through your ow
 Once connected with the right people, you can strengthen and greatly increase your chances of interview or being hired by getting a referral.
 
 One great way to start is by tracking down a list of companies that you might be interested to apply for. At AU Tech Jobs, we provide a list of companies that are currently hiring for tech jobs in Australia. One of our prominent features is that you can conduct a  search for visa sponsoring companies and save the jobs that you would like to apply for.
-This will help you get a better idea of networks you would like to connect with depending on the organization you may be interested in. To find out more about tech jobs in Australia visit [autechjobs.ml](https://autechjobs.ml/)
+This will help you get a better idea of networks you would like to connect with depending on the organization you may be interested in. To find out more about tech jobs in Australia visit [autechjobs.com](https://autechjobs.com/)
 

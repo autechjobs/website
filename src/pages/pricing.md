@@ -15,7 +15,7 @@ sections:
           * Search jobs based on specific keywords
         actions:
           - label: Subscribe Now
-            url: 'https://app.autechjobs.ml'
+            url: 'https://app.autechjobs.com'
         highlight: false
       - title: Gold
         price: TBD
@@ -26,7 +26,7 @@ sections:
         highlight: true
         actions:
           - label: Subscribe Now
-            url: 'https://app.autechjobs.ml'
+            url: 'https://app.autechjobs.com'
   - section_id: faq
     type: section_faq
     background: gray

@@ -25,17 +25,17 @@ They talk about challenges in job search, what they learned working at ATJ, and 
 
 Ajeet has been into creating his own pet projects since he was in high school. Reflecting upon his childhood days, he shares, “ Born and brought up in Kathmandu, Nepal as a 90’s kid I had limited access to mobile phones or computers. However, I created a simple toy snake game using Action Script in Adobe Flash that received a lot of support and recognition from my loved ones. It might have been a pivotal moment in life that set my direction towards a career in the tech industry.” 
 
-![](https://autechjobs.ml/images/ajeet.jpg)
+![](https://autechjobs.com/images/ajeet.jpg)
 
 ### Initial challenges faced during the job search process:  
 
 Just out of college in Australia, with a master’s degree from the Swinburne University of Technology, Ajeet found himself in an array of job hunting queues only to be rejected after the initial interview. 
 
-He further exclaims, “Based on the skills mentioned in the job description, I would select multiple jobs to apply for that matched my own skillset. **But I rarely heard back**. I would [follow up on my job applications](https://autechjobs.ml/blog/job-application-follow-up/), but I was mostly being rejected. It was then that I decided to hit pause on the job hunt and find out why I wasn’t getting hired” 
+He further exclaims, “Based on the skills mentioned in the job description, I would select multiple jobs to apply for that matched my own skillset. **But I rarely heard back**. I would [follow up on my job applications](https://autechjobs.com/blog/job-application-follow-up/), but I was mostly being rejected. It was then that I decided to hit pause on the job hunt and find out why I wasn’t getting hired” 
 
 ### How AUtechjobs(ATJ) happened to him: 
 
-In the process of working on his skills and [networking with other tech professionals](https://autechjobs.ml/blog/virtual-networking-skills-for-developers/), Ajeet connected with the project lead (another volunteer ) at ATJ through which he joined the team. “After an engaging and fruitful conversation, I was sold on the idea of contributing to ATJ as a frontend engineer", he recalls.
+In the process of working on his skills and [networking with other tech professionals](https://autechjobs.com/blog/virtual-networking-skills-for-developers/), Ajeet connected with the project lead (another volunteer ) at ATJ through which he joined the team. “After an engaging and fruitful conversation, I was sold on the idea of contributing to ATJ as a frontend engineer", he recalls.
 
 ### The learning process: 
 
@@ -69,11 +69,11 @@ For recent graduates like him, side projects are a great way to get hands-on exp
 
 Suvash grew up in Nepal and went to Prime College in Kathmandu. With a vision to get more out of life, he headed towards Australia to complete his higher education, to experience an international culture, and to explore new ways of thinking. Here, he graduated with a master’s degree from CQ Australia in 2018 and started looking for work opportunities. 
 
-![](https://autechjobs.ml/images/suvash.jpg)
+![](https://autechjobs.com/images/suvash.jpg)
 
 ### Initial challenges during job search : 
 
-Suvash was on a two-year PSW (Post-study-work)visa while in Australia. He found out that most companies that he looked for were either hiring Australian citizens or Australian permanent residents only; it was challenging to search for [Australian companies that would hire a foreigner](https://autechjobs.ml/blog/find-tech-job-foreigner/) like himself.  This unsaid rule seemed to add an extra challenge to the already competitive tech job market. 
+Suvash was on a two-year PSW (Post-study-work)visa while in Australia. He found out that most companies that he looked for were either hiring Australian citizens or Australian permanent residents only; it was challenging to search for [Australian companies that would hire a foreigner](https://autechjobs.com/blog/find-tech-job-foreigner/) like himself.  This unsaid rule seemed to add an extra challenge to the already competitive tech job market. 
 
 Apart from visa issues, he found that lack of work experience became a challenge. ”I have good grades but academic excellence alone wasn't a good measure of a solid resume.” he laments.
 
@@ -81,7 +81,7 @@ Apart from visa issues, he found that lack of work experience became a challenge
 
 He realized that he needed coding experiences that could stem initially from pet projects, or from courses on platforms like Udemy, or a blog. “ So, I started learning React JS from Udemy,” he says. 
 
-![](https://autechjobs.ml/images/suvash1.jpg)
+![](https://autechjobs.com/images/suvash1.jpg)
 
 ### How AUtechjobs(ATJ) happened to him:
 
@@ -115,7 +115,7 @@ Through his job searching experience, one piece of advice he would like to give 
 
 Growing up in Kathmandu, Nepal from humble beginnings, Arpan recalls not being particularly good at anything and being an introvert. “I went to a government school in my early years and later joined boarding school. Somewhere between grade 8 and grade 10, I figured that I wanted to be a “professional programmer" whatever that meant to me at that time. That is one reason why I believe I’m very lucky (to know early in my life what I wanted to do). From then on, this goal was always at the back of my mind and has guided every major decision until now.”
 
-![](https://autechjobs.ml/images/arpan.jpg)
+![](https://autechjobs.com/images/arpan.jpg)
 
 ### Initial challenges during the job search process:  
 
@@ -131,7 +131,7 @@ Some challenges I faced: 
 
 ### How AUtechjobs(ATJ) happened to him
 
-Arpan began approaching professionals to review his resume and stumbled upon ATJ by accident. He had approached one of the team members contributing to ATJ to [review his resume](https://autechjobs.ml/blog/tips-to-refine-tech-resume/).  “I’d read his blog posts many times floating around LinkedIn. I had no doubt about his knowledge of the industry and that he was someone that a wannabe developer like me could hope to be. When I was approached with a project like ATJ, I said yes straight away because I knew this was an opportunity for rapid growth” he remembers.
+Arpan began approaching professionals to review his resume and stumbled upon ATJ by accident. He had approached one of the team members contributing to ATJ to [review his resume](https://autechjobs.com/blog/tips-to-refine-tech-resume/).  “I’d read his blog posts many times floating around LinkedIn. I had no doubt about his knowledge of the industry and that he was someone that a wannabe developer like me could hope to be. When I was approached with a project like ATJ, I said yes straight away because I knew this was an opportunity for rapid growth” he remembers.
 
 ### Landing a job as a Junior Fullstack developer
 

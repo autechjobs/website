@@ -26,7 +26,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "https://auth.autechjobs.ml/login",
+                "url": "https://auth.autechjobs.com/login",
                 "primary": true
             }
         ]
@@ -43,7 +43,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "https://auth.autechjobs.ml/login"
+                "url": "https://auth.autechjobs.com/login"
             },
             {
                 "label": "Blog",
@@ -87,7 +87,7 @@
         "links": [
             {
                 "label": "Go to App",
-                "url": "https://auth.autechjobs.ml",
+                "url": "https://auth.autechjobs.com",
                 "new_window": true
             }
         ]

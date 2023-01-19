@@ -47,5 +47,5 @@ Technologies change rapidly as the dynamics of how we work, how organizations fu
 
 
 
-Currently, at AUtechjobs, there are 400 plus jobs in the above three tech departments. The numbers are growing every day. We aim to make your job search very simple and liberating with unique features like summarised JDs, list of visa sponsoring companies to name a few. To view job vacancies join us at [autechjobs](https://autechjobs.ml/) now.
+Currently, at AUtechjobs, there are 400 plus jobs in the above three tech departments. The numbers are growing every day. We aim to make your job search very simple and liberating with unique features like summarised JDs, list of visa sponsoring companies to name a few. To view job vacancies join us at [autechjobs](https://autechjobs.com/) now.
 
